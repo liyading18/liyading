@@ -18,6 +18,7 @@
 1.  xxxx
 2.  xxxx
 3.  xxxx
+4.  npm run deploy  自动发布部署github的博客
 
 #### 参与贡献
 
