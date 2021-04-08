@@ -17,8 +17,8 @@
 
 1.  xxxx
 2.  xxxx
-3.  xxxx
-4.  npm run deploy  自动发布部署github的博客
+3.  npm run syncgit || yarn syncgit  同时提交gitee 和 github(博客仓库2)  
+4.  npm run deploy || yarn deploy  自动发布部署github的博客
 
 #### 参与贡献
 
