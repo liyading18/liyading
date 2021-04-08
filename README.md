@@ -14,11 +14,18 @@
 3.  xxxx
 
 #### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  npm run syncgit || yarn syncgit  同时提交gitee 和 github(博客仓库2)  
-4.  npm run deploy || yarn deploy  自动发布部署github的博客
+- 推送部署到 gitee
+1. npm run build 或 yarn build  为了产生dist目录，部署博客指定了dist目录
+2. git add .
+3. git commit -m "xxx"
+4. git push 
+- 推送部署到 github
+因为github，存在两个仓库： 仓库①是为了部署博客；仓库②是为了自己编写备份博客
+1. npm run deploy 或 yarn deploy  直接部署博客仓库①
+以下操作是为了备份自己编写的博客：
+1. git add .
+2. git commit -m ""
+3. git push 
 
 #### 参与贡献
 
