@@ -5,8 +5,7 @@ export default defineConfig({
     title: 'liyading的博客',
     description: '从工作到生活，这里都有',
     lang: 'zh-CN',
-    base: '/',
-    // base: '/liyading/',
+    base: '/liyading/',
     head: [
         // 添加图标
         ['link', { rel: 'icon', href: '/logoD.png' }]
