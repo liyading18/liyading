@@ -1,19 +1,24 @@
+
 {
-  "name": "liyading",
+  "name": "liyading-blogss",
   "version": "1.0.0",
+  "description": "gn",
   "main": "index.js",
-  "repository": "git@gitee.com:liyading/liyading.git",
-  "author": "liyading <lee568178364@163.com>",
-  "license": "MIT",
-  "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "deploy": "bash deploy.sh"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.32"
   },
   "devDependencies": {
-    "vuepress": "^1.8.2"
+    "sass": "^1.57.0"
   },
-  "dependencies": {
-    "vuepress-theme-reco": "^1.6.6"
+  "scripts": {
+    "dev": "vitepress dev docs --host",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs --host"
+  },
+  "directories": {
+    "doc": "docs"
   }
 }
