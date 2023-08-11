@@ -13,7 +13,7 @@ export const sidebar = {
     // ],
     '/blogs/study': [
         {
-            text: '百尺竿头',
+            text: '先利其器',
             collapsible: true,
             items: [
                 {text: '可能不知道的实用网站', link: '/blogs/study/index'}

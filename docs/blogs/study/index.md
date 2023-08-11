@@ -26,3 +26,11 @@ Storyset是一个强大的平台，为你的下一个项目提供了一系列令
 ### 5. 工具123
 地址：[http://www.gjw123.com/](http://www.gjw123.com/)
 ![avatar](../../image//blogs/study/gj123.png)
+
+### 6. 在线格式转换
+地址：[https://www.alltoall.net/](https://www.alltoall.net/)
+![avatar](../../image//blogs/study/pdfExchange.png)
+
+### 7. GUgeApps
+地址[https://www.gugeapps.net/webstore/category/ext/11-web-development](https://www.gugeapps.net/webstore/category/ext/11-web-development)
+![avatar](../../image/blogs/study/gugeApps.png)
