@@ -10,6 +10,12 @@ export const nav = [
         link: '/front/'
     },
     {
+        text: '其他',
+        items: [
+            { text: '行测', link: '/blogs/gongKao/index' },
+        ]
+    },
+    {
         text: '友情链接',
         items: [
             { text: 'CSDN', link: 'https://blog.csdn.net/GISShiXiSheng' },

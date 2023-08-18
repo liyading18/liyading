@@ -1,16 +1,4 @@
 export const sidebar = {
-    // '/blogs/': [
-    //     {
-    //         text: '目录',
-    //         collapsible: true,
-    //         items: [
-    //             {text: '概述', link: '/blogs/'},
-    //             {text: 'WebGIS基础', link: '/blogs/basic'},
-    //             {text: '项目实战', link: '/blogs/project'},
-    //             {text: '高级进阶', link: '/blogs/more'},
-    //         ]
-    //     }
-    // ],
     '/blogs/study': [
         {
             text: '利其器',

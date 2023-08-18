@@ -64,5 +64,9 @@ export default defineConfig({
             message: '',
             copyright: 'Copyright © 2023 LIYADING'
         }
+    },
+    markdown: {
+        // 代码块显示行号
+        lineNumbers: true
     }
 })
