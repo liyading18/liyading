@@ -9,15 +9,12 @@ export const sidebar = {
             ]
         }
     ],
-    '/front/': [
+    '/blogs/front/': [
         {
             text: '前端',
             collapsible: true,
             items: [
-                {text: '测试', link: '/front/'},
-                {text: '测试基础', link: '/front/basic'},
-                {text: '项目实战', link: '/front/project'},
-                {text: '高级进阶', link: '/front/more'},
+                { text: '小程序', link: '/blogs/front/smallProgram' }
             ]
         }
     ]

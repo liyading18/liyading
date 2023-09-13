@@ -7,7 +7,9 @@ export const nav = [
     },
     {
         text: '基础知识',
-        link: '/front/'
+        items: [
+            { text: '前端', link: '/blogs/front/smallProgram' }
+        ]
     },
     {
         text: '其他',

@@ -47,5 +47,5 @@
 <page-view :url="'../www/map.html'" />
 
 <script setup>
-import PageView from '../components/PageView.vue'
+import PageView from '../../components/PageView.vue'
 </script>
