@@ -14,7 +14,8 @@ export const nav = [
     {
         text: '其他',
         items: [
-            { text: '行测', link: '/blogs/gongKao/index' },
+            { text: '公考', link: '/blogs/gongKao/index' },
+            { text: '玄学', link: '/blogs/other/bzCompter' }
         ]
     },
     {

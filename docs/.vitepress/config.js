@@ -68,5 +68,11 @@ export default defineConfig({
     markdown: {
         // 代码块显示行号
         lineNumbers: true
-    }
+    },
+    // 不会因死链接而导致构建失败
+    ignoreDeadLinks: true,
 })
+
+// 不限制监听数量
+process.setMaxListeners(0)
+

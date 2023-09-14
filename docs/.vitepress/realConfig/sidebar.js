@@ -17,5 +17,28 @@ export const sidebar = {
                 { text: '小程序', link: '/blogs/front/smallProgram' }
             ]
         }
+    ],
+    '/blogs/gongKao': [
+        {
+            text: '公考',
+            collapsible: true,
+            items: [
+                { text: '行测', link: '/blogs/gongKao/index' }
+            ]
+        }
+    ],
+    '/blogs/other': [
+        {
+            text: '其他',
+            collapsible: true,
+            items: [
+                {
+                    text: '玄学',
+                    items: [
+                        { text: '八字推算', link: '/blogs/other/bzCompter' }
+                    ]
+                }
+            ]
+        }
     ]
 }
