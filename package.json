@@ -10,7 +10,8 @@
     "vitepress": "^1.0.0-alpha.32"
   },
   "devDependencies": {
-    "sass": "^1.57.0"
+    "sass": "^1.57.0",
+    "vite-plugin-require-transform": "^1.0.21"
   },
   "scripts": {
     "dev": "vitepress dev docs --host",

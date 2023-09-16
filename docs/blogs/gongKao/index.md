@@ -8,8 +8,9 @@
 :::
 
 ## 一、位置规律
-
 ### 1. 平移 
+
+<br />
 
 #### 1.1 平移的方向
 + <font color='red'><b>直线方向：</b></font> 上下平移、左右平移
@@ -18,5 +19,23 @@
 #### 1.2 平移的步长
 + <font color='red'><b>恒定</b></font>
 + <font color='red'><b>递增 或 递减</b></font>
+
+#### 思维小结：
+
+:::info <font color=blue>九宫格或十六宫格图形中</font>元素平移方向的判定方式如下：
+1. 如果平移元素只在<b><u>九宫格或十六宫格图形的</u><font color=red>最外圈出现</font></b>，优先考虑元素在最外圈<font color=red><b>按时针方向平移</b></font>
+2. 如果平移元素出现在<font color=red><b>非最外圈位置</b></font>，优先考虑<font color=red><b>直线方向平移</b></font>。
+3. 每幅图形<font color=red><b>按行</b></font><b>看黑块数量一致</b>，优先考虑<font color=red><b>左右平移</b></font>；<font color=green><b>按列</b></font><b>看黑块数量一致</b>，优先考虑<font color=red><b>上下平移</b></font>
+4. 在<b>平移题目</b>中，<b>“从头跑”</b>比较普遍，应优先考虑。
+5. 九宫格优先<font color=red><b>横着看</b></font>
+6. 九宫格考平移的时候，可以<b><u>从最简单的图入手</u></b>，然后可以<b><font color=red>首先看中间部分，采用“回字法”看规律</font>；如无规律，可再看直线平移</b>
+7. <b>16格分<font color=red>内外圈走法</font></b>
+8. <b><font color=red>空白</font></b>也可以作为平移的小元素
+<img src="../../image//blogs/study/gongKao/pykb.jpg" style="width: 300px;">
+
+:::
+
+
+
 
 ### 2. 旋转和翻转

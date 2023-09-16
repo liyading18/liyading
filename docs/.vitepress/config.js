@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress'
 import { sidebar, nav } from './realConfig'
+import requireTransform from 'vite-plugin-require-transform';
 
 export default defineConfig({
     title: 'liyading的博客',
@@ -71,6 +72,11 @@ export default defineConfig({
     },
     // 不会因死链接而导致构建失败
     ignoreDeadLinks: true,
+    plugins: [
+        requireTransform({
+          fileRegex: /.js$|.vue$/
+        }),
+      ],
 })
 
 // 不限制监听数量
