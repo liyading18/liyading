@@ -22,7 +22,7 @@
 
 #### 思维小结：
 
-:::info <font color=blue>九宫格或十六宫格图形中</font>元素平移方向的判定方式如下：
+:::tip <font color=blue>九宫格或十六宫格图形中</font>元素平移方向的判定方式如下：
 1. 如果平移元素只在<b><u>九宫格或十六宫格图形的</u><font color=red>最外圈出现</font></b>，优先考虑元素在最外圈<font color=red><b>按时针方向平移</b></font>
 2. 如果平移元素出现在<font color=red><b>非最外圈位置</b></font>，优先考虑<font color=red><b>直线方向平移</b></font>
 3. 每幅图形<font color=red><b>按行</b></font><b>看黑块数量一致</b>，优先考虑<font color=red><b>左右平移</b></font>；<font color=green><b>按列</b></font><b>看黑块数量一致</b>，优先考虑<font color=red><b>上下平移</b></font>
@@ -31,7 +31,7 @@
 6. 九宫格考平移的时候，可以<b><u>从最简单的图入手</u></b>，然后可以<b><font color=red>首先看中间部分，采用“回字法”看规律</font>；如无规律，可再看直线平移</b>
 7. <b>16格分<font color=red>内外圈走法</font></b>
 8. <b><font color=red>空白</font></b>也可以作为平移的小元素
-<img src="../../image//blogs/study/gongKao/pykb.jpg" style="width: 300px;">
+<img src="../../image//blogs/study/gongKao/pykb.jpg" style="width: 300px;" />
 
 :::
 
@@ -49,25 +49,237 @@
 + <b>九宫格<font color=red>中间为空白面</font>，考虑<font color=red>米字线路</font>，对称翻转</b>
 + <b>当<font color=red>小元素较多时</font>，可以<font color=red>连成一个圆时</font>，可以考虑<font color=red>时针法</font></b>
 
-<details>
-    <summary>
-        <font color='blue'>中间为空白面，米字线路:</font>
-    </summary>
-    <img src="../../image//blogs/study/gongKao/mizi.png" style="width: 350px;">
-</details>
+::: details <Badge type="danger" text="案例分析" /> &nbsp; 中间为空白面，米字线路
+<img src="../../image//blogs/study/gongKao/mizi.png" style="width: 350px;" />
 
-<details>
-    <summary>
-        <font color='blue'>小元素较多，连成一个圆时:</font>
-    </summary>
-    <img src="../../image//blogs/study/gongKao/smallCircle.png" style="width: 450px;">
-</details>
+:::
 
-<details>
-    <summary>
-        <b>两组图 或 九宫格，考旋转或翻转: <font color='red'>看对称</font></b>（<font color='red'>如下：</font>第三个图 和 第二个图对称）
-    </summary>
-    <img src="../../image//blogs/study/gongKao/jggDc01.png" style="width: 550px;">
-</details>
+::: details <Badge type="danger" text="案例分析" /> &nbsp; 小元素较多，连成一个圆时
+<img src="../../image//blogs/study/gongKao/smallCircle.png" style="width: 450px;" />
+
+:::
+
+::: details <Badge type="danger" text="案例分析" /> &nbsp; 两组图或九宫格，考旋转或翻转: <font color='red'>看对称</font>
+<font color='red'>如下：</font>第三个图 和 第二个图对称
+<img src="../../image//blogs/study/gongKao/jggDc01.png" style="width: 550px;" />
+
+:::
 
 ## 二、样式规律
+
+### 1. 加减同异
++ <b><font color=red>相加：</font></b>将两图形中所有的元素（或线条）<b>拼合成一幅新图形</b>，重要的位置保留1次
++ <b><font color=red>相减：</font></b>当一幅图中的元素（或线条）完全包含第二幅图的元素（或线条）时，<b>两幅图相减的结果</b>，就是第一幅图减去第二幅图所有元素（或线条）之后的图形
++ <b><font color=red>求同：</font></b>将两图形中所有不同的元素（或线条）去掉，<b>只留下相同的部分</b>，形成一幅新图形
++ <b><font color=red>求异：</font></b>将两图形中所有不同的元素（或线条）去掉，<b>只留下不同的部分</b>，形成一幅新图形
+
+::: details <Badge type="danger" text="案例分析" /> &nbsp; <b>当图形特征中: <font color='red'>线条重复出现</font>—— 加减同异</b>
+<img src="../../image//blogs/study/gongKao/jjty.png" style="width: 600px;" />
+
+:::
+
+### 2. 遍历
++ <b>元素数量遍历</b>
++ <b>元素位置遍历</b>
+
+### 3. 黑白运算
+<b>黑白运算的题目，一般需要根据已知图形列出4个计算公式：</b>
++ 黑 + 黑 = ？
++ 黑 + 白 = ？
++ 白 + 白 = ？
++ 白 + 黑 = ？
+
+#### 思维小结
+:::tip 图形间<font color=red>轮廓相同</font>但<font color=red>内在颜色</font>或<font color=red>图案</font>不同：
+1. <b>各图<font color=blue>黑块数量相同</font>，优先考虑<font color=red>位置规律</font></b>
+2. <b>各图<font color=blue>黑块数量不同</font>，优先考虑<font color=red>黑白运算</font></b>
+
+:::
+
+:::tip 黑白块<font color=red>形状、大小一样</font>
++ <b><font color=blue>黑块数量较少</font></b>
+    1. <b>黑块数量基本相同 —— 位置（<font color=red>平移考查较多</font>）（<font color=red>小于等于6</font>）</b>
+    2. <b>黑块数量不同 —— <font color=red>黑白运算</font></b>
++ <b><font color=blue>黑块数量不同且不能黑白运算 或 黑块较多</font></b>
+    1. <b><font color=red>对称性（黑白分开）</font></b>
+    <img src="../../image//blogs/study/gongKao/hbdc.png" style="width: 350px;" />
+    2. <b>黑/白块<font color=blue>边边相连</font>——<font color=red>一笔画</font></b>
+    <img src="../../image//blogs/study/gongKao/hbbh.png" style="width: 350px;">
+    3. <b>黑/白块<font color=blue>分堆</font>——<font color=red>部分数</font></b>
+    <img src="../../image//blogs/study/gongKao/hbfd.png" style="width: 600px;" />
+
+:::
+
+:::tip 黑白块<font color=red>形状、大小不一样</font>
+<img src="../../image//blogs/study/gongKao/hbys01.png" style="width: 350px;" />
+
+:::
+
+:::tip 有些复杂的图形，需要利用<font color=red>求同存异和位置转化结合</font>起来联考
++ <b><font color=blue>有时候会考虑<font color=purple>先旋转再求同存异，还是先求同存异再旋转</font>。总结规律如下：</font></b>
+    1. <b>前两幅图有<font color=blue>明显一样的线条，</font><font color=red>可优先运算</font></b>
+    2. <b>前两幅图<font color=blue>没有明显一样的线条，</font><font color=red>可优先位置，谁搞特殊先转谁</font></b>
+
+:::
+
+::: details <Badge type="danger" text="案例分析" /> &nbsp; <b>复杂图形: <font color='red'>求同存异和位置转化结合</font></b>
+<img src="../../image//blogs/study/gongKao/fztx01.png" style="width: 400px;" />
+<font color=blue>解题思路：</font><br />
+1. 前两幅图中明显有平行四边形，求异，然后进行顺/逆时针旋转90度得到图三<br />
+2. 前两幅图没有明显一样的线条。因图2和图3都有明显的斜线，所以要动图1，将图1旋转90度，然后求异
+
+:::
+
+## 三、属性规律
+
+### 1. 对称性
+<br />
+
+#### 1.1 对称的类型
++ <b><font color=red>轴对称图形</font>：A、B、Y、▲ 等</b>
++ <b><font color=red>中心对称图形</font>：S、Z、N、▰ 等</b>
++ <b><font color=red>既轴对称又中心对称图形</font>：H、O 等</b>
+
+<b>一个图中<font color=blue>存在互相垂直的两条对称轴</font>，这个图形<font color=red>既是轴对称又是中心对称</font></b>
+
+#### 1.2 对称轴的方向和数量
+
++ <b>考查<u style="color: blue">对称轴数量</u>的题目特征：<font color=red>等边三角形、三足鼎立</font></b><br />
++ <b style="color:red">一组对称，一组不对称，不算规律</b>
++ <b>最“火”对称考法 —— <font color=red>对称轴经过点、线、面</font></b>
++ <b>2-3个面挨在一起，<font color=red>分开看对称轴关系</font></b>
+
+::: details <Badge type="danger" text="案例分析" /> &nbsp; <b>对称轴数量：<font color='red'>等边三角形、三足鼎立</font></b>
+<img src="../../image//blogs/study/gongKao/shux01.png" style="width: 550px;" />
+
+:::
+
+::: details <Badge type="danger" text="案例分析" /> &nbsp; <b>最“火”对称考法：<font color='red'>对称轴经过点、线、面</font></b>
+<img src="../../image//blogs/study/gongKao/shux02.png" style="width: 550px;" />
+
+:::
+
+::: details <Badge type="danger" text="案例分析" /> &nbsp; <b>2-3个面挨在一起，<font color='red'>分开看对称轴关系</font></b>
+<img src="../../image//blogs/study/gongKao/shux03.png" style="width: 380px;" />
+<img src="../../image//blogs/study/gongKao/shux04.png" style="width: 450px;" />
+
+:::
+
+### 2. 曲直性
++ <b><font color=red>曲</font>：图形只由曲线构成</b>
++ <b><font color=red>直</font>：图形只由直线构成</b>
++ <b><font color=red>曲+直</font>：图形由曲线和直线共同构成</b>
+
+### 3. 开闭性
++ <b><font color=red>开放图形</font>：图形<font color=blue>不包括任何封闭空间</font>，即没有“窟窿”，如字母 C</b>
++ <b><font color=red>封闭图形</font>：图形<font color=blue>包含封闭空间</font>，即有“窟窿”，如字母 D</b>
++ <b><font color=red>半开半闭图形</font>：图形<font color=blue>既包含封闭空间又包含开放区域</font>，如字母 A</b>
+
+### 思维小结
+
+::: tip 属性规律总结
++ 属性类识别特征：<b style="color:red">元素组成不相同、不相似</b><br />
++ 对称性：<br />
+    1. <b><font color=red>"等腰元素"：</font><font color=blue>优先轴对称</font></b>
+    2. <b><font color=red>平行四边形、S、N、Z变形图，相同图形反着放：</font><font color=blue>优中心对称</font></b>
+    3. <b><font color=red>有互相垂直的两条对称轴：</font><font color=blue>轴 + 中心对称</font></b><br />
+    <b><font color=purple>识别题型 → 画出对称轴 → 考虑数量、方向 → 与点、线、面的关系</font></b>
++ 曲直性：<b><font color=red>全曲、全直、曲+直</font></b>
++ 开闭性：<b><font color=red>全开、全闭、半开半闭</font></b>
+
+:::
+
+## 四、数量规律：<font color=blue>点、线（笔画）、面、素、角</font>
+<Badge type="danger" text="题型识别" /> &nbsp; <b>图形元素组成不同，且无明显属性规律</b>
+
+### 1. 点
++ 什么是点？<br />
+    <b>线与线的交点</b>
++ 点数量特征图：<br />
+    <b>线条交叉明显（一般有笔画特征）</b>
++ 点数量细化考法：<br />
+    <b>切点、曲直交点（当出现圆和直线相交的时候）</b>
+<br />
+
+:::warning
+<b>只考虑线条相交得到的点（<font color=red>即交点</font>），不考虑端点，交点中有一类特殊的点（<font color=red>切点</font>）</b>
+
+:::
+
+### 2. 线
+<b>数直线、曲线、笔画数</b>
+#### 2.1 直线/曲线
+
++ 当图形中出现<b><font color=red>多边形或单独的一条直线时，优先考虑数直线</font></b>
++ 当图形中出现<b><font color=red>较多曲线时，优先考虑数曲线</font></b>
++ 当直线或曲线数量不成规律的时候，不妨试试把<b><font color=red>直线数和曲线数做运算</font></b>
+
+::: details <Badge type="danger" text="案例分析" />
+<img src="../../image//blogs/study/gongKao/shuliang01.png" style="width: 380px;" />
+
+:::
+
+#### 2.2 数笔画
+
++ <b><font color=red>连通图：</font></b>如果图形中<b>任意两点都是连通的</b>，那么该图形被称为连通图<br />
++ <b><font color=red>奇点：</font></b>若以<b>一个点为起点，延伸出的线条数为奇数</b>，则该点为奇点（<b><font color=red>奇点包括端点</font></b>）<br />
++ <b><font color=red>奇点为0的</font></b>连通图<b><font color=red>可一笔画画成</font></b><br />
++ <b><font color=red>偶点：</font></b>若以<b>一个点为起点，延伸出的线条数为偶数</b>，则该点为偶点<br />
++ <b><font color=red>连通图的笔画数</font> = </b><b><font color=red>奇点数 ÷ 2</font></b><br />
+
+#### 知识小结
+
+::: tip 笔画规律
+<font color=blue>常考笔画规律的特征图形：(<b>可优先考虑笔画数</b>)</font>
++ <b><font color=red>五角星、月亮、“日”、“田”的变形图形</font></b>
++ <b><font color=red>与圆有关的相交和相切图形、多端点图形</font></b>
+    <img src="../../image//blogs/study/gongKao/bihua01.png" style="width: 380px;" />
+    
+:::
+
+### 3. 面
+
+<b>面：</b>也称封闭空间、封闭区域，或者更形象地说就是“窟窿”<br />
+
+#### <font color=gray>什么时候数面？</font>
+
+
++ <font color=blue><b>“窟窿”居多，优先数“面”</b></font><br />
++ <font color=blue><b>图形被分割、封闭面明显</b></font><br />
++ <font color=blue><b>生活化图形、粗线条图形</b></font><br />
++ <font color=blue><b>圆分割线条 —— 内外分开数</b></font><br />
+
+
+::: details  <Badge type="danger" text="案例分析" />
+<img src="../../image//blogs/study/gongKao/mian01.png" style="width: 380px;" />
+<hr />
+<img src="../../image//blogs/study/gongKao/mian02.png" style="width: 380px;" />
+
+:::
+
+::: tip 考查面的细化
+1. 简单数数
+2. 所有面的形状
+3. 特殊面（三角形等）个数
+4. 相同面的数量、形状
+5. 最大面最小面的特征：<br />
+    + 最大面或最小面与图形外轮廓形状是否相同等
+    + 最大面、最小面的属性
+    + 最大面的面积
+
+:::
+
+### 4. 素
+<b>素：即元素，可细分为<font color=red>个数</font>、<font color=red>种类数</font>和<font color=red>部分数</font></b><br />
+<b>如果<font color=red>小元素都连在一起</font>，部分数<font color=red>是 1</font></b>
+
+### 5. 角
+角：一般考查图形内部包含的角，即0-180°之间的角<br />
+角可以细分为<b>锐角、直角、钝角</b>
+
+### 思维小结
+
+::: tip 生活化、粗线条图形常见考法
+<img src="../../image//blogs/study/gongKao/shenghuo01.png" style="width: 380px;" />
+
+:::
