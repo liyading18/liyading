@@ -1,4 +1,4 @@
-# 第一章、 图形推理
+## 第一章、 图形推理
 ::: tip 平面推理综述
 1. 当看到 <font color='red'><strong>数字时</strong></font>，要告诉自己 <font color='red'><strong>这是图形</strong></font>。（<strong><u>抛弃奇偶、等差等特性，看图形解构</u></strong>）
 2. <strong>图形特征决定推理的方向，具体情况如下：</strong>
@@ -7,20 +7,21 @@
     + 图形元素组成不同，一般考查 <font color='red'><strong>属性规律、数量规律</strong></font>及<font color='red'><b>其他特殊规律</b></font>
 :::
 
-## 一、位置规律
-### 1. 平移 
-
+### 一、位置规律
 <br />
 
-#### 1.1 平移的方向
+#### 1. 平移 
+<br />
+
+##### 1.1 平移的方向
 + <font color='red'><b>直线方向：</b></font> 上下平移、左右平移
 + <font color='red'><b>时针方向：</b></font> 顺时针平移、逆时针平移
 + <font color='red'><b>元素位置互换</b></font>
-#### 1.2 平移的步长
+##### 1.2 平移的步长
 + <font color='red'><b>恒定</b></font>
 + <font color='red'><b>递增 或 递减</b></font>
 
-#### 思维小结：
+##### 思维小结：
 
 :::tip <font color=blue>九宫格或十六宫格图形中</font>元素平移方向的判定方式如下：
 1. 如果平移元素只在<b><u>九宫格或十六宫格图形的</u><font color=red>最外圈出现</font></b>，优先考虑元素在最外圈<font color=red><b>按时针方向平移</b></font>
@@ -35,15 +36,14 @@
 
 :::
 
-### 2. 旋转和翻转
-
+#### 2. 旋转和翻转
 <br />
 
-#### 2.1 旋转
+##### 2.1 旋转
 + <b>旋转的方向：<font color=red>顺时针旋转</font>和<font color=red>逆时针旋转</font></b>
 + <b>旋转的角度</b>
 
-#### 2.2 翻转
+##### 2.2 翻转
 + <b>以<font color=red>x轴</font>进行<font color=red>上下翻转</font>，以<font color=red>y轴</font>进行<font color=red>左右翻转</font></b>
 + <b>翻转之后再旋转，可利用“时针法”进行判断</b>
 + <b>九宫格<font color=red>中间为空白面</font>，考虑<font color=red>米字线路</font>，对称翻转</b>
@@ -65,9 +65,10 @@
 
 :::
 
-## 二、样式规律
+### 二、样式规律
+<br />
 
-### 1. 加减同异
+#### 1. 加减同异
 + <b><font color=red>相加：</font></b>将两图形中所有的元素（或线条）<b>拼合成一幅新图形</b>，重要的位置保留1次
 + <b><font color=red>相减：</font></b>当一幅图中的元素（或线条）完全包含第二幅图的元素（或线条）时，<b>两幅图相减的结果</b>，就是第一幅图减去第二幅图所有元素（或线条）之后的图形
 + <b><font color=red>求同：</font></b>将两图形中所有不同的元素（或线条）去掉，<b>只留下相同的部分</b>，形成一幅新图形
@@ -78,18 +79,18 @@
 
 :::
 
-### 2. 遍历
+#### 2. 遍历
 + <b>元素数量遍历</b>
 + <b>元素位置遍历</b>
 
-### 3. 黑白运算
+#### 3. 黑白运算
 <b>黑白运算的题目，一般需要根据已知图形列出4个计算公式：</b>
 + 黑 + 黑 = ？
 + 黑 + 白 = ？
 + 白 + 白 = ？
 + 白 + 黑 = ？
 
-#### 思维小结
+##### 思维小结
 :::tip 图形间<font color=red>轮廓相同</font>但<font color=red>内在颜色</font>或<font color=red>图案</font>不同：
 1. <b>各图<font color=blue>黑块数量相同</font>，优先考虑<font color=red>位置规律</font></b>
 2. <b>各图<font color=blue>黑块数量不同</font>，优先考虑<font color=red>黑白运算</font></b>
@@ -130,19 +131,20 @@
 
 :::
 
-## 三、属性规律
-
-### 1. 对称性
+### 三、属性规律
 <br />
 
-#### 1.1 对称的类型
+#### 1. 对称性
+<br />
+
+##### 1.1 对称的类型
 + <b><font color=red>轴对称图形</font>：A、B、Y、▲ 等</b>
 + <b><font color=red>中心对称图形</font>：S、Z、N、▰ 等</b>
 + <b><font color=red>既轴对称又中心对称图形</font>：H、O 等</b>
 
 <b>一个图中<font color=blue>存在互相垂直的两条对称轴</font>，这个图形<font color=red>既是轴对称又是中心对称</font></b>
 
-#### 1.2 对称轴的方向和数量
+##### 1.2 对称轴的方向和数量
 
 + <b>考查<u style="color: blue">对称轴数量</u>的题目特征：<font color=red>等边三角形、三足鼎立</font></b><br />
 + <b style="color:red">一组对称，一组不对称，不算规律</b>
@@ -165,17 +167,17 @@
 
 :::
 
-### 2. 曲直性
+#### 2. 曲直性
 + <b><font color=red>曲</font>：图形只由曲线构成</b>
 + <b><font color=red>直</font>：图形只由直线构成</b>
 + <b><font color=red>曲+直</font>：图形由曲线和直线共同构成</b>
 
-### 3. 开闭性
+#### 3. 开闭性
 + <b><font color=red>开放图形</font>：图形<font color=blue>不包括任何封闭空间</font>，即没有“窟窿”，如字母 C</b>
 + <b><font color=red>封闭图形</font>：图形<font color=blue>包含封闭空间</font>，即有“窟窿”，如字母 D</b>
 + <b><font color=red>半开半闭图形</font>：图形<font color=blue>既包含封闭空间又包含开放区域</font>，如字母 A</b>
 
-### 思维小结
+#### 思维小结
 
 ::: tip 属性规律总结
 + 属性类识别特征：<b style="color:red">元素组成不相同、不相似</b><br />
@@ -189,10 +191,14 @@
 
 :::
 
-## 四、数量规律：<font color=blue>点、线（笔画）、面、素、角</font>
+### 四、数量规律：<font color=blue>点、线（笔画）、面、素、角</font>
+<br />
 <Badge type="danger" text="题型识别" /> &nbsp; <b>图形元素组成不同，且无明显属性规律</b>
 
-### 1. 点
+<br />
+<br />
+
+#### 1. 点
 + 什么是点？<br />
     <b>线与线的交点</b>
 + 点数量特征图：<br />
@@ -206,9 +212,10 @@
 
 :::
 
-### 2. 线
+#### 2. 线
 <b>数直线、曲线、笔画数</b>
-#### 2.1 直线/曲线
+
+##### 2.1 直线/曲线
 
 + 当图形中出现<b><font color=red>多边形或单独的一条直线时，优先考虑数直线</font></b>
 + 当图形中出现<b><font color=red>较多曲线时，优先考虑数曲线</font></b>
@@ -219,7 +226,7 @@
 
 :::
 
-#### 2.2 数笔画
+##### 2.2 数笔画
 
 + <b><font color=red>连通图：</font></b>如果图形中<b>任意两点都是连通的</b>，那么该图形被称为连通图<br />
 + <b><font color=red>奇点：</font></b>若以<b>一个点为起点，延伸出的线条数为奇数</b>，则该点为奇点（<b><font color=red>奇点包括端点</font></b>）<br />
@@ -227,7 +234,7 @@
 + <b><font color=red>偶点：</font></b>若以<b>一个点为起点，延伸出的线条数为偶数</b>，则该点为偶点<br />
 + <b><font color=red>连通图的笔画数</font> = </b><b><font color=red>奇点数 ÷ 2</font></b><br />
 
-#### 知识小结
+##### 知识小结
 
 ::: tip 笔画规律
 <font color=blue>常考笔画规律的特征图形：(<b>可优先考虑笔画数</b>)</font>
@@ -237,12 +244,11 @@
     
 :::
 
-### 3. 面
+#### 3. 面
 
 <b>面：</b>也称封闭空间、封闭区域，或者更形象地说就是“窟窿”<br />
 
-#### <font color=gray>什么时候数面？</font>
-
+##### <font color=gray>什么时候数面？</font>
 
 + <font color=blue><b>“窟窿”居多，优先数“面”</b></font><br />
 + <font color=blue><b>图形被分割、封闭面明显</b></font><br />
@@ -269,17 +275,118 @@
 
 :::
 
-### 4. 素
+#### 4. 素
 <b>素：即元素，可细分为<font color=red>个数</font>、<font color=red>种类数</font>和<font color=red>部分数</font></b><br />
 <b>如果<font color=red>小元素都连在一起</font>，部分数<font color=red>是 1</font></b>
 
-### 5. 角
+#### 5. 角
 角：一般考查图形内部包含的角，即0-180°之间的角<br />
 角可以细分为<b>锐角、直角、钝角</b>
 
-### 思维小结
+#### 思维小结
 
 ::: tip 生活化、粗线条图形常见考法
 <img src="../../image//blogs/study/gongKao/shenghuo01.png" style="width: 380px;" />
 
 :::
+
+### 五、特殊规律
+<br />
+
+#### 1. 功能元素
+<b>功能元素</b>一般用来标记位置，常见的功能元素包括：<b>黑点、白点、箭头等</b>
+
++ 当出现<b><font color=blue>两个黑点时</font></b>，可以考<b><font color=red>虑两个黑点的连线与图形的关系</font></b>
++ <b><font color=blue>箭头</font></b>不仅可以通过指向作用来<b><font color=red>标记图形</font></b>，<b><font color=blue>出现两个箭头时</font></b>还可以<b><font color=red>考查二者的关系，如垂直和平行</font></b>
+
+::: details 特殊规律——<font color=blue>两个黑点</font>
+<img src="../../image//blogs/study/gongKao/teshu01.png" style="width: 500px;" />
+
+:::
+
+#### 2. 图形间关系
+
+<br />
+
+##### 2.1 相离
+图形间没有公共部分
+
+##### 2.2 相压
+两个图形上下覆盖，被压图形有部分线条被覆盖，注意上下图的区别：<b>直线图形压着曲线图形、曲线图形压着直线图形</b>
+
+##### 2.3 相交
+图形间有公共部分，可细分为以下3个考点，分别<b><font color=red>相较于面、相交于点、相交于边</font></b>
++ <b><font color=blue>相交于面：</font></b>可考查相交面的形状、面积等。如：<b>相交面的形状为矩形、三角形等</b>；<b>相交面的面积小于（大于）不相交部分的面积</b>
+<img src="../../image//blogs/study/gongKao/xiangjiao01.png" style="width: 500px;" />
+
++ <b><font color=blue>相交于点：</font></b>可考查相交点的位置（上下、左右、内外）
+<img src="../../image//blogs/study/gongKao/xiangjiao02.png" style="width: 250px;" />
+
++ <b><font color=blue>相交于边</font></b>
+    1. <font color=red>可考查<b>相交边的数量</b>（如2条相交边）</font>
+    2. <font color=red>可考查<b>相交边的样式</b>：</font><font color=blue>长/短、整体/部分、曲/直等</font>，<b>如相交边为较长边（较短边）</b>
+
+::: details 案例分析
+<img src="../../image//blogs/study/gongKao/xiangjiao03.png" style="width: 400px;" />
+<img src="../../image//blogs/study/gongKao/xiangjiao04.png" style="width: 400px;" />
+
+:::
+
+### 六、空间重构
+
+在空间重构题型中，<u>“排除思维”</u>非常重要。主要<b>通过相对面和相邻面的位置关系</b>进行排除
+
+#### 1. 六面体——相对面（<font color=red>相对面不能同时出现</font>）
+
+如果a面和b面是相对面，<b>那么在立体图只能看到3个面的情况下，<font color=red>a和b面只能出现一个，且必须出现一个</font></b>
+
+::: tip 平面展开图中，相对面有以下两个基本判定法则：
+1. <b>相对面判定法则1：</b>在平面展开图中，<font color=red><b>如果两个面在同一行或同一列，且中间隔了一个面，</b></font>那么这两个面是相对面
+2. <b>相对面判定法则2：</b>在平面展开图中，如果<b><font color=red>两个面在“Z”字形两端，且紧靠着“Z”字形中间那条线</font></b>，那么这两个面是相对面
+<img src="../../image//blogs/study/gongKao/xdm01.png" style="width: 300px;" />
+
+:::
+
+不是所有六面体的题都能用相对面做出来，大部分的题用相对面只能排除一两个选项，甚至一个都排除不了，<b>剩下的选项我们可以用相邻面（公共边、公共点）来排除</b>
+
+#### 2. 六面体——公共边
+
+::: tip 公共边判定法则
+1. <b>公共边判定法则1：</b><font color=red>两个相邻面的相交线为公共边</font>
+2. <b>公共边判定法则2：</b>在展开图上，<font color=red>呈直角的两条边为同一条边</font>
+3. <b>公共边判定法则3：</b><font color=blue>一行/列连着<b>4个面</b></font>，<font color=red>两头的两条边是同一条边</font>
+<img src="../../image//blogs/study/gongKao/ggb01.png" style="width: 400px;" />
+<img src="../../image//blogs/study/gongKao/ggb02.png" style="width: 400px;" />
+
+<b>注意：<font color=red>如果a面和b面是相邻面，那么在立体图和展开图中，a面和b面的公共边不变</font></b>
+
+:::
+
+##### "画边法"
+
+从“公共边”延伸出的万能打法——<b>画边法</b>
+
+::: tip 画边法操作步骤
+<img src="../../image//blogs/study/gongKao/huabian01.png" style="width: 400px;" />
+<img src="../../image//blogs/study/gongKao/huabian02.png" style="width: 400px;" />
+
+:::
+
+#### 3. 六面体——公共点
+
+<b>三面相邻，公共点不变</b>
+
+::: details 案例分析
+<img src="../../image//blogs/study/gongKao/ggd01.png" style="width: 550px;" />
+
+:::
+
+#### 4. 到底优选公共边还是公共点
+
++ <b><font color=blue>三个面挨在一起</font>——<font color=red>优选公共点</font></b>
++ <b><font color=blue>三个面没有挨在一起</font>——<font color=red>优选公共边</font></b>
+
+<img src="../../image//blogs/study/gongKao/ggbd01.png" style="width: 500px;" />
+
+
+
