@@ -456,7 +456,6 @@
 
 ::: details 辅助解析
 <img src="../../image//blogs/study/gongKao/changdingyi.png" style="width: 600px;" />
-
 :::
 
 ### 高频考点五：<font color=blue>补充说明</font>
@@ -470,7 +469,6 @@
 
 :::tip 思维小结
 <b>多定义问谁<font color=red>优先看谁</font></b>
-
 :::
 
 ### 高频考点七：<font color=blue>同构选项排除法</font>
@@ -485,3 +483,121 @@
 
 #### 1.1 近义关系 
 词语含义相近，例如：<b>水滴石穿、绳锯木断</b>
+
+::: details 案例解析
+<img src="../../image//blogs/study/gongKao/yuyi01.png" style="width: 300px;" />
+:::
+
+::: tip 二级辨析
+如果<b>一级关系（近反义关系）</b>选不出唯一答案，需要<b><font color=red>进行二级辨析</font></b>
+<img src="../../image//blogs/study/gongKao/yuyi02.png" style="width: 400px;" />
+:::
+
+#### 1.2 反义关系
+词语含义相反，例如：<b>见异思迁、忠贞不渝</b>
+
+#### 1.3 比喻义、象征义
+通过某些具体事物比喻或象征某些抽象意义，例如：<b>荆棘比喻苦难、玫瑰象征爱情</b>
+
+::: info 比喻类拓展
++ <b><font color=blue>孺子牛</font></b>比喻心甘情愿为人民大众服务，无私奉献的人
++ <b><font color=blue>纸老虎</font></b>比喻貌似强大、实际虚弱的人或集团
++ <b><font color=blue>冷板凳</font></b>比喻因不受重视而担任清闲的职务
++ <b><font color=blue>捞稻草</font></b>比喻在绝望中做徒劳无益的挣扎
++ <b><font color=blue>跑龙套</font></b>比喻在人手下做无关紧要的事
++ <b><font color=blue>定心丸</font></b>比喻能使人情绪安定的东西
++ <b><font color=blue>耍花枪</font></b>比喻卖弄小聪明的欺骗行为
++ <b><font color=blue>拉清单</font></b>比喻结算彼此的恩怨利害
++ <b><font color=blue>破天荒</font></b>比喻从来没有出现过的事
++ <b><font color=blue>上台阶</font></b>比喻取得新的更大的成就
++ <b><font color=blue>老古董</font></b>比喻思想陈腐或生活习惯陈旧的人
++ <b><font color=blue>应声虫</font></b>比喻象征胸无主张、随声附和的人
++ <b><font color=blue>传声筒</font></b>比喻没有主见只会鹦鹉学舌的人
++ <b><font color=blue>三脚猫</font></b>比喻对各种技艺略知皮毛的人
++ <b><font color=blue>侃大山</font></b>比喻没有目的的聊天
++ <b><font color=blue>印把子</font></b>比喻政权
+:::
+
+::: info 象征类拓展
+<b><font color=blue>南冠：</font>囚犯</b>   &nbsp;&nbsp;&nbsp;  <b><font color=blue>桑梓：</font>家乡</b>   &nbsp;&nbsp;&nbsp;  
+<b><font color=blue>青衿：</font>读书人</b>   &nbsp;&nbsp;&nbsp;  <b><font color=blue>浮屠：</font>佛塔</b>   &nbsp;&nbsp;&nbsp;  
+<b><font color=blue>丝竹：</font>音乐</b>   &nbsp;&nbsp;&nbsp;  <b><font color=blue>汗青：</font>史册</b>   &nbsp;&nbsp;&nbsp;  
+<b><font color=blue>红颜/娥眉：</font>女性</b>   &nbsp;&nbsp;&nbsp;  <b><font color=blue>白衣/布衣：</font>百姓</b>   &nbsp;&nbsp;&nbsp;  
+<b><font color=blue>鸿雁/笺礼：</font>书信</b>   &nbsp;&nbsp;&nbsp;  <b><font color=blue>总角/垂髫：</font>小孩</b>   &nbsp;&nbsp;&nbsp;  
+<b><font color=blue>干戈/烽烟：</font>战争</b>   &nbsp;&nbsp;&nbsp;  <b><font color=blue>花甲/耄耋/伛偻(yu lv)/黄发：</font>老人</b>   &nbsp;&nbsp;&nbsp;  
+<b><font color=blue>合肥：</font>庐州</b>   &nbsp;&nbsp;&nbsp;  <b><font color=blue>杜鹃花：</font>映山红</b>   &nbsp;&nbsp;&nbsp;  
+<b><font color=blue>荷花：</font>芙蕖</b>   &nbsp;&nbsp;&nbsp;  <b><font color=blue>乞巧节：</font>七夕节</b>   &nbsp;&nbsp;&nbsp;  
+<b><font color=blue>苦瓜：</font>凉瓜</b>   &nbsp;&nbsp;&nbsp;  <b><font color=blue>矮瓜：</font>茄子</b>   &nbsp;&nbsp;&nbsp;  
+<b><font color=blue>芝麻：</font>脂麻</b>   &nbsp;&nbsp;&nbsp;  <b><font color=blue>五味：</font>酸甘苦辛咸</b>   &nbsp;&nbsp;&nbsp;  
+:::
+
+### 2. 逻辑关系
+<br />
+
+#### 2.1 全同关系
+全同关系指<b>两个表达含义完全相同的词语</b>，如土豆与马铃薯、麦克风与话筒等
+#### 2.2 包含关系
+包含关系是指两个词语概念之间<b>一个范围大，一个范围小，小概念完全被包含在大概念之中</b>，如：男人和人、桌面和桌子<br />
+<b>包含关系可分为以下几类：</b>
+
+##### 2.2.1 种属关系
+即A是B的一种，如：柳树和树（<b>柳树是树的一种</b>）
+
+::: tip 思维小结
+能<b>单独</b>用<b><font color=blue>“是”</font></b>造句子的是<b><font color=red>种属关系</font></b>
+:::
+##### 2.2.2 组成关系
+即A是B的一个组成部分，如：轮胎和汽车（<b>轮胎是汽车的一个组成部分</b>）<br />
+##### 2.2.3 并列关系
+两个词语概念处于同一个级别上，但又彼此不包含，如：植物与动物、火星与地球<br />
+<b>并列关系可以分为以下两种：</b>
++ <font color=blue><b>矛盾关系</b></font>
+非A即B，没有第三种情况存在，如：生与死、错与对
+::: tip 常考矛盾关系
+男：女、生：死、开：关、动：静、曲：直、白天：黑夜、A：非A、阴：阳、阴离子：阳离子、<br />
+阴刻：阳刻、静态博弈：动态博弈、软实力：硬实力、软件：硬件、主要矛盾：次要矛盾、<br />
+实体经济：虚拟经济、精神文明：物质文明、急性中毒：慢性中毒
+:::
++ <font color=blue><b>反对关系</b></font>
+指除了A和B，还有其他情况存在，如：黑色与白色，颜色除黑和白以外，还有红、黄、蓝等颜色
+::: tip 注意事项：同级并列
+并列关系一般要求<b>同级并列</b>，如：广东和南京不是并列关系，广东是省级，而南京是市级
+:::
+
+##### 2.2.4 交叉关系
+指词语概念间<b>有重叠的部分，但不完全重合</b>，即有的A是B，有的B是A
+::: tip 判断技巧 —— 造句子
+<b><font color=red>交叉关系利用“有的”造句即可</font></b><br />
+有的A是B，有的A不是B；<br />有的B是A，有的B不是A
+:::     
+::: details 案例解析
+<b>例：男人和老师</b><br />
+有的男人是老师，有的男人不是老师；有的老师是男人，有的老师不是男人
+:::
+
+##### 2.2.5 对应关系
+<b>常考的对应关系有以下五种：</b>
++ <b>物品与原材料、制作工艺，</b>如：家具与木材、手镯与打磨
++ <b>物品与功能（<font color=red>一般为名词+动词</font>）</b>，如：手机与沟通、汽车与运输、灯：照明：装饰
++ <b>属性关系（<font color=red>一般为名词+形容词</font>）</b>，如：盐与咸、叶与绿、花与红
++ <b>时间先后顺序（<font color=red>一般为动词+动词</font>）</b>，如：起飞与着陆、生病与治疗
++ <b>因果关系</b>，如：下雨与地湿、淋雨与感冒
+:::tip 对应关系：物品与原材料【二级辨析】
+<b>二级辨析：<font color=red>必然组成、或然组成</font></b>
+:::
+:::details 案例辅助：物品与原材料【二级辨析-或然组成】
+<img src="../../image//blogs/study/gongKao/duiying.png" style="width: 350px;" />
+:::
+::: tip 对应关系：制作工艺
+对应关系中<b><font color=red>工艺制作过程涉及物理、化学</font></b>的区分，<b><font color=blue>物理变化改变物体形态但不改变物体组成成分，化学变化则改变物体的组成成分</font></b><br />
+:::
+::: tip 对应关系：制作工艺【<font color=red>工艺二级辨析</font>】
+<b><font color=blue>涉及物理变化的工艺：</font></b>印刷、捆扎、打磨、雕琢、剪裁、织造灯<br />
+<b><font color=blue>涉及化学变化的工艺：</font></b>燃烧、氧化、发酵、酿造、冶炼等
+:::
+:::tip 对应关系：物品与功能
+<b><font color=red>先看主要功能，再看次要功能</font></b>
+:::
+:::details 案例辅助：物品与功能【次要功能】
+<img src="../../image//blogs/study/gongKao/wpgn.png" style="width: 260px;" />
+:::
