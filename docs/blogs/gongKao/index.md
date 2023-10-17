@@ -33,7 +33,6 @@
 7. <b>16格分<font color=red>内外圈走法</font></b>
 8. <b><font color=red>空白</font></b>也可以作为平移的小元素
 <img src="../../image//blogs/study/gongKao/pykb.jpg" style="width: 300px;" />
-
 :::
 
 #### 2. 旋转和翻转
@@ -51,18 +50,15 @@
 
 ::: details <Badge type="danger" text="案例分析" /> &nbsp; 中间为空白面，米字线路
 <img src="../../image//blogs/study/gongKao/mizi.png" style="width: 350px;" />
-
 :::
 
 ::: details <Badge type="danger" text="案例分析" /> &nbsp; 小元素较多，连成一个圆时
 <img src="../../image//blogs/study/gongKao/smallCircle.png" style="width: 450px;" />
-
 :::
 
 ::: details <Badge type="danger" text="案例分析" /> &nbsp; 两组图或九宫格，考旋转或翻转: <font color='red'>看对称</font>
 <font color='red'>如下：</font>第三个图 和 第二个图对称
 <img src="../../image//blogs/study/gongKao/jggDc01.png" style="width: 550px;" />
-
 :::
 
 ### 二、样式规律
@@ -76,7 +72,6 @@
 
 ::: details <Badge type="danger" text="案例分析" /> &nbsp; <b>当图形特征中: <font color='red'>线条重复出现</font>—— 加减同异</b>
 <img src="../../image//blogs/study/gongKao/jjty.png" style="width: 600px;" />
-
 :::
 
 #### 2. 遍历
@@ -94,7 +89,6 @@
 :::tip 图形间<font color=red>轮廓相同</font>但<font color=red>内在颜色</font>或<font color=red>图案</font>不同：
 1. <b>各图<font color=blue>黑块数量相同</font>，优先考虑<font color=red>位置规律</font></b>
 2. <b>各图<font color=blue>黑块数量不同</font>，优先考虑<font color=red>黑白运算</font></b>
-
 :::
 
 :::tip 黑白块<font color=red>形状、大小一样</font>
@@ -108,19 +102,16 @@
     <img src="../../image//blogs/study/gongKao/hbbh.png" style="width: 350px;">
     3. <b>黑/白块<font color=blue>分堆</font>——<font color=red>部分数</font></b>
     <img src="../../image//blogs/study/gongKao/hbfd.png" style="width: 600px;" />
-
 :::
 
 :::tip 黑白块<font color=red>形状、大小不一样</font>
 <img src="../../image//blogs/study/gongKao/hbys01.png" style="width: 350px;" />
-
 :::
 
 :::tip 有些复杂的图形，需要利用<font color=red>求同存异和位置转化结合</font>起来联考
 + <b><font color=blue>有时候会考虑<font color=purple>先旋转再求同存异，还是先求同存异再旋转</font>。总结规律如下：</font></b>
     1. <b>前两幅图有<font color=blue>明显一样的线条，</font><font color=red>可优先运算</font></b>
     2. <b>前两幅图<font color=blue>没有明显一样的线条，</font><font color=red>可优先位置，谁搞特殊先转谁</font></b>
-
 :::
 
 ::: details <Badge type="danger" text="案例分析" /> &nbsp; <b>复杂图形: <font color='red'>求同存异和位置转化结合</font></b>
@@ -128,7 +119,6 @@
 <font color=blue>解题思路：</font><br />
 1. 前两幅图中明显有平行四边形，求异，然后进行顺/逆时针旋转90度得到图三<br />
 2. 前两幅图没有明显一样的线条。因图2和图3都有明显的斜线，所以要动图1，将图1旋转90度，然后求异
-
 :::
 
 ### 三、属性规律
@@ -153,18 +143,15 @@
 
 ::: details <Badge type="danger" text="案例分析" /> &nbsp; <b>对称轴数量：<font color='red'>等边三角形、三足鼎立</font></b>
 <img src="../../image//blogs/study/gongKao/shux01.png" style="width: 550px;" />
-
 :::
 
 ::: details <Badge type="danger" text="案例分析" /> &nbsp; <b>最“火”对称考法：<font color='red'>对称轴经过点、线、面</font></b>
 <img src="../../image//blogs/study/gongKao/shux02.png" style="width: 550px;" />
-
 :::
 
 ::: details <Badge type="danger" text="案例分析" /> &nbsp; <b>2-3个面挨在一起，<font color='red'>分开看对称轴关系</font></b>
 <img src="../../image//blogs/study/gongKao/shux03.png" style="width: 380px;" />
 <img src="../../image//blogs/study/gongKao/shux04.png" style="width: 450px;" />
-
 :::
 
 #### 2. 曲直性
@@ -188,7 +175,6 @@
     <b><font color=purple>识别题型 → 画出对称轴 → 考虑数量、方向 → 与点、线、面的关系</font></b>
 + 曲直性：<b><font color=red>全曲、全直、曲+直</font></b>
 + 开闭性：<b><font color=red>全开、全闭、半开半闭</font></b>
-
 :::
 
 ### 四、数量规律：<font color=blue>点、线（笔画）、面、素、角</font>
@@ -209,7 +195,6 @@
 
 :::warning
 <b>只考虑线条相交得到的点（<font color=red>即交点</font>），不考虑端点，交点中有一类特殊的点（<font color=red>切点</font>）</b>
-
 :::
 
 #### 2. 线
@@ -223,7 +208,6 @@
 
 ::: details <Badge type="danger" text="案例分析" />
 <img src="../../image//blogs/study/gongKao/shuliang01.png" style="width: 380px;" />
-
 :::
 
 ##### 2.2 数笔画
@@ -241,7 +225,6 @@
 + <b><font color=red>五角星、月亮、“日”、“田”的变形图形</font></b>
 + <b><font color=red>与圆有关的相交和相切图形、多端点图形</font></b>
     <img src="../../image//blogs/study/gongKao/bihua01.png" style="width: 380px;" />
-    
 :::
 
 #### 3. 面
@@ -260,7 +243,6 @@
 <img src="../../image//blogs/study/gongKao/mian01.png" style="width: 380px;" />
 <hr />
 <img src="../../image//blogs/study/gongKao/mian02.png" style="width: 380px;" />
-
 :::
 
 ::: tip 考查面的细化
@@ -272,7 +254,6 @@
     + 最大面或最小面与图形外轮廓形状是否相同等
     + 最大面、最小面的属性
     + 最大面的面积
-
 :::
 
 #### 4. 素
@@ -287,7 +268,6 @@
 
 ::: tip 生活化、粗线条图形常见考法
 <img src="../../image//blogs/study/gongKao/shenghuo01.png" style="width: 380px;" />
-
 :::
 
 ### 五、特殊规律
@@ -301,7 +281,6 @@
 
 ::: details 特殊规律——<font color=blue>两个黑点</font>
 <img src="../../image//blogs/study/gongKao/teshu01.png" style="width: 500px;" />
-
 :::
 
 #### 2. 图形间关系
@@ -329,7 +308,6 @@
 ::: details 案例分析
 <img src="../../image//blogs/study/gongKao/xiangjiao03.png" style="width: 400px;" />
 <img src="../../image//blogs/study/gongKao/xiangjiao04.png" style="width: 400px;" />
-
 :::
 
 ### 六、空间重构
@@ -344,7 +322,6 @@
 1. <b>相对面判定法则1：</b>在平面展开图中，<font color=red><b>如果两个面在同一行或同一列，且中间隔了一个面，</b></font>那么这两个面是相对面
 2. <b>相对面判定法则2：</b>在平面展开图中，如果<b><font color=red>两个面在“Z”字形两端，且紧靠着“Z”字形中间那条线</font></b>，那么这两个面是相对面
 <img src="../../image//blogs/study/gongKao/xdm01.png" style="width: 300px;" />
-
 :::
 
 不是所有六面体的题都能用相对面做出来，大部分的题用相对面只能排除一两个选项，甚至一个都排除不了，<b>剩下的选项我们可以用相邻面（公共边、公共点）来排除</b>
@@ -359,7 +336,6 @@
 <img src="../../image//blogs/study/gongKao/ggb02.png" style="width: 400px;" />
 
 <b>注意：<font color=red>如果a面和b面是相邻面，那么在立体图和展开图中，a面和b面的公共边不变</font></b>
-
 :::
 
 ##### "画边法"
@@ -369,7 +345,6 @@
 ::: tip 画边法操作步骤
 <img src="../../image//blogs/study/gongKao/huabian01.png" style="width: 400px;" />
 <img src="../../image//blogs/study/gongKao/huabian02.png" style="width: 400px;" />
-
 :::
 
 #### 3. 六面体——公共点
@@ -378,7 +353,6 @@
 
 ::: details 案例分析
 <img src="../../image//blogs/study/gongKao/ggd01.png" style="width: 550px;" />
-
 :::
 
 #### 4. 到底优选公共边还是公共点
@@ -401,12 +375,10 @@
 ::: tip 思维小结
 + 要想<b>切出有弧线的截面</b>，立体图形本身一定得存在曲面
 + 在外框为六面体的立体图形中，<b>如果想切出三角形，必须从棱下刀斜着切</b>，此时不可能切出直角，因此<b>切出来的三角形和直角不能同时存在</b>
-
 :::
 
 ::: details 辅助解析
 <img src="../../image//blogs/study/gongKao/liti01.png" style="width: 400px;" />
-
 :::
 
 #### 3. 三视图
@@ -426,7 +398,6 @@
 3. <b>司法机关：</b>法院、检察院
 4. <b>事业单位：</b>学校、医院、科研所、广播新闻出版等
 5. <b>社会组织：</b>商会（浙商会）、协会（消费者协会）
-
 :::
 
 #### 注意👀👀👀
@@ -563,6 +534,23 @@
 ::: tip 注意事项：同级并列
 并列关系一般要求<b>同级并列</b>，如：广东和南京不是并列关系，广东是省级，而南京是市级
 :::
+::: tip 动物并列关系
++ <b><font color=red>脊椎动物：</font></b><br />
+<b>鸟：</b>喜鹊、鸡、鸭、鹅等<br />
+<b>鱼：</b>鲫鱼、带鱼等<br />
+<b>爬行动物：</b>蛇、壁虎、蜥蜴、龟等<br />
+<b>两栖动物：</b>青蛙、娃娃鱼、蝾螈等<br />
+<b>哺乳动物：</b>蝙蝠、海豚、鲸鱼等<br />
++ <b><font color=red>无脊椎动物：</font></b><br />
+原生动物<br />
+腔肠动物<br />
+扁形动物<br />
+线形动物<br />
+环节动物<br />
+<b>软体动物：</b>蜗牛<br />
+<b>节肢动物：</b>蜘蛛、蜈蚣、虾、蟹<br />
+棘皮动物
+:::
 
 ##### 2.2.4 交叉关系
 指词语概念间<b>有重叠的部分，但不完全重合</b>，即有的A是B，有的B是A
@@ -601,3 +589,86 @@
 :::details 案例辅助：物品与功能【次要功能】
 <img src="../../image//blogs/study/gongKao/wpgn.png" style="width: 260px;" />
 :::
+::: tip 对应关系：属性关系【二级辨析：必然、或然】
+如：盐：咸（<font color=red>盐必然是咸的</font>）；花：红（<font color=red>花不必然是红的</font>）
+:::
+:::details 案例分析：对应关系-属性关系【二级辨析：必然、或然】
+<img src="../../image//blogs/study/gongKao/shuxing01.png" style="width: 300px;" />
+:::
+::: tip 对应关系：时间先后顺序
++ <b>先后顺序 + <font color=blue>主体不一致</font></b>
++ <b>先后顺序 + <font color=blue>主体一致</font></b>
+:::
+::: details 案例解析-对应关系：时间先后顺序【<font color=red>主体不一致</font>】
+<img src="../../image//blogs/study/gongKao/time01.png" style="width: 360px;" />
+:::
+::: details 案例解析-对应关系：时间先后顺序【<font color=red>主体一致</font>】
+拍摄：剪辑
+:::
+::: tip 对应关系：因果关系【二级辨析】
+常考二级辨析：<b>原因（<font color=red>自然/人工</font>）、结果（<font color=red>积极/消极</font>）</b>
+:::
+:::details 案例分析：因果关系【二级辨析】
+<img src="../../image//blogs/study/gongKao/yinguo.png" style="width: 300px;" />
+:::
+:::tip 常见因果关系总结
+人逢喜事：精神爽、&nbsp;&nbsp;&nbsp;城门失火：殃及池鱼、&nbsp;&nbsp;众人拾柴：火焰高、<br/>
+多行不义：必自毙、&nbsp;&nbsp;&nbsp;水落石出、&nbsp;&nbsp;&nbsp;水涨船高、&nbsp;&nbsp;&nbsp;春暖花开、<br />
+风吹草动、&nbsp;&nbsp;&nbsp;天寒地冻、&nbsp;&nbsp;&nbsp;物腐虫生、&nbsp;&nbsp;&nbsp;鸟尽弓藏、<br />
+唇亡齿寒、&nbsp;&nbsp;&nbsp;理屈词穷、&nbsp;&nbsp;&nbsp;水滴石穿
+:::
+
+#### 2.3 语法关系
+语法关系是以造句的形式将题干词语联系起来而形成的关系，根据句子成分不同，主要分为<b>主谓关系、动宾关系、主宾关系</b>。<br />
+语法关系主要考虑以下两个方面： 
+##### 2.3.1 <font color=blue>词性：</font>名词、动词、形容词
+1. 一般地，名词充当主语或宾语，动词充当谓语。当题干出现名词和动词，且没有明显的逻辑关系时，可以优先考虑<b>主谓或动宾</b>搭配形式
+2. 词语在不同的语境下可具有不同的词性，正确区分词语的词性是造句的前提。例如，“我理解你”中“理解”为动词，“我需要你的理解”中“理解”为名词
+3. 词性一般不单独考查，当通过造句子不能确定答案时，可利用词性进行二级辨析
+##### 2.3.2 <font color=blue>顺序：</font>题干和选项用同样的顺序造句
+<b><font color=red>技巧：造句子</font></b><br />
+1. <font color=blue>主谓关系：</font>我：喜欢
+2. <font color=blue>动宾关系：</font>喜欢：你
+    + <font color=red>区分动词和动宾：</font>歌唱/唱歌
+3. <font color=blue>主宾关系：</font>我：你
+4. <font color=blue>偏正：</font>皎洁：月亮
+    + <font color=red>偏正可以用“<b>的/地</b>”造句：</font>
+        + 皎洁：月亮（<font color=blue>皎洁的月亮</font>）
+        + 慢：跑（<font color=blue>慢慢的跑</font>）
+
+#### 思维小结
+::: tip 拆分思维
+1. <b><font color=red>成语被拆分：</font></b>（南征：北战）（唇亡：齿寒）
+2. <b><font color=red>词语间无明显逻辑关系：</font></b>成败：呼吸
+3. <b><font color=red>相同单字反复出现：</font></b>寒：寒冷：寒舍
+4. <b><font color=red>方式目的拆分</font></b>
+    + 怎么想到的？<b><font color=blue>前后两词一般是动词/动宾结构</font></b><br />
+    【刻舟：求剑】【按图：索骥】【削足：适履】【杀鸡：取卵】<br />
+    【掩耳：盗铃】【守株：待兔】【凿壁：偷光】【缘木：求鱼】<br />
+    【望梅：止渴】【杀鸡：儆猴】【画饼：充饥】
+
+<img src="../../image//blogs/study/gongKao/yuyi00.png" style="width: 240px;" />
+:::
+:::tip 拓展——拆分常见考法
+1. <b>语义关系：</b>【生死存亡】【南征北战】
+2. <b>并列关系：</b>【飞禽走兽】【笔墨纸砚】
+3. <b>因果关系：</b>【春暖花开】【唇亡齿寒】
+4. <b>方式目的：</b>【刻舟求剑】【顺藤摸瓜】
+5. <b>偏正关系：</b>【青山绿水】【唇红齿白】
+6. <b>语法关系：</b>【愚公移山】【忧国忧民】
+:::
+
+## 第四章、逻辑判断
+逻辑判断主要包括7类题型：<b>翻译推理、组合排列、削弱、加强、日常结论、原因解释和真假推理</b>
+### 1. 翻译推理
+<span style="background:#000;color:#fff;">&nbsp;题型特征：</span>
+题干或选项中出现多组“逻辑关联词”，如：<b>“如果……那么……”、“只要……就……”、“只有……才……”、“所有”、“有些”、“……且……”、“……或……”等</b><br />
+:::info 解题思路
+<b>先翻译，后推理</b><br />
+1. 将逻辑关联词按照翻译规则翻译为 ① → ② 的形式（①、②分别代表一句话）<br />
+2. 按照推理规则进行推导
+:::
+
+#### 考点一、翻译规则
+<span style="background:#000;color:#fff;">【前推后】必备关联词 &nbsp;</span>
++ 如果……那么（就）……
