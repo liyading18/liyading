@@ -30,7 +30,11 @@
 4. 在<b>平移题目</b>中，<b>“从头跑”</b>比较普遍，应优先考虑
 5. 九宫格优先<font color=red><b>横着看</b></font>
 6. 九宫格考平移的时候，可以<b><u>从最简单的图入手</u></b>，然后可以<b><font color=red>首先看中间部分，采用“回字法”看规律</font>；如无规律，可再看直线平移</b>
-7. <b>16格分<font color=red>内外圈走法</font></b>
+7. <b>16格分<font color=red>内外圈走法</font>。先圈中间，看黑块个数是否相同：</b>
+    + <font color=blue><b>内圈个数相同</b></font> —— <font color=red>内外分开“回”字看（绕圈走）</font>
+    + <font color=blue><b>内圈个数不同</b></font> —— <font color=red>横竖分开看（直线走）</font>
+        + <font color=red>横着数量不变，看左右平移</font>
+        + <font color=red>竖着数量不变，看上下平移</font>
 8. <b><font color=red>空白</font></b>也可以作为平移的小元素
 <img src="../../image//blogs/study/gongKao/pykb.jpg" style="width: 300px;" />
 :::
@@ -159,6 +163,14 @@
 + <b><font color=red>直</font>：图形只由直线构成</b>
 + <b><font color=red>曲+直</font>：图形由曲线和直线共同构成</b>
 
+:::tip <font color=blue>所有图形都有曲线出现，可以考查什么？</font>
+1. 先想属性比较快 —— <font color=red>曲直性</font>
+2. 单一曲线出现 —— <font color=red>曲线数量</font>
+3. 曲线与直线相交 —— <font color=red>曲直交点</font>
+4. 特殊曲线 —— <font color=red>圆当外框（内部、框上交点）</font>
+5. 单独无规律，可以运算，写出来的不要丢
+:::
+
 #### 3. 开闭性
 + <b><font color=red>开放图形</font>：图形<font color=blue>不包括任何封闭空间</font>，即没有“窟窿”，如字母 C</b>
 + <b><font color=red>封闭图形</font>：图形<font color=blue>包含封闭空间</font>，即有“窟窿”，如字母 D</b>
@@ -219,6 +231,12 @@
 + <b><font color=red>连通图的笔画数</font> = </b><b><font color=red>奇点数 ÷ 2</font></b><br />
 
 ##### 知识小结
+
+::: tip 什么时候考平行线？什么时候数笔画？
++ 图形比较规整的时候，<font color=blue>考虑平行线</font>
++ 图形不规整的时候，<font color=blue>考虑数笔画</font>
+<img src="../../image//blogs/study/gongKao/xianbihua.png" style="width: 380px;" />
+:::
 
 ::: tip 笔画规律
 <font color=blue>常考笔画规律的特征图形：(<b>可优先考虑笔画数</b>)</font>
@@ -367,6 +385,23 @@
 
 #### 1. 立体拼合
 <b>“凹凸一致”</b>原则
+:::tip 俄罗斯方块类拼合（优先不转），先数后描
+1. <font color=red>先看选项，决定是否数数</font>
+2. <font color=red>按层拼合：</font>挑大的、规整的拼
+:::
+
+:::details 案例分析-<font color=red>数数</font>，按层数
+<img src="../../image//blogs/study/gongKao/els01.png" style="width: 450px;" />
+:::
+
+:::details 案例分析-<font color=red>整体数量——部分数量</font>
+<img src="../../image//blogs/study/gongKao/els02.png" style="width: 500px;" />
+:::
+
+:::details 案例分析-<font color=red>描黑</font>
+<img src="../../image//blogs/study/gongKao/els03.png" style="width: 500px;" />
+<b>注解：将1在立体中描黑，接着2在立体中描黑，最后剩留白，看符合那个选项</b>
+:::
 
 #### 2. 截面图
 指的是被切部分的形状<br />
