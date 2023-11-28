@@ -10,9 +10,13 @@
     "vitepress": "^1.0.0-alpha.32"
   },
   "devDependencies": {
+    "flexsearch": "^0.7.31",
+    "markdown-it": "^13.0.2",
     "sass": "^1.57.0",
-    "vite-plugin-require-transform": "^1.0.21"
+    "vite-plugin-require-transform": "^1.0.21",
+    "vitepress-plugin-search": "^1.0.4-alpha.20"
   },
+  "type": "module",
   "scripts": {
     "dev": "vitepress dev docs --host",
     "build": "vitepress build docs",

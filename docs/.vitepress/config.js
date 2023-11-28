@@ -1,6 +1,15 @@
 import { defineConfig } from 'vitepress'
 import { sidebar, nav } from './realConfig'
-import requireTransform from 'vite-plugin-require-transform';
+import requireTransform from 'vite-plugin-require-transform'
+import { SearchPlugin } from "vitepress-plugin-search"
+import flexSearchIndexOptions from "flexsearch"
+
+const pluginOptions = {
+    ...flexSearchIndexOptions,
+    previewLength: 100, //搜索结果预览长度
+    buttonLabel: "搜索",
+    placeholder: "情输入关键词",
+}
 
 export default defineConfig({
     title: 'liyading的博客',
@@ -20,12 +29,6 @@ export default defineConfig({
         smoothScroll: true,
         search: {
             provider: 'local',
-            // provider: 'algolia',
-            // options: {
-            //     appId: 'JU9LPTY2LI',
-            //     apiKey: '5e882e9a629bb6767808c92e6ee30a48',
-            //     indexName: 'My First Application',
-            // }
         },
         // 社交账户链接
         socialLinks: [
@@ -76,9 +79,9 @@ export default defineConfig({
         requireTransform({
           fileRegex: /.js$|.vue$/
         }),
+        SearchPlugin(pluginOptions)
       ],
 })
 
 // 不限制监听数量
 process.setMaxListeners(0)
-
