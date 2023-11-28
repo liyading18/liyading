@@ -25,8 +25,8 @@ import PageView from '../../components/PageView.vue'
 配置业务域名需小程序管理员扫码验证
 :::
 
-![avatar](../../image//blogs/front/smallProgram/ym01.png)
-![avatar](../../image//blogs/front/smallProgram/ym02.png)
+![avatar](../../../image/blogs/front/smallProgram/ym01.png)
+![avatar](../../../image/blogs/front/smallProgram/ym02.png)
 
 #### 输入需要跳转的域名，然后点击下载校验文件，并将文件放置在需要跳转的域名的根目录下
 
@@ -35,12 +35,12 @@ import PageView from '../../components/PageView.vue'
 
 :::
 
-![avatar](../../image//blogs/front/smallProgram/ym03.png)
+![avatar](../../../image//blogs/front/smallProgram/ym03.png)
 
 #### 校验文件放置好后，点击保存按钮。校验成功后，输入的域名就会显示在业务域名中了，这就表示业务域名配置成功了
-![avatar](../../image//blogs/front/smallProgram/ym04.png)
+![avatar](../../../image//blogs/front/smallProgram/ym04.png)
 
 #### 放置成功后，将校验文件放在需要跳转的域名根目录文件下
-![avatar](../../image//blogs/front/smallProgram/ym05.png)
+![avatar](../../../image//blogs/front/smallProgram/ym05.png)
 
 参考链接：[如何在小程序配置域名](https://www.91jinteng.com/h-nd-193.html?fromColId=203)

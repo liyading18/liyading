@@ -80,7 +80,7 @@ export default defineConfig({
           fileRegex: /.js$|.vue$/
         }),
         SearchPlugin(pluginOptions)
-      ],
+    ]
 })
 
 // 不限制监听数量

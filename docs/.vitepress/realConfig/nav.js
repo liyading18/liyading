@@ -8,7 +8,14 @@ export const nav = [
     {
         text: '基础知识',
         items: [
-            { text: '前端', link: '/blogs/front/smallProgram' }
+            // {
+            //     text: '前端',
+            //     items: [
+            //         { text: '小程序', link: '/blogs/front/miniPro/smallProIndex' },
+            //         { text: 'js', link: '/blogs/front/js/jsIndex' }
+            //     ]
+            // },
+            { text: '前端', link: '/blogs/front/miniPro/smallProIndex' }
         ]
     },
     {

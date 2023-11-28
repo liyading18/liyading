@@ -12,9 +12,24 @@ export const sidebar = {
     '/blogs/front/': [
         {
             text: '前端',
-            collapsible: true,
             items: [
-                { text: '小程序', link: '/blogs/front/smallProgram' }
+                {
+                    text: '小程序',
+                    collapsed: true,
+                    collapsible: true,
+                    items: [
+                        { text: '配置业务域名', link: '/blogs/front/miniPro/smallProIndex' }
+                    ]
+                },
+                {
+                    text: 'js',
+                    collapsible: true,
+                    collapsed: true,
+                    items: [
+                        { text: '基础方法', link: '/blogs/front/js/jsIndex' }
+                    ]
+                }
+                
             ]
         }
     ],
@@ -34,6 +49,7 @@ export const sidebar = {
             items: [
                 {
                     text: '玄学',
+                    collapsible: true,
                     items: [
                         { text: '八字推算', link: '/blogs/other/bzCompter' }
                     ]
