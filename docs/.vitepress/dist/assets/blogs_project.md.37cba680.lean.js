@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as t,Q as o}from"./chunks/framework.bed04040.js";const u=JSON.parse('{"title":"项目实战","description":"","frontmatter":{},"headers":[],"relativePath":"blogs/project.md","filePath":"blogs/project.md"}'),r={name:"blogs/project.md"},_=o("",4),s=[_];function c(n,i,l,h,d,p){return e(),t("div",null,s)}const f=a(r,[["render",c]]);export{u as __pageData,f as default};
