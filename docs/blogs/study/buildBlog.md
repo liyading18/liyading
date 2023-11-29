@@ -71,6 +71,36 @@ npm i vitepress sass -D 或 pnpm add -D vitepress
 #### 3.3 创建<font color="red">docs/index.md</font> 文件
 在工程目录下创建 <font color='red'>docs</font> 目录，并添加 <font color='red'>index.md</font> 文件。此时已完成vitepress工程的初始化
 
+### 4. VitePress 添加本地搜索功能
+<br />
+
+#### 安装插件
+
+```js
+npm i vitepress-plugin-search markdown-it flexsearch -D
+```
+
+#### 添加和配置插件
+
+```js
+//vite.config.ts
+import { SearchPlugin } from "vitepress-plugin-search";
+import { defineConfig } from "vite";
+import flexSearchIndexOptions from "flexsearch";
+//default options
+var options = {
+  ...flexSearchIndexOptions,
+  previewLength: 100, //搜索结果预览长度
+  buttonLabel: "搜索",
+  placeholder: "情输入关键词",
+}
+
+export default defineConfig({
+  plugins: [SearchPlugin(options)],
+})
+```
+参考链接：[VitePress配置](https://chodocs.cn/program/vitepress-local-search/)
+
 
 ## 创建博客
 
