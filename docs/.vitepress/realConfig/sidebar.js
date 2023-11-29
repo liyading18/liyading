@@ -38,7 +38,13 @@ export const sidebar = {
             text: '公考',
             collapsible: true,
             items: [
-                { text: '行测', link: '/blogs/gongKao/index' }
+                // { text: '行测', link: '/blogs/gongKao/xc/indexXC' }
+                {
+                    text: '行测', collapsed: true, collapsible: true,
+                    items: [
+                        { text: '图形推理', link: '/blogs/gongKao/xc/indexXC' }
+                    ]
+                }
             ]
         }
     ],

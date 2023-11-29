@@ -20,8 +20,7 @@
   "scripts": {
     "dev": "vitepress dev docs --host",
     "build": "vitepress build docs",
-    "serve": "vitepress serve docs --host",
-    "deploy": "bash deploy.sh"
+    "serve": "vitepress serve docs --host"
   },
   "directories": {
     "doc": "docs"

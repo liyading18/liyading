@@ -6,17 +6,16 @@ VitePress是一个静态网站生成器，内容使用Markdown语法，配置简
 :::warning 注意：下面所述的安装过程和版本说明皆参考与对应工具的官网，后续可能会有更新或变动，以官网为准。
 :::
 
-
 ## 安装过程
 ### 1. 创建<font color="#dd0000">gitee</font>工程
-![创建仓库](../../image/blogs/study/buildBlog/giteeInit.png)
+![创建仓库](/image/blogs/study/buildBlog/giteeInit.png)
 
 ### 2. 创建完后公开仓库
 gitee先在改了规则，新创建工程的时候只能创建为私有化仓库，创建完之后再通过管理修改仓库基本信息将仓库公开后才能使用
 <font color="#dd0000">gitee pages</font>。不过<font color="#dd0000">gitee pages</font>
 是需要上传个人信息认证的，认证过之后就不需要再认证了。
 
-![创建仓库](../../image/blogs/study/buildBlog/gitCommon.png)
+![创建仓库](/image/blogs/study/buildBlog/gitCommon.png)
 
 
 ### 3. 初始化 `vitepress`
@@ -138,11 +137,11 @@ features:
 
 ### 2. 添加博客内容
 在docs目录下创建 <font color='red'>blogs</font> 目录，并添加如下文件 
-![博客目录](../../image/blogs/study/buildBlog/project01.png)
+![博客目录](/image/blogs/study/buildBlog/project01.png)
 
 ### 3. 添加配置文件
 在docs目录下创建 <font color='red'>.vitepress</font> 目录下创建 <font color='red'>config.js</font>文件
-![博客目录](../../image/blogs/study/buildBlog/config.png)
+![博客目录](/image/blogs/study/buildBlog/config.png)
 
 :::tip
 我们这里在搭建工程的时候, 考虑到侧边栏和导航栏的模块化, 故将 <font color='red'>sidebar 和 nav</font> 拆分出去了
@@ -157,7 +156,7 @@ features:
     拆分步骤3: <font color='red'>config.js</font>文件引入<font color='red'>sidebar.js 和 nav.js文件</font><br>
 </details>
 
-![工程目录](../../image/blogs/study/buildBlog/project04.png)
+![工程目录](/image/blogs/study/buildBlog/project04.png)
 
 :::warning 注意
 当拆分侧边栏和导航栏时, 在 <font color='blue'>.vitepress</font> 文件夹下不能创建以 <font color='blue'>config</font> 同名的文件夹, 因为 `vitepress` 会默认把它当成 `config.js`, 我们在这里以 <font color='blue'>realConfig</font> 命名 
@@ -290,15 +289,15 @@ export default defineConfig({
 
 ### 4. 添加 <font color='red'>vue</font> 组件
 在 `docs` 目录下创建 <font color='red'>components</font> 目录，`vue` 组件可放在此目录
-![博客目录](../../image/blogs/study/buildBlog/project02.png)
+![博客目录](/image/blogs/study/buildBlog/project02.png)
 
 ### 5. 添加静态资源
 在 `docs` 目录下创建 <font color='red'>public</font> 目录，所有的静态资源都放在该目录下面。此时一个比较完整的vitepress博客工程搭建完成，完整的目录文件结构如下图：
-![博客目录](../../image/blogs/study/buildBlog/project03.png)
+![博客目录](/image/blogs/study/buildBlog/project03.png)
 
 运行后效果如下:
 
-![运行效果](../../image/blogs/study/buildBlog/show.png)
+![运行效果](/image/blogs/study/buildBlog/show.png)
 
 ## gitee pages 发布
 
@@ -307,9 +306,7 @@ export default defineConfig({
 
 ### 2. 发布博客
 点击服务 → Gitee Pages
-![发布效果](../../image/blogs/study/buildBlog/gitRelease.png)
+![发布效果](/image/blogs/study/buildBlog/gitRelease.png)
 
 选择要发布的分支，并输入部署目录<font color='red'>docs/.vitepress/dist</font>，点击”启动” 或 "更新" 按钮开启。
-![发布效果](../../image/blogs/study/buildBlog/giteeRele.png)
-
-
+![发布效果](/image/blogs/study/buildBlog/giteeRele.png)
