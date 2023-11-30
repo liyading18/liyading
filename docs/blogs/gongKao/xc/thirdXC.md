@@ -211,7 +211,7 @@
     【掩耳：盗铃】【守株：待兔】【凿壁：偷光】【缘木：求鱼】<br />
     【望梅：止渴】【杀鸡：儆猴】【画饼：充饥】
 
-<img src="/image//blogs/study/gongKao/xc01/yuyi00.png" style="width: 240px;" />
+<img src="/image//blogs/study/gongKao/xc01/yuyi00.png" style="width: 220px;" />
 :::
 :::tip 拓展——拆分常见考法
 1. <b>语义关系：</b>【生死存亡】【南征北战】
@@ -223,5 +223,56 @@
 :::
 :::tip 方式：目的
 怎么想到？<b><font color=red>前后两词一般都是<u>动词/动宾结构</u></font></b><br />
-【刻舟：求剑】【按图：索骥】
+【刻舟：求剑】【按图：索骥】【削足：适履】【杀鸡：取卵】<br />
+【杀鸡：儆猴】【掩耳：盗铃】【守株：待兔】【凿壁：偷光】<br />
+【缘木：求鱼】【画饼：充饥】【饮鸠：止渴】【望梅：止渴】
 :::
+
+##### 一级关系&二级辨析
+
+<table>
+    <tr><th>一级关系</th><th>二级辨析</th></tr>
+    <tr>
+        <td>近反义关系</td>
+        <td>
+            <font color=red>感情色彩（褒义、贬义、中性）</font>
+        </td>
+    </tr>
+    <tr>
+        <td>并列关系</td>
+        <td>
+            <font color=red>顺序</font>
+        </td>
+    </tr>
+    <tr>
+        <td>工艺</td>
+        <td>
+            <font color=red>物理、化学</font>
+        </td>
+    </tr>
+    <tr>
+        <td>属性</td>
+        <td>
+            <font color=red>必然、或然</font>
+        </td>
+    </tr>
+    <tr>
+        <td>功能</td>
+        <td>
+            <font color=red>主要、次要</font>
+        </td>
+    </tr>
+    <tr>
+        <td>先后顺序</td>
+        <td>
+            <font color=red>主体能否一致</font>
+        </td>
+    </tr>
+    <tr>
+        <td>因果</td>
+        <td>
+            <font color=red>原因：人工/自然</font><br />
+            <font color=red>原因：人工/自然</font>
+        </td>
+    </tr>
+</table>
