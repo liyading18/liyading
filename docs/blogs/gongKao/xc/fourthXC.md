@@ -201,3 +201,191 @@
 :::
 
 #### 考点七、关于“并非”
+<span style="background:#000; color:#fff;">逻辑内涵：</span><br />
+<b>“并非”，即否定。</b>当“并非”出现时，<u>意味着否定后面所有的内容。</u><br />
+:::details 案例分析【并非】
+例：并非明天会下雨<br />
+<b>翻译为：</b> -明天会下雨 = 明天不会下雨
+:::
+<span style="background:#000; color:#fff;">同义关联词：</span><br />
+“并非”可以同义替换为：否、不、……是错的<br />
+<span style="background:#000; color:#fff;">推理规则：</span><br />
+<b>“并非”一出现，后面全部“否”：</b>
+“必然” 换 “可能”；“有的” 换 “所有”；“且” “或” 相互换。谓语动词最后否<br />
+<span style="background:#000; color:#fff;">注意：</span>必然，也可以同义替换为“一定”；未必 = 不必然
+
+#### 考点八、推理结构相似
+<b>例：</b>在全球范围内，所有的大城市的生活成本都比较高，上海是一座大城市，因此上海的生活成本比较高<br />
+<b>翻译：</b>大城市 → 生活成本较高，上海 → 大城市，所以，上海 → 生活成本较高（<b>即a → b, c → a, 所以 c → b</b>）<br />
+<b>推理结构相似的：</b>要进入法院工作必须通过 国家司法考试，小王在法院工作，因此小王已经通过了国家司法考试 <br />
+<b>翻译：</b>法院工作  → 通过国家司法考试，小王 → 法院工作，所以，小王 → 通过国家司法考试（<b>即a → b，c → a，所以 c → b</b>）
+
+#### 补充拓展
+:::tip 嵌套逻辑关联词
++ <font color=blue>如果A，就B，就C</font>：<font color=red>A → B，A → C</font>
++ <font color=blue>只有A，才B，才C</font>：<font color=red>B → A，C → A</font>
+:::
+:::details 案例分析【嵌套逻辑关联词】
+例：如果不能从政治上认识问题、解决问题，就会出现头痛医头、脚痛医脚的局面，就不能从根本上解决问题<br />
+<font color=blue>1. -(从政治上认识问题、解决问题) → 头痛医头、脚痛医脚</font><br />
+<font color=blue>2. -(从政治上认识问题、解决问题) → -从根本上解决问题</font>
+:::
+
++ <b><font color=red>至少：A 或 B</font></b><br />
++ <b><font color=red>至多：-A 或 -B</font></b>
+:::details 案例分析【至少、至多】
+1. A 和 B至少满足一个：<font color=blue>A 或 B</font><br />
+2. A 和 B至多满足一个：<font color=blue>-A 或 -B</font>
+:::
+:::details 时间不充足情况下的秒杀技巧
+<font color=blue>建议慎用：</font>勾掉双胞胎，秒杀单身狗
+<img src="/image/blogs/study/gongKao/xc04/tljg01.png" style="width: 600px;" />
+:::
+:::tip 特殊翻译
+<b>特殊翻译：</b> 题干没有确定信息，选项都是确定的结论<br />
+<b>运用特殊翻译：</b> <font color=red>A → B，-A → B，则B一定成立</font><br />
+<b><font color=red>箭头前后是矛盾，箭头后相同，箭头后必然成立！！！</font></b>
+<img src="/image/blogs/study/gongKao/xc04/tzhan01.png" style="width: 400px;" />
+:::
+
+### 2. 组合排列
+<br />
+
+#### 考点一、排除法、代入法
+:::tip 思维总结
+遇到组合排列类题目，优先考虑<b>排除法、代入法</b><br />
+1. <b><font color=red>题干条件确定</font> —— 优先考虑<font color=red>排除法</font></b><br />
+2. <b><font color=red>题干条件不确定（真假未知）</font> —— 优先考虑<font color=red>代入法</font></b><br />
+3. <b><font color=red>特殊问法</font>考虑代入：</b><br />
+&nbsp;&nbsp;▶<font color=red>”补充 / 添加以下选项可以推出“</font><br />
+&nbsp;&nbsp;▶<font color=red>”可能“、”不可能“</font><br />
+:::
+
+##### 排除法技巧总结 
+:::tip 排除法之 通用法 
+<b>遇到<font color=red>题干里说的都是真话，选项信息较为充分</font>（题干中有甲乙丙丁，选项中也有甲乙丙丁）</b>
+<img src="/image/blogs/study/gongKao/xc04/zhpl01.png" style="width: 550px;" />
+:::
+:::tip 排除法之 最值法
+<b>遇到<font color=red>最值（最大/最小）</font>的问题，<font color=red>要有意识找谁不是（最大/最小）的</font></b>
+<img src="/image/blogs/study/gongKao/xc04/zhpl02.png" style="width: 550px;" />
+:::
+
+##### 代入法技巧总结
+:::tip 代入法之 通用法
+<b><font color=red>题干条件不确定</font>（有对有错，不确定是对是错），<font color=red>优先代入</font></b>
+<img src="/image/blogs/study/gongKao/xc04/zhpl03.png" style="width: 600px;" />
+:::
+:::tip 代入法之 最小假设法
+<img src="/image/blogs/study/gongKao/xc04/zhpl04.png" style="width: 600px;" />
+:::
+:::tip 代入法之 优先代入题干信息相关的选项
+<img src="/image/blogs/study/gongKao/xc04/zhpl05.png" style="width: 600px;" />
+:::
+:::tip 代入法之 排序题解题思路
++ <b>问<font color=red>“可能 / 不可能”</font>，间隔代入</b><br />
+<b>涉及<font color=red>排序的间隔代入</font>，我们<span style="background:blue;color:#fff;">代入与题干相关的选项，尤其是与间隔相关的选项</span></b>
+<img src="/image/blogs/study/gongKao/xc04/zhpl06.png" style="width: 600px;" />
++ <b>问<font color=red>“由此推出” / “必然成立”</font>的确定信息，找确定信息</b><br />
+<b>确定信息的：<span style="background:blue;color:#fff;">只能推理，不能代入</span></b>
+<img src="/image/blogs/study/gongKao/xc04/zhpl07.png" style="width: 600px;" />
+:::
+
+#### 考点二、最大信息法
+如果不能用排除法、代入法，考虑最大信息法，即将<b><font color=red>最大信息法（条件中出现次数最多的信息）</font></b>作为推理的起点
+:::details 案例分析【最大信息法】
+<img src="/image/blogs/study/gongKao/xc04/zhpl08.png" style="width: 600px;" />
+<img src="/image/blogs/study/gongKao/xc04/zhpl09.png" style="width: 500px;" />
+:::
+
+##### 假设法
+<b><font color=red>二选一</font>或<font color=red>无确定信息、最大信息</font></b>
+:::details 案例分析【假设法】
+<img src="/image/blogs/study/gongKao/xc04/zhpl10.png" style="width: 600px;" />
+:::
+
+#### 材料（1拖5）
+1. 与非材料题解题方法一致 —— <b>一则材料、多种技巧</b><br />
+2. <b>通过材料直接推出的结论</b>可以直接应用于所有题目
+:::details 案例分析【材料1拖5】
+<img src="/image/blogs/study/gongKao/xc04/cl1t501.png" style="width: 600px;" />
+<img src="/image/blogs/study/gongKao/xc04/cl1t502.png" style="width: 600px;" />
+<img src="/image/blogs/study/gongKao/xc04/cl1t503.png" style="width: 600px;" />
+<img src="/image/blogs/study/gongKao/xc04/cl1t504.png" style="width: 600px;" />
+:::
+
+#### 日常结论
+<span style="background:#000; color:#fff;"><b>&nbsp;题型特征&nbsp;</b></span><br />
+<b>提问方式为“可以推出”“无法推出”等</b><br />
+<b><font color=blue>题干中无明显的逻辑关联词</font></b><br />
+<span style="background:#000; color:#fff;"><b>&nbsp;解题思维&nbsp;</b></span><br />
+<b>1. 不选：</b>逻辑错误、无中生有、偷换概念<br />
+<b>2. 慎选：</b>比较关系、绝对化表达、程度词<br />
+<b>3. 优选：</b>从弱原则（<font color=blue>或许 / 可能 / 有时</font>）<br />
+<span style="background:#000; color:#fff;"><b>&nbsp;注意事项&nbsp;</b></span><br />
+<b>1. 警惕“五大坑王”：<font color=red>更、最、越、首、极</font></b><br />
+<b>2. 短题干，先读文段；长题干，选项代入</b><br />
+:::details 案例分析【日常结论】
+<img src="/image/blogs/study/gongKao/xc04/rcjl01.png" style="width: 600px;" />
+<b><font color=blue>翻译词是绝对性说法</font></b><br />
+<img src="/image/blogs/study/gongKao/xc04/rcjl02.png" style="width: 600px;" />
+<img src="/image/blogs/study/gongKao/xc04/rcjl03.png" style="width: 600px;" />
+:::
+
+#### 加强削弱综述
+<span style="background:#000; color:#fff;"><b>&nbsp;题型特征&nbsp;</b></span><br />
+<b>削弱：</b>提问方式中带有“削弱”、“质疑”、“反驳”、“否定”等关键词<br />
+<b>加强：</b>提问方式中带有“加强”、“支持”、“假设”、“前提”等关键词<br />
+
+##### 找论点与论据 
+:::tip 典型提示词
+<b><font color=blue>论点提示词：</font>所以、结论是、这表明/说明意味着、由此推出、据此认为、显示出、意味着</b><br />
+<b><font color=blue>论句提示词：</font>由于、因为、鉴于、根据</b><br />
+<b><font color=blue>论句常见形式：</font>原因、数据、事例、实验或调查内容等</b><br />
+:::
+
+##### 首尾句原则
+<b><font color=blue>论点出现在首尾句居多</font></b>
+:::details 案例分析【首尾句原则】
+<img src="/image/blogs/study/gongKao/xc04/rcjl04.png" style="width: 550px;" />
+:::
+
+#### 削弱题型
+<span style="background:#000; color:#fff;"><b>&nbsp;题型特征&nbsp;</b></span><br />
+> <b>常见提问方式：</b>
++ 如果以下各项为真，最能<font color=red>质疑/反驳/削弱/反对</font>上述论断的是？<br />
++ 如果以下各项为真，<font color=red>(最)不能质疑</font>上述论断的是？<br />
+
+##### <span style="background:#f00; color:#fff;"><b>&nbsp;削弱方式一、否定论点（力度最强&最常考）&nbsp;</b></span>
++ <b>选项特征：<font color=red>与论点表述的意思相反</font></b>
+:::details 案例分析【削弱论点】
+例：粉笔的老师都爱发红包<br />
+<b>削弱论点：</b>粉笔老师不爱发红包 / 粉笔李老师不爱发红包<br />
+A. 粉笔老师喜欢抢红包 —— <font color=red>话题不一致</font><br />
+B. 阳光小学的老师不爱发红包 —— <font color=red>主体不一致</font><br />
+C. 没人知道粉笔老师是否爱发红包 —— <font color=red>不明确选项</font><br />
+<img src="/image/blogs/study/gongKao/xc04/rcjl05.png" style="width: 600px;" />
+:::
++ <b>选项特征：<font color=red>只有论点，优先考虑否论点</font></b>
+:::details 案例分析【只有论点，优先考虑否论点】
+<img src="/image/blogs/study/gongKao/xc04/rcjl06.png" style="width: 600px;" />
+:::
++ <b>选项特征：<font color=red>“权威说”一般不选</font></b>
+:::details 案例分析【“权威说”一般不选】
+<img src="/image/blogs/study/gongKao/xc04/rcjl07.png" style="width: 600px;" />
+:::
++ <b><font color=red>特殊论点形式：翻译词 且 削弱</font></b>
+:::details 案例分析【特殊论点形式：翻译词 且 削弱】
+<b>解题技巧：<font color=blue>1. 翻译论点：A→B</font>；<font color=red>2. 选择其矛盾命题A且-B</font></b>
+<img src="/image/blogs/study/gongKao/xc04/rcjl07.png" style="width: 600px;" />
+<img src="/image/blogs/study/gongKao/xc04/rcjl08.png" style="width: 600px;" />
+<img src="/image/blogs/study/gongKao/xc04/rcjl09.png" style="width: 600px;" />
+:::
+
+##### 削弱论点小结（力度最强&最常考）
+:::tip 削弱论点小结
+<b>解题步骤：<font color=red>找论点 → 想出削弱 → 对比选项</font></b><br />
+<b><font color=blue>1. 只有论点或论点论据话题一致：优先考虑否论点</font></b><br />
+<b><font color=blue>2. 注意论点中的程度、时间限定词</font></b><br />
+<b><font color=blue>3. 注意力度的比较：整体 > 部分； 必然 > 可能； 越接近论点越好</font></b>
+:::
