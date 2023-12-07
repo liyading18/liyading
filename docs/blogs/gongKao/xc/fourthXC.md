@@ -389,3 +389,90 @@ C. 没人知道粉笔老师是否爱发红包 —— <font color=red>不明确�
 <b><font color=blue>2. 注意论点中的程度、时间限定词</font></b><br />
 <b><font color=blue>3. 注意力度的比较：整体 > 部分； 必然 > 可能； 越接近论点越好</font></b>
 :::
+
+##### <span style="background:#f00; color:#fff;"><b>&nbsp;削弱方式二、拆桥（力度仅次于削弱论点）&nbsp;</b></span>
++ <b>拆桥指的是<font color=red>破坏论点和论据之间的关系</font></b>
++ <b><font color=red>什么时候考虑拆桥？</font></b><br />
+1. <b><font color=blue>没有否论点的选项</font></b><br />
+2. <b><font color=blue>论点与论据的话题不一致</font></b><br />
+:::info 削弱之拆桥
+<img src="/image/blogs/study/gongKao/xc04/chaiqiao01.png" style="width: 480px;" />
+:::
+:::info 什么时候论点与论据不一致？
+<img src="/image/blogs/study/gongKao/xc04/chaiqiao02.png" style="width: 550px;" />
+:::
+:::details 拆桥练习【论点与论据之间没有必然关系】
+<b>论点：</b>我很幸福<br />
+<b>论据：</b>我很有钱<br />
+A. <u>有没有钱</u>和<u>幸不幸福</u>没有必然关系<font color=red><b>（拆桥）</b></font><br />
+B. 有钱的人也会不幸福<font color=red><b>（拆桥）</b></font><br />
+C. 有钱不是衡量幸福的唯一标准<font color=red><b>（拆桥）</b></font><br />
+<img src="/image/blogs/study/gongKao/xc04/chaiqiao03.png" style="width: 600px;" />
+:::
+
+> <b><font color=red>“时髦”拆桥</font></b>
+
+<b>论据：<font color=blue>某物质中的一些元素</font>有效</b><br />
+<b>论点：<font color=red>某物质</font>有效</b><br />
+<b>削弱：<font color=red>某物质</font>内<font color=blue>含量极少 / 要吃极多</font></b><br />
+<span style="background:#f00;color:#fff;"><b>&nbsp;（元素 ≠ 物质）&nbsp;</b></span>
+:::details 案例分析【“时髦”拆桥】
+<img src="/image/blogs/study/gongKao/xc04/chaiqiao04.png" style="width: 400px;" />
+<img src="/image/blogs/study/gongKao/xc04/chaiqiao05.png" style="width: 550px;" />
+:::
+
+##### 拆桥小结（力度仅次于否论点）
+:::tip 拆桥小结
++ <span style="background:#000; color:#fff;"><b>&nbsp;什么时候考虑拆桥？&nbsp;</b></span><br />
+1. <b><font color=blue>论点、论据话题不一致</font></b><br />
+2. <b><font color=blue>设问方式为削弱“论证”</font></b><br />
+3. <b><font color=blue>没有否论点</font></b>
+<br />
+
+<b>拆桥的不同形式：<font color=red>今天特别热，因为今天出太阳了</font></b><br />
+1. 出太阳推不出天气热<br />
+2. 出不出太阳 和 天气热不热没关系<br />
+3. 有时候出太阳也不热<br />
+4. 出太阳不是影响气温升高的唯一因素
+:::
+
+##### <span style="background:#f00; color:#fff;"><b>&nbsp;否定论据&nbsp;</b></span>
+:::info 否论据
++ <span style="background:#000; color:#fff;"><b>&nbsp;题型特征：&nbsp;</b></span><br />
+1. <b><font color=blue>题干中有“双方互怼”，经常采用否定论据来削弱</font></b><br />
+2. <b><font color=blue>题干有论据 且 再找不到否论点和拆桥</font></b><br />
++ <span style="background:#000; color:#fff;"><b>&nbsp;选项特征：&nbsp;</b></span><b><font color=blue>与论据表述的意思相反</font></b><br />
+<img src="/image/blogs/study/gongKao/xc04/flj01.png" style="width: 480px;" />
+:::
+:::details 案例分析【否论据-双方互怼】
+<img src="/image/blogs/study/gongKao/xc04/flj02.png" style="width: 600px;" />
+:::
+:::details 案例分析【否论据-选项中包含对策，建议不选】
+<img src="/image/blogs/study/gongKao/xc04/flj03.png" style="width: 600px;" />
+:::
+
+##### <span style="background:#f00; color:#fff;"><b>&nbsp;削弱方式四、因果倒置与另有他因&nbsp;</b></span>
+<b><font color=red>什么是因果论证？</font> —— <font color=blue>论点中包含因果关系</font></b><br />
+……是……的原因；<br />……导致 /使得/有助于……；<br />……增加/降低/减轻……；<br />这是由于……
+:::details 案例分析【因果论证】
+研究人员认为，“缺觉”是导致第二天没有精神的原因
+:::
+<b><font color=red>因果倒置：</font><font color=blue>原因和结果说反了</font></b><br />
+<b>论点：1 导致 2</b><br />
+<b>因果倒置颠倒：2 导致 1</b><br />
+:::details 案例分析【因果倒置】
++ 落后导致挨打 → <font color=red>因果倒置</font>：  挨打使得落后<br />
++ 喝可乐让我胖了 → <font color=red>因果倒置</font>： 胖子才喝可乐【喝可乐（<font color=red>先</font>，胖（<font color=red>后</font>））】<br />
+:::
+:::tip 思维总结
+<b><font color=blue>因果倒置选项特征：</font><font color=red><u>因果</u>同时出现 且 时间顺序颠倒</font></b><br />
+<b><font color=blue>因果倒置是一种特殊的否论点，</font><font color=red>一般情况下，出现因果倒置的选项，<u>优选</u></font></b><br />
+:::
+:::details 案例分析【因果倒置】
+<img src="/image/blogs/study/gongKao/xc04/ygdz01.png" style="width: 600px;" />
+:::
+
+##### <span style="background:#f00; color:#fff;"><b>&nbsp;削弱方式五、因果倒置和他因削弱&nbsp;</b></span>
+<b><font color=red>他因的本质：干扰因素</font>——<font color=blue>用于削弱论点原因与结果之间的唯一关系</font></b><br />
+<b><font color=red>他因的特点：</font>——<font color=blue>同一主体、同一时间、不同原因</font></b><br />
+<b><font color=red>因果倒置 > 他因</font></b><br />
