@@ -476,3 +476,18 @@ C. 有钱不是衡量幸福的唯一标准<font color=red><b>（拆桥）</b></f
 <b><font color=red>他因的本质：干扰因素</font>——<font color=blue>用于削弱论点原因与结果之间的唯一关系</font></b><br />
 <b><font color=red>他因的特点：</font>——<font color=blue>同一主体、同一时间、不同原因</font></b><br />
 <b><font color=red>因果倒置 > 他因</font></b><br />
+:::details 案例分析【他因削弱】
+例：做了个实验，实验结果证明：每天做40道判断推理题让人很快乐<br />
+A. 每天做20道资料分析也会让人快乐（无关选项）<br />
+B. 这些人除了做判断推理题 还都中了彩票大奖（<font color=blue>他因削弱</font>）<br />
+<img src="/image/blogs/study/gongKao/xc04/tyxu01.png" style="width: 660px;" />
+<img src="/image/blogs/study/gongKao/xc04/tyxu02.png" style="width: 660px;" />
+:::
+
+##### <span style="background:#f00; color:#fff;"><b>&nbsp;加强题型&nbsp;</b></span>
+::: info 题型特征
+<b><font color=red>常见提问方式：</font></b><br />
++ 如果以下各项为真，最能<font color=red>加强/支持/赞同/证明</font>上述论断的是？（<font color=blue>90%补新论据</font>）<br />
++ 以下哪项为真，是上述论断成立的<font color=red>前提/假设/必要条件</font>上述论断的是？（<font color=blue>90%搭桥</font>）<br />
++ 如果以下各项为真，<font color=red>（最）不能加强</font>上述论断的是？（<font color=blue>削弱/无关</font>）<br />
+:::

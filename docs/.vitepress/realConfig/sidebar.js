@@ -1,11 +1,16 @@
 export const sidebar = {
     '/blogs/study': [
         {
-            text: '利其器',
-            collapsible: true,
+            text: '利其器', collapsed: true, collapsible: true,
             items: [
-                {text: '可能不知道的实用网站', link: '/blogs/study/index'},
-                {text: 'vitepress+gitee pages搭建博客', link: '/blogs/study/buildBlog'},
+                { text: '可能不知道的实用网站', link: '/blogs/study/other/index' },
+                { text: 'vitepress+gitee pages搭建博客', link: '/blogs/study/other/buildBlog' },
+                {
+                    text: 'git相关知识',
+                    items: [
+                        { text: 'git tag 操作', collapsed: true, collapsible: true, link: '/blogs/study/git/gitTag' }
+                    ]
+                },
             ]
         }
     ],
@@ -14,21 +19,17 @@ export const sidebar = {
             text: '前端',
             items: [
                 {
-                    text: '小程序',
-                    collapsed: true,
-                    collapsible: true,
+                    text: '小程序', collapsed: true, collapsible: true,
                     items: [
                         { text: '配置业务域名', link: '/blogs/front/miniPro/smallProIndex' }
                     ]
                 },
                 {
-                    text: 'js',
-                    collapsible: true,
-                    collapsed: true,
+                    text: 'js', collapsible: true, collapsed: true,
                     items: [
                         { text: '基础方法', link: '/blogs/front/js/jsIndex' }
                     ]
-                }
+                },
                 
             ]
         }
@@ -56,12 +57,10 @@ export const sidebar = {
     ],
     '/blogs/other': [
         {
-            text: '其他',
-            collapsible: true,
+            text: '其他', collapsible: true,
             items: [
                 {
-                    text: '玄学',
-                    collapsible: true,
+                    text: '玄学', collapsible: true,
                     items: [
                         { text: '八字推算', link: '/blogs/other/bzCompter' }
                     ]

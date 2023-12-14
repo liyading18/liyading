@@ -2,7 +2,7 @@ export const nav = [
     {
         text: '菜鸟成长',
         items: [
-            { text: '实用工具', link: '/blogs/study/index' },
+            { text: '实用工具', link: '/blogs/study/other/index' },
         ]
     },
     {
@@ -15,7 +15,8 @@ export const nav = [
             //         { text: 'js', link: '/blogs/front/js/jsIndex' }
             //     ]
             // },
-            { text: '前端', link: '/blogs/front/miniPro/smallProIndex' }
+            { text: '前端', link: '/blogs/front/miniPro/smallProIndex' },
+            { text: 'git', link: '/blogs/study/git/gitTag' },
         ]
     },
     {
