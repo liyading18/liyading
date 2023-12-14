@@ -267,3 +267,4 @@ git push origin --tags
 5. 合并bugfix分支到主干上
 6. 手动推送标签到远程
 
+参考文献：[廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600)
