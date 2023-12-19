@@ -351,10 +351,11 @@
 :::
 
 #### 削弱题型
-<span style="background:#000; color:#fff;"><b>&nbsp;题型特征&nbsp;</b></span><br />
-> <b>常见提问方式：</b>
+::: info 题型特征:
+<b>常见提问方式：</b>
 + 如果以下各项为真，最能<font color=red>质疑/反驳/削弱/反对</font>上述论断的是？<br />
 + 如果以下各项为真，<font color=red>(最)不能质疑</font>上述论断的是？<br />
+:::
 
 ##### <span style="background:#f00; color:#fff;"><b>&nbsp;削弱方式一、否定论点（力度最强&最常考）&nbsp;</b></span>
 + <b>选项特征：<font color=red>与论点表述的意思相反</font></b>
@@ -484,10 +485,56 @@ B. 这些人除了做判断推理题 还都中了彩票大奖（<font color=blue
 <img src="/image/blogs/study/gongKao/xc04/tyxu02.png" style="width: 660px;" />
 :::
 
-##### <span style="background:#f00; color:#fff;"><b>&nbsp;加强题型&nbsp;</b></span>
+#### <span style="background:#f00; color:#fff;"><b>&nbsp;加强题型&nbsp;</b></span>
 ::: info 题型特征
 <b><font color=red>常见提问方式：</font></b><br />
 + 如果以下各项为真，最能<font color=red>加强/支持/赞同/证明</font>上述论断的是？（<font color=blue>90%补新论据</font>）<br />
 + 以下哪项为真，是上述论断成立的<font color=red>前提/假设/必要条件</font>上述论断的是？（<font color=blue>90%搭桥</font>）<br />
 + 如果以下各项为真，<font color=red>（最）不能加强</font>上述论断的是？（<font color=blue>削弱/无关</font>）<br />
 :::
+
+##### <span style="background:#000; color:#fff;"><b>&nbsp;加强之补充论据&nbsp;</b></span>
+1. <b>解释原因：</b>说明论点成立的原因 —— <font color=red>整体上解释</font><br />
+2. <b>举例支持：</b>证明论点成立的例子 —— <font color=red>部分上证明</font><br />
+<span style="background:#f00; color:#fff;"><b>&nbsp;解释 > 举例子； 整体 > 部分； 必然 > 可能&nbsp;</b></span><br />
+<span style="background:#f00; color:#fff;"><b>&nbsp;论点：解释原理； 举例子&nbsp;</b></span><br />
+:::details 案例分析【加强之补充论据】
+<b>论点：多吃芹菜有助于高血压患者控制血压</b><br />
+A. 芹菜中的丁基苯酞类物质能抑制血管平滑肌紧张，减少肾上腺素的分泌，从而降低和平稳血压。<font color=red>（解释原理）</font><br />
+B. 老明特别爱吃芹菜，困扰多年的高血压终于得到了控制。<font color=red>（个体，举例子）</font><br />
+<img src="/image/blogs/study/gongKao/xc04/jqlj01.png" />
+<img src="/image/blogs/study/gongKao/xc04/jqlj02.png" />
+<img src="/image/blogs/study/gongKao/xc04/jqlj03.png" />
+:::
+
+##### <span style="background:#000; color:#fff;"><b>&nbsp;加强之搭桥（力度最强）&nbsp;</b></span>
+<img src="/image/blogs/study/gongKao/xc04/dq01.png" style="width: 400px;" />
+
+:::tip 注意事项
+<b>搭桥方向 —— <font color=blue>论据    推出   论点</font></b>
+:::
+<b>题型特征：</b><br />
+1. <font color=blue>论点与论据话题不一致</font><br />
+2. <font color=blue>提问方式为<font color=red>前提、假设、必要条件、加强论证</font>时，优先考虑搭桥</font><br />
+<b>选项特征：</b><br />
+<font color=blue>同时包含论点和论据的关键词，并肯定论点和论据之间的关系</font><br />
+<b>解题思维：</b><br />
+<font color=blue>找论点 → 找论据 → <font color=red>去同存异</font> → 对比选项</font><br /><br />
+
+##### <span style="background:#000; color:#fff;"><b>&nbsp;补充论据与搭桥的区别&nbsp;</b></span>
+<b>解释原理 / 举例子（补充论据）</b> ——  <b><font color=red>论点</font>关键词</b><br />
+<b>搭桥</b> ——  <b><font color=red>论点 + 论据</font>关键词，<font color=blue>剩下不同的关键词</font></b><br />
+:::details 案例分析
+1. 听课可以学到解题技巧，因此听课可以提升考试成绩<br />
+&nbsp;&nbsp;<font color=blue>学到技巧    就可以    提高成绩</font><br />
+2. 一中的教学质量特别高，因为今年文理科状元都在一中<br />
+&nbsp;&nbsp;<font color=blue>文理科状元    就可以    代表教学质量高</font>
+<img src="/image/blogs/study/gongKao/xc04/dq02.png" />
+<img src="/image/blogs/study/gongKao/xc04/dq03.png" />
+<img src="/image/blogs/study/gongKao/xc04/dq04.png" />
+<img src="/image/blogs/study/gongKao/xc04/dq05.png" />
+:::
+
+##### <span style="background:#000; color:#fff;"><b>&nbsp;加强之必要条件&nbsp;</b></span>
+<b><font color=red>必要条件：选项为论点成立的必要条件</font><font color=blue>（没它不行）</font></b><br />
+<b>提问方式为<font color=blue>前提、假设、必要条件</font>，且<font color=red>无搭桥选项</font></b><br />
