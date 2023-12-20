@@ -49,8 +49,14 @@ export const sidebar = {
                                 { text: '类比推理', link: '/blogs/gongKao/xc/thirdXC' },
                                 { text: '逻辑判断', link: '/blogs/gongKao/xc/fourthXC' },
                             ]
+                        },
+                        {
+                            text: '数量关系与资料分析', collapsed: true, collapsible: true,
+                            items: [
+                                { text: '数学运算', link: '/blogs/gongKao/xc/fiveXC' }
+                            ]
                         }
-                    ],
+                    ]
                 }
             ]
         }
