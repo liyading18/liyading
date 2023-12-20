@@ -538,3 +538,62 @@ B. 老明特别爱吃芹菜，困扰多年的高血压终于得到了控制。<f
 ##### <span style="background:#000; color:#fff;"><b>&nbsp;加强之必要条件&nbsp;</b></span>
 <b><font color=red>必要条件：选项为论点成立的必要条件</font><font color=blue>（没它不行）</font></b><br />
 <b>提问方式为<font color=blue>前提、假设、必要条件</font>，且<font color=red>无搭桥选项</font></b><br />
+:::details 案例分析【加强之必要条件】
+<img src="/image/blogs/study/gongKao/xc04/dq06.png" style="width:300px;" />
+:::
+<b><font color=red>搭桥 = 必要条件 > 原因解释 > 举例子</font></b><br />
+:::details 案例分析【加强之必要条件】
+![加强必要](/image/blogs/study/gongKao/xc04/jqby01.png)
+:::
+:::details 案例分析【加强之必要条件】
+![加强必要](/image/blogs/study/gongKao/xc04/jqby02.png)
+<b>本题考的是<font color=red>方式 + 目的</font>，可以从以下两个方向考虑选项：</b><br />
+<font color=blue>1. 方式可行</font><br />
+<font color=blue>2. 目的实现</font>
+:::
+
+::: tip 加强论证的解题思维
++ <font color=blue>提问方式：支持/加强观点 —— 补充论据</font><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>找论点 → 圈关键词 → 对应答案</font><br />
++ <font color=blue>提问方式：前提/假设/论证</font><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>有论点、有论据 —— 搭桥：找论点、论据 → <font color=blue>去同存异</font> → 对应答案</font><br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color=red>有论点、无论据 —— 必要条件：没TA不行（常考<font color=blue>方式+目的</font>的论点）</font>
+:::
+
+#### <span style="background:#f00; color:#fff;"><b>&nbsp;削弱/加强技巧总结&nbsp;</b></span>
+:::tip 削弱/加强总结
+<img src="/image/blogs/study/gongKao/xc04/xrjqzj01.png" style="width:450px;" />
+<br />
+<img src="/image/blogs/study/gongKao/xc04/xrjqzj02.png" style="width:450px;" />
+:::
+
+#### <span style="background:#f00; color:#fff;"><b>&nbsp;原因解释&nbsp;</b></span>
+<b>题型特征：</b><br />
+提问方式：最能解释 / <font color=red>不能解释</font>上述现象<br />
+题干中存在<font color=red>看似矛盾的现象</font><br />
+<b>解题思维：</b><br />
+<font color=blue>1. 找矛盾 —— 转折词：但是、然而……</font><br />
+<font color=blue>2. 给理由 —— 能够解释矛盾双方</font><br />
+:::details 案例分析【原因解释】
+<img src="/image/blogs/study/gongKao/xc04/yyjs01.png" style="width:350px;" />
+
+![原因解释](/image/blogs/study/gongKao/xc04/yyjs02.png)
+:::
+:::details 案例分析【常见矛盾：不增反降 / 不降反增】
+![原因解释](/image/blogs/study/gongKao/xc04/yyjs03.png)
+:::
+
+#### <span style="background:#f00; color:#fff;"><b>&nbsp;真假推理&nbsp;</b></span>
+<br />
+
+##### <span style="background:#000; color:#fff;"><b>&nbsp;反对关系&nbsp;</b></span>
+<b>常见的反对关系：</b><br />
+1. 有的A是B  与  有的A不是B  （<font color=red>必有一真</font>）<br />
+2. 所有A都是B  与  所有A都不是B  （<font color=red>必有一假</font>）<br />
+3. 所有A都是B  与  有的A不是B  （<font color=red>必有一真一假</font>）<br />
+4. 所有A都不是B  与  有的A是B  （<font color=red>必有一真一假</font>）<br />
+
+:::details 案例分析【真假推理】
+![真假推理](/image/blogs/study/gongKao/xc04/zjtl.png)
+:::
+
