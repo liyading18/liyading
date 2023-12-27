@@ -134,3 +134,93 @@
 3. <b><font color=red>设关联多的</font></b> —— 方便列式 <br />
 4. <b><font color=red>尽量求谁设谁</font></b> —— 避免掉坑 <br />
 :::
+
+### 不定方程
+<b>`适用范围：`</b>未知数个数多于方程个数，不能通过一般的消元法直接得到唯一解<br />
+<b>`具体用法：`</b><br />
+根据题目条件对未知数是否必须为整数的限制，可将不定方程分为<b>限定性不定方程和非限定性不定方程。前者指未知数必须为正整数，</b>
+常用来表示人数、盒子或者其他物体的个数的方程；后者则无此要求，其未知数常指物品的价格等
+::: tip 思维总结
+1. <b>求解限定性不定方程的常用方法：</b>首先根据奇偶性、倍数特性、尾数特性等数字特性缩小未知数的范围，然后结合代入法判断<br />
+2. <b>求解非限定性不定方程的常用方法：</b>多项式的整体代换或者赋零法<br />
+3. <b>“逢质必2”，<font color=red>当一个数既是质数又是偶数时，它一定是2</font></b><br />
+4. <b><font color=red>在赋零法中，尽量选取两式都有的量赋为0，从而加快做题速度</font></b>
+:::
+
+#### 不定方程的解题方法
+通过列式，得到<b><font color=blue>一个不定方程</font></b> —— 直接考虑<b><font color=red>数字特性</font></b><br />
+<b>建议顺序：</b>尾数 → 倍数 → 奇偶 → 代入<br />
+
+通过列式，得到<b><font color=blue>两个不定方程</font></b> —— 一定要看所设<b><font color=red>未知数是否必须为整数</font></b><br />
+未知数<b><font color=red>必须为整数时</font>，</b>用<b><font color=red>消元法</font></b>，转化成一个不定方程，分析数字特性<br />
+未知数<b><font color=red>不一定为整数时</font>，</b>用<b><font color=red>赋0法</font></b>，让其中一个未知数为0，解出其他未知数<br />
+
+<img src="/image/blogs/study/gongKao/xc05/szys20.png" style="width: 400px;" />
+<img src="/image/blogs/study/gongKao/xc05/szys21.png" style="width: 400px;" />
+
+:::details 鸡兔同笼（假设法巧解方程）
+<img src="/image/blogs/study/gongKao/xc05/szys22.png" style="width: 500px;" />
+<img src="/image/blogs/study/gongKao/xc05/szys23.png" style="width: 500px;" />
+<img src="/image/blogs/study/gongKao/xc05/szys24.png" style="width: 500px;" />
+:::
+:::details 假设法巧解方程
+<img src="/image/blogs/study/gongKao/xc05/szys24.png" style="width: 500px;" />
+<img src="/image/blogs/study/gongKao/xc05/szys25.png" style="width: 500px;" />
+:::
+
+## 赋值法
+<b>`适用范围：`</b><br />
+1. 题干中没有出现具体的值，条件都是以倍数、分数、百分数、比例等形式给出<br />
+2. 在`A=B x C`这样的<b>三量关系</b>中，（三量关系指的是<b><font color=red>工程量=效率 x 时间，路程=速度 x 时间，溶质质量=溶液质量 x 浓度</font></b>）
+
+:::details 案例分析【赋值法】
+![倍数特性](/image/blogs/study/gongKao/xc05/szys25.png)
+:::
+
+## 线段法
+<b>`适用范围：` 混合比例问题</b><br />
+1. 所谓混合，<b>即两个或者多个部分混到一起变成一个整体</b>，混合问题的核心在于搞清总体和部分之间的关系<br />
+2. 所谓比例，<b>即计算公式为两个量相除的形式</b>，如<b>浓度=溶质质量÷溶液质量；折扣=售价÷定价；利润率=利润÷成本；比重=部分÷总体；</b>等等
+:::tip 思维总结
+<b><font color=blue>混合前溶液量的比值</font>与<font color=blue>浓度差</font>（混合前浓度与混合后整体的浓度相减）<font color=red>成反比</font></b>
+:::
+:::details 案例分析【混合比例】
+<img src="/image/blogs/study/gongKao/xc05/szys27.png" style="width: 500px;" />
+<b>自我总结：<font color=red>十字交叉法</font></b>
+<img src="/image/blogs/study/gongKao/xc05/szys28.png" style="width: 500px;" />
+:::
+
+## 高频考点
+
+### 工程问题
+<b><font color=blue>工程量 = 效率 x 时间</font></b><br />
+
+一般工程问题中，都会给出时间，列式形式分为：<br />
+1. 给出具体的总量或效率（<font color=red>列方程即可</font>）
+2. 只给出时间，并且是<b>多个完工时间</b>（<font color=red>赋值总量</font>）
+3. 只给出时间，并且给出<b>效率比例</b>（<font color=red>赋值效率</font>）
+
+#### 完工时间型（给了两个及以上的完工时间）
+:::info 方法
+1. <b><font color=red>赋总量</font></b> —— 最好为完工时间的<b>最小公倍数</b><br />
+2. <b><font color=red>求效率</font></b> —— 效率 = 总量 ÷ 时间<br />
+3. <b><font color=red>听话做题</font></b> —— 根据题目要求完成工作<br />
+:::
+:::details 案例分析【完工时间型】
+![完工时间型](/image/blogs/study/gongKao/xc05/szys29.png)
+:::
+
+#### 效率比例型（给出效率之间的比例）
+:::info 方法
+1. <b><font color=red>赋效率</font></b> —— 最好为比例数<br />
+2. <b><font color=red>求总量</font></b> —— <b>效率 = 总量 ÷ 时间</b><br />
+3. <b><font color=red>听话做题</font></b> —— 根据题目要求完成工作<br />
+:::
+
+### 行程问题
+<b>`普通行程`</b><br />
+1. 路程 = 速度 x 时间（s = vt）<br />
+2. <b><font color=blue>等距离平均速度</font> = 2 x v1 </b>
+
+$\sqrt{3x-1}+(1+x)^2$
+
