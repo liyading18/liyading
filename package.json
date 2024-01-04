@@ -12,6 +12,7 @@
   "devDependencies": {
     "flexsearch": "^0.7.31",
     "markdown-it": "^13.0.2",
+    "markdown-it-mathjax3": "^4.3.2",
     "sass": "^1.57.0",
     "vite-plugin-require-transform": "^1.0.21",
     "vitepress-plugin-search": "^1.0.4-alpha.20"

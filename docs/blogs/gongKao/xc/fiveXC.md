@@ -218,9 +218,141 @@
 :::
 
 ### 行程问题
-<b>`普通行程`</b><br />
-1. 路程 = 速度 x 时间（s = vt）<br />
-2. <b><font color=blue>等距离平均速度</font> = 2 x v1 </b>
+<br />
 
-$\sqrt{3x-1}+(1+x)^2$
+#### 普通行程
+
+$1. 路程 = 速度 \times 时间（s = vt）$
+
+<b><font color=blue>$2. 等距离平均速度=\frac{2v_1v_2}{v_1+v_2}$</font></b>
+<b><u>往往全程的平均速度和平路的平均速度相同</u></b>
+<img src="/image/blogs/study/gongKao/xc05/xc01.png" style="width: 500px;" />
+
+#### 相对行程
+
+1. <b><u>相遇</u></b>问题<br />
+<b><font color=red>路程和 = </font>（大速度 + 小速度）× 时间</b>
+
+2. <b><u>多次相遇，两头分别出发</u></b><br />
+<b><font color=red>（2n -1）× s = （大速度 + 小速度）× 时间</font></b><br />
+<b>n代表相遇次数，s代表两地距离</b>
+<img src="/image/blogs/study/gongKao/xc05/xc02.png" style="width: 500px;" />
+
+3. <b><u>多次相遇，一头同时出发</u></b><br />
+<b><font color=red>2n x s = （大速度 + 小速度）× 时间</font></b><br />
+<b>n代表相遇次数，s代表两地距离</b>
+<img src="/image/blogs/study/gongKao/xc05/xc03.png" style="width: 500px;" />
+
+4. <b><u>追及问题</u></b><br />
+<b><font color=red>路程差 = （大速度 - 小速度）× 时间</font></b><br />
+
+5. <b><u>顺水行船</u></b><br />
+<b><font color=red>路程 = （船速 + 水速）× 时间</font></b><br />
+
+6. <b><u>逆水行船</u></b><br />
+<b><font color=red>路程 = （船速 - 水速）× 时间</font></b><br />
+<img src="/image/blogs/study/gongKao/xc05/xc04.png" style="width: 450px;" />
+<img src="/image/blogs/study/gongKao/xc05/xc05.png" style="width: 500px;" />
+<img src="/image/blogs/study/gongKao/xc05/xc06.png" style="width: 500px;" />
+
+### 经济利润问题
+1. <b><font color=red>利润 = </font></b>售价 - 进价<br />
+2. <b><font color=red>利润率 = </font></b>利润 ÷ 进价 = （售价-进价）÷ 进价<br />
+3. <b><font color=red>售价 = </font></b>进价 × （1+利润率）<br />
+4. <b><font color=red>折扣 = </font></b>售价 ÷ 定价<br />
+<img src="/image/blogs/study/gongKao/xc05/xc07.png" style="width: 500px;" />
+
+### 溶液问题
+<b>溶质质量 = 溶液质量 × 浓度</b>
+
+### 排列组合与概率
+<b>`基础知识`</b><br />
+> <b>分类：加法</b><br /><b>分步：乘法（<font color=red>单拿出来一部分是完不成任务的</font>）</b>
+
+> <b>排列：与顺序有关</b><br /><b>组合：与顺序无关</b>
+
+<b>$排列公式：A_n^m=P_n^m=A_m^{个数}=\frac{n!}{(n-m)!}=n(n-1)(n-2)……(n-m+1)$</b>
+
+<b>$组合公式：C_n^m=C_{n-m}^m=\frac{A_n^m}{A_m^m}=\frac{n!}{(n-m)!m!}=\frac{n(n-1)(n-2)……(n-m+1)}{m(m-1)(m-2)……2×1}$</b>
+
+:::info 特殊形式：
+$C^9_{10}=C^1_{10}=10$
+
+$A^1_n=C^1_n=n$
+
+$A^2_2=2×1=2$
+
+$A^3_3=3×2×1=6$
+:::
+
+:::details 案例辅助【排列公式】
+$A_n^m=A_m^{个数}$
+<br />
+$A_5^2=5×4=20$
+:::
+:::details 案例辅助【组合公式】
+$C_n^m=\frac{A^m_n}{A^m_m}$
+<br />
+$C^3_{10}=\frac{10×9×8}{3×2×1}=120（不要硬算，上下约分巧算）$
+:::
+
+#### 枚举法
+<b>`特征：`</b>题干要求凑特定的数字，或者选项情况较少（<font color=blue>10个以内</font>）<br />
+<b>`方法：`</b>从大到小，依照次序，不重不漏
+:::details 案例分析【枚举法】
+<img src="/image/blogs/study/gongKao/xc05/mj01.png" style="width: 600px;" />
+:::
+
+#### 捆绑法
+<b>`基础知识：`</b>当题目中出现“相邻”“在一起”“连续”等要求时，考虑捆绑法
+<img src="/image/blogs/study/gongKao/xc05/kb01.png" style="width: 450px;" />
+
+<b>`具体用法：`</b><br />
+
+1. 把相邻的元素捆绑起来，注意内部有无顺序
+2. 将捆绑后的元素看成一个元素，与其他元素进行后续排列
+:::details 案例分析【捆绑法】
+![捆绑法](/image/blogs/study/gongKao/xc05/kb02.png)
+::: 
+
+#### 插空法
+<b>`基础知识：`</b>当题目中出现“间隔”“不相邻”“不连续”等要求时，考虑插空法
+:::details 案例分析【插空法】
+题干要求：徐激昂和大美圆分开
+<img src="/image/blogs/study/gongKao/xc05/ck01.png" style="width:500px;" />
+`思路讲解：`
+
+1. 先排：已知“徐激昂、大美圆不相邻”，帅志、郭子、单大锤可以相邻，将可以相邻的3个人进行排列，为 <b>A(3, 3)</b>
+2. 再插：帅志、郭子、单大锤行成了4个空位，从4个空位中选出2个空位放入徐激昂和大美圆，可以保证徐激昂和大美圆不相邻，选空不需要考虑顺序，为<b>C(4,2)</b>；将徐激昂和大美圆排列，需要考虑顺序，为<b>A(2,2)</b>；分步用乘法，为<b>C(4,2) * A(2,2)</b>。因为C(4,2)=A(4,2) / A(2,2)，所以<b>C(4,2) * A(2,2)=A(4,2)</b>，<u>从4个空位中选出2个空位，需要考虑顺序，可以直接写成<b>A(4, 2)</b></u>。
+3. 先排再插，分步用乘法，所求=<b>A(3,3) * A(4,2)</b>
+
+![插空法](/image/blogs/study/gongKao/xc05/ck02.png)
+:::
+
+#### 插板法（同素分堆）
+<b>`基础知识：`</b>题目形式为把n个相同的物品分给多个主体，要求每个主体至少分m个，用插板法<br />
+<b>`具体用法：`</b>先给每个主体少分一个（即先分m-1个），剩下的物品必须给每个主体至少再分一个才能满足需求，此时直接用公式：
+<b>$方法数 = C^{主体个数-1}_{n-1}$</b>
+（注：此公式中的n为每个主体分m-1个后，剩余物品的总数）
+
+##### 至少分一个
+<img src="/image/blogs/study/gongKao/xc05/cb01.png" style="width:550px;" />
+
+:::details 案例分析【插板法-至少分一个】
+![插板法](/image/blogs/study/gongKao/xc05/cb02.png)
+:::
+
+##### 至少分n个
+<img src="/image/blogs/study/gongKao/xc05/cb03.png" style="width:550px;" />
+
+:::details 案例分析【插板法-至少分n个】
+<img src="/image/blogs/study/gongKao/xc05/cb04.png" style="width:550px;" />
+:::
+
+##### 至少分n个，且有上限
+:::details 案例分析【插板法-至少分n个，且有上限】
+<img src="/image/blogs/study/gongKao/xc05/cb05.png" style="width:550px;" />
+
+【解析】已知“每个单位订阅数量不少于3份”，先每个单位分2份，剩余12-3*2=12-6=6份，再按照每人至少1份分配，为C(6-1, 3-1)=C(5, 2)=(5*4) / (2*1) = 10。已知“每个单位订阅数量不少于3份，但不超过5份”，不能是“3+3+6”，“6”对应的单位可能是甲，可能是乙，也可能是丙，包含3种可能，需要减掉这3种可能，所求=10-3=7，对应C项
+:::
 
