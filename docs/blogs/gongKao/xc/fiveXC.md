@@ -478,4 +478,86 @@ $错位排列用 D_n 表示，D_n 表示n个数字的全错位排列$
 2. 标数字（从交集标、不重不漏）
 3. 加和求解
 :::
+:::details 案例分析【容斥原理-图示法】
+![容斥原理图示法](/image/blogs/study/gongKao/xc05/rc03.png)
+![容斥原理图示法](/image/blogs/study/gongKao/xc05/rc04.png)
+:::
 
+#### 容斥问题的方法选择
+:::tip 容斥问题的方法选择
+<b><font color=blue>公式法：</font>题目中所给、所求都是公式中的一部分</b><br />
+<b><font color=blue>画图法：</font>出现“只A”</b><br />
+:::
+
+### 最值问题
+<br />
+
+#### 最不利于构造类
+<b>`题型识别：`</b>问法中出现“<font color=red><b>至少……保证……</b></font>”或类似表述<br />
+:::info 解题思路
+1. <b>找出最不利情况</b>，即在题目所要“保证……”的要求不被实现的情况下，尽可能地取到最多<br />
+2. <b>在最不利情况上加1，便是题目所求的正确答案</b>
+:::
+:::details 案例分析【最不利于构造类】
+![最不利于构造类](/image/blogs/study/gongKao/xc05/zz01.png)
+:::
+
+#### 构造数列类
+<b>`题型识别：`</b>题目中的总量一定，问法为<font color=red><b>“最多/少的……至多/少……”“排名第N的至多/少……”</b></font><br />
+:::info 解题思路
+1. <b>排序定位：</b>根据主体个数进行排序，锁定要求的主体<br />
+2. <b>反向构造数列：</b>当若干自然数的加和一定时，若要使其中一个数的值尽可能大，则其他的数应尽可能小；反之，若要使其中一个数的值尽可能小，则其他的数应尽可能大<br />
+3. <b>加和求解：</b>总数一定，加和求所求主体个数
+:::
+:::warning 注意事项
+1. 考虑主体对应的数值是否可以并列<br /> 
+2. 计算结果为非整数时，<b>问至多<font color=red>向下取整</font>，问至少<font color=red>向上取整</font></b>
+:::
+:::details 案例分析【构造数列类】
+![构造数列类](/image/blogs/study/gongKao/xc05/zz02.png)
+:::
+
+#### 多集合反向构造（求交集最小）
+<b>`题型识别：`</b>题目中出现多个条件，问法为<font color=red><b>“这些条件都满足的至少有多少”</b></font><br />
+:::tip 解题方法1
++ <b>`方法1：`反向、求和、做差</b>
+:::
+:::details 案例分析【多集合反向构造-方法1】
+![多集合反向构造-方法1](/image/blogs/study/gongKao/xc05/zz03.png)
+:::
+
+##### 补充方法
+<b>`题型识别：`</b><font color=red><b>都……至少……</b></font><br />
+:::tip 无脑公式
++ （A∩B）最小 = A+B-全部
++ （A∩B∩C）最小 = A+B+C-2*全部
++ （A∩B∩C∩D）最小 = A+B+C+D-3*全部
++ （A∩B∩C∩D∩E）最小 = A+B+C+D+E-4*全部
+:::
+
+#### 复杂最值问题
+:::details 案例分析【复杂最值问题】
+![复杂最值问题](/image/blogs/study/gongKao/xc05/zz04.png)
+:::
+
+#### 函数最值
+<b>`题型识别：`</b><font color=red><b>此消彼长（二次函数）</b></font><br />
+:::details 案例分析【函数最值】
+![函数最值](/image/blogs/study/gongKao/xc05/zz05.png)
+![函数最值](/image/blogs/study/gongKao/xc05/zz06.png)
+:::
+
+### 几何问题
+<br />
+
+#### 平面几何
+:::info 平面几何公式
+1. n边形的内角和和外角和<br />
+    <b><font color=red>内角和 = （n-2）× 180°</font></b><br />
+    <b><font color=red>外角和恒等于360°</font></b><br />
+2. 常见的周长公式<br />
+    <b><font color=red>正方形 = 4a</font></b><br />
+    <b><font color=red>长方形 = （a+b）×2</font></b><br />
+    <b><font color=red>圆 = 2Πr</font></b><br />
+
+:::
