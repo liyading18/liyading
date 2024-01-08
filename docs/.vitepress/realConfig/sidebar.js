@@ -12,6 +12,17 @@ export const sidebar = {
                     ]
                 },
             ]
+        },
+        {
+            text: '面试', collapsible: true, collapsed: true,
+            items: [
+                {
+                    text: 'vue', collapsible: true, collapsed: true,
+                    items: [
+                        { text: 'v-for 和 v-if为什么不共存？', link: '/blogs/study/other/InterviewVue' }
+                    ]
+                },
+            ]
         }
     ],
     '/blogs/front/': [
@@ -63,7 +74,7 @@ export const sidebar = {
     ],
     '/blogs/other': [
         {
-            text: '其他', collapsible: true,
+            text: '其他', collapsible: true, collapsed: true,
             items: [
                 {
                     text: '玄学', collapsible: true,

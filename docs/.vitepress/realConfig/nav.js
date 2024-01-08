@@ -3,18 +3,12 @@ export const nav = [
         text: '菜鸟成长',
         items: [
             { text: '实用工具', link: '/blogs/study/other/index' },
+            { text: '面试', link: '/blogs/study/other/InterviewVue' },
         ]
     },
     {
         text: '基础知识',
         items: [
-            // {
-            //     text: '前端',
-            //     items: [
-            //         { text: '小程序', link: '/blogs/front/miniPro/smallProIndex' },
-            //         { text: 'js', link: '/blogs/front/js/jsIndex' }
-            //     ]
-            // },
             { text: '前端', link: '/blogs/front/miniPro/smallProIndex' },
             { text: 'git', link: '/blogs/study/git/gitTag' },
         ]

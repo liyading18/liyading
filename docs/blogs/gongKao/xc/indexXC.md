@@ -1,6 +1,6 @@
 ## 第一章、 图形推理
 ::: tip 平面推理综述
-1. 当看到 <font color='red'><strong>数字时</strong></font>，要告诉自己 <font color='red'><strong>这是图形</strong></font>。（<strong><u>抛弃奇偶、等差等特性，看图形解构</u></strong>）
+1. 当看到 <font color='red'><strong>数字时</strong></font>，要告诉自己 <font color='red'><strong>这是图形</strong></font>。（<strong><u>抛弃奇偶、等差等特性，看图形结构</u></strong>）
 2. <strong>图形特征决定推理的方向，具体情况如下：</strong>
     + 图形元素组成相同，一般考查 <font color='red'><strong>位置规律</strong></font>
     + 图形元素组成相似，一般考查 <font color='red'><strong>样式规律</strong></font>
