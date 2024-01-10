@@ -559,5 +559,140 @@ $错位排列用 D_n 表示，D_n 表示n个数字的全错位排列$
     <b><font color=red>正方形 = 4a</font></b><br />
     <b><font color=red>长方形 = （a+b）×2</font></b><br />
     <b><font color=red>圆 = 2Πr</font></b><br />
+3. 常见的面积公式<br />
+    <b><font color=red>正方形 = a²</font></b><br />
+    <b><font color=red>长方形 = ab</font></b><br />
+    <b><font color=red>圆 = Πr²</font></b><br />
+    <b><font color=red>三角形 = ah÷2</font></b><br />
+    <b><font color=red>平行四边形 = ah</font></b><br />
+    <b><font color=red>梯形 = (a+b)×h÷2</font></b><br />
+    <b><font color=red>扇形 = Πr² × (n÷360)</font></b><br />
+    <b><font color=red>菱形 = 对角线的乘积 ÷ 2</font></b><br />
+    <img src="/image/blogs/study/gongKao/xc05/jh01.png" style="width: 160px;" />
+:::
 
+#### 立体几何
+:::info 立体几何公式
+1. 常见表面积公式<br />
+    <b><font color=red>正方体的表面积 = 6a²</font></b><br />
+    <b><font color=red>长方体的表面积 = 2(ab+ac+bc)</font></b><br />
+    <b><font color=red>球的表面积 = 4ΠR² = ΠD²</font></b><br />
+2. 常见体积公式<br />
+    <b><font color=red>正方体体积 = a³</font></b><br />
+    <b><font color=red>长方体体积 = abc</font></b><br />
+    <b><font color=red>球的体积 = （4/3）ΠR³ = （1/6）ΠD³</font></b><br />
+    <b><font color=red>圆柱的体积 = Πr²h</font></b><br />
+    <b><font color=red>圆锥的体积 = （1/3）Πr²h</font></b><br />
+:::
+
+#### 图形特性/定理/理论
+:::info 特性/定理/理论
+1. 几何特性<br />
+    + <b><font color=red>等比例缩放特性</font></b><br />
+        <b>若将一个图形尺度扩大为原来的`n`倍，则：</b><br />
+        ① <b><font color=blue>对应角度不变</font></b><br />
+        ② <b><font color=blue>周长变为原来的`n`倍</font></b><br />
+        ③ <b><font color=blue>面积变为原来的`n²`倍</font></b><br />
+        ③ <b><font color=blue>体积变为原来的`n³`倍</font></b><br />
+2. 几何最值理论<br />
+    <b><font color=red>① 平面几何中，若周长一定，越接近于圆，面积越大</font></b><br />
+    <b><font color=red>② 平面几何中，若面积一定，越接近于圆，周长越小</font></b><br />
+    <b><font color=red>③ 立体几何中，若表面积一定，越接近于球，体积越大</font></b><br />
+    <b><font color=red>③ 立体几何中，若体积一定，越接近于球，表面积越小</font></b><br />
+3. 勾股定理<br />
+    <b><font color=red>直角三角形 = a²+b²=c²</font></b><br />
+    <b><font color=red>特殊勾股数：【3、4、5】【6、8、10】【5、12、13】</font></b><br />
+    <b><font color=red>特殊三角形：</font></b><br />
+    + <b><font color=blue>【30°、60°、90°】三边比例 = `1:√3：2`</font></b><br />
+    + <b><font color=blue>【45°、45°、90°】三边比例 = `1:1:√2`</font></b><br />
+4. 均值定理<br />
+    + <b><font color=red>长方形周长一定，转为正方形时，面积最大</font></b><br />
+    <b><font color=blue>a+b为定值，a=b，a×b最大</font></b><br />
+    + <b><font color=red>长方形面积一定，转为正方形时，周长最小</font></b><br />
+    <b><font color=blue>a×b为定值，a=b，a+b最小</font></b><br />
+5. 三角形三边关系<br />
+    <b><font color=red>三角形两边之和大于第三边，两边之差小于第三边</font></b><br />
+    ![三角形三边关系](/image/blogs/study/gongKao/xc05/jh02.png)
+:::
+
+#### 最短路径
+<br />
+
+##### 平面中最短
+<img src="/image/blogs/study/gongKao/xc05/jh03.png" style="width: 450px;" />
+
+##### 立体中最短
+<img src="/image/blogs/study/gongKao/xc05/jh04.png" style="width: 450px;" />
+
+## 专项考点
+
+### 时间问题
+<br />
+
+#### 年龄问题
+两人年龄的倍数随时间<b><font color=red>推移而变小</font></b>
+
+#### 周期问题
+每`n`天的<b><font color=red>一个周期为 n 天</font></b>；每隔`n`天的<b><font color=red>一个周期为（n+1）天</font></b>
+
+#### 星期计算与判断
+<b>`题型特征：`</b>题目给出一段时间内有若干个周几，推算某一天为周几
+:::tip 常用结论
+1. 连续7天内，周一至周日均出现1次<br />
+2. 连续28天内，周一至周日均出现4次<br />
+2. 连续`7n天内`，周一至周日均出现`n`次<br />
+:::
+
+#### 钟表问题
+1. 一个指针走完一圈为360°，一个表盘为360°；共分为12个大格（分钟）；<b><font color=red>1个大格等于30°，1个小格等于6°</font></b>
+2. <b><font color=red>时针每分钟走0.5°，</font><font color=blue>分针每分钟走6°，</font>速度之比为1:12</b>
+3. 特殊角度：
+    + <b>直角：<font color=red>每小时2次，每昼夜44次</font>（3点、9点、15点、21点因重复计算所以减去）</b>
+    + <b>重合：<font color=red>每小时1次，每昼夜22次</font>（12点、24点因重复计算所以减去）</b>
+    + <b>180°角：<font color=red>每小时1次，每昼夜22次</font>（6点、18点因重复计算所以减去）</b>
+
+### 计算问题
+::: tip 必背公式
+<font color=blue>乘法交换律：a×b = b×a </font><br />
+<font color=blue>乘法分配律：（a+b）× c = ac + bc </font><br />
+<font color=blue>平方差公式：（a+b）× （a-b） = a² - b² </font><br />
+<font color=blue>完全平方公式：（a+b）² = a² ± 2ab + b² </font><br />
+:::
+
+#### 数列与平均数
+::: info 必背公式
+1. 等差数列求和公式：$S_n=na_1+\frac{n(n-1)}{2}d=\frac{a_1+a_n}{2}n=平均数×项数$
+2. 等差数列通项公式：$a_n=a_1+(n-1)d=a_m+(n-m)d$
+3. 等比数列求和公式：$S_n=a_1×\frac{1-q^n}{1-q}（q≠1）$
+4. 等比数列通项公式：$a_n=a_1×q^{n-1}=a_m×q^{n-m}$
+5. 平均数计算的基本公式：平均数=总数÷个数
+:::
+:::tip 注意：
+等差数列中，<u>若等差数列项数为奇数</u>，<b>则中间项即为等差数列的平均数</b>；<u>若等差数列项数为偶数</u>，<b>则中间2项的平均数为等差数列的平均数</b>
+:::
+
+#### 约数与倍数
+<b>`注意：`</b>一个属的约数包括1及其本身
+
+### 计数杂题
+
+#### 植树问题
+:::info 必背公式
+1. 单边线形植树公式（<b>两边都植</b>）<br />
+    <b><font color=red>棵数 = 总长 ÷ 间隔 + 1</font></b><br />
+    <b><font color=red>总长 = （棵数 - 1）× 间隔</font></b><br />
+2. 单边线形植树公式（<b>两边都不植</b>）<br />
+    <b><font color=red>棵数 = 总长 ÷ 间隔 - 1</font></b><br />
+    <b><font color=red>总长 = （棵数 + 1）× 间隔</font></b><br />
+3. 环线形植树公式 <br />
+    <b><font color=red>棵数 = 总长 ÷ 间隔</font></b><br />
+    <b><font color=red>总长 = 棵数 × 间隔</font></b><br />
+:::
+
+#### 方阵问题
+:::info 基础知识
+若正方形方阵一边人数为`N`，长方形方阵两边人数分别为`M、N`，则有：
+1. <font color=blue>正方形实心方阵的总人数为<font color=red>N²</font>，长方形实心方阵的总人数为<font color=red>MN</font></font>
+2. <font color=blue>正方形方阵最外层人数为<font color=red>4N-4</font>，长方形方阵最外层人数为<font color=red>2（M+N）-4</font></font>
+3. <font color=blue>方阵相邻两层人数相差<font color=red>8</font>人</font>
 :::
