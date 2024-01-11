@@ -702,3 +702,40 @@ $C^3_{10}=\frac{10×9×8}{3×2×1}=120$
 2. <font color=blue>正方形方阵最外层人数为<font color=red>4N-4</font>，长方形方阵最外层人数为<font color=red>2（M+N）-4</font></font>
 3. <font color=blue>方阵相邻两层人数相差<font color=red>8</font>人</font>
 :::
+
+#### 爬楼梯问题
+<b>`基础知识：`从地面爬到第`N`层楼，需要爬<font color=red>(N-1)</font>层；从第`M`层爬到第`N`层楼，需要爬<font color=red>(N-M)</font></b>
+
+#### 牛吃草问题
+:::tip 必背公式
+草地原有量=（牛吃草效率-每天）×天数<br />
+<font color=red>通常将1头牛吃草的效率赋值为1</font>
+<img src="/image/blogs/study/gongKao/xc05/ncc01.png" style="width: 450px;" />
+:::
+<b><span style="background:#000;color:#fff;">&nbsp;识别：</span></b><br />
+1. <b><font color=red>排比句：</font></b>几头牛吃几天、几头牛吃几天，问：几头牛吃几天？<br />
+2. <b><font color=red>有增长：</font></b>草在增长<br />
+3. <b><font color=red>有消耗：</font></b>牛在吃<br />
+
+<u>常见于：典型牛吃草、检票口检票、抽水机抽水、资源开采</u>
+:::details 【案例分析-牛吃草（经典解题方法）】
+![牛吃草](/image/blogs/study/gongKao/xc05/ncc02.png)
+:::
+:::details 【案例分析-牛吃草（快速解题模板）】
+![牛吃草](/image/blogs/study/gongKao/xc05/ncc03.png)
+:::
+
+#### 空瓶换酒问题
+`N`个空瓶换1瓶酒，则`N`个空瓶=1瓶酒=1空瓶+1酒，故有<b><font color=red>(N-1)空瓶=1酒</font></b>，即`(N-1)`个空瓶就能换到1酒（<b>只有酒，没有瓶</b>），因此，<b><font color=red>X个空瓶最多可以换到X/(N-1)酒</font></b>
+:::details 【案例分析-空瓶换酒】
+![空瓶换酒](/image/blogs/study/gongKao/xc05/kphj01.png)
+:::
+
+#### 比赛问题
+<b><span style="background:#000;color:#fff;">&nbsp;N支队伍淘汰赛：</span></b><br />
+1. <b>决出冠军、亚军</b>，需比赛<b><font color=red>（N-1）</font></b>场<br />
+2. <b>决出1、2、3、4名</b>，需比赛<b><font color=red>N</font></b>场，比1中多了3、4之间的比赛<br />
+3. 每场比赛淘汰1支队伍，每轮比赛淘汰一半的队伍<b><font color=red>（若总数是奇数，则有轮空</font></b>，例如11支队伍，则淘汰5支队伍，留下6支队伍，即此轮比赛又有1支队伍轮空）<br />
+
+<b><span style="background:#000;color:#fff;">&nbsp;N支队伍循环比赛：</span></b><br />
+![N支队伍循环比赛](/image/blogs/study/gongKao/xc05/dwbs.png)
