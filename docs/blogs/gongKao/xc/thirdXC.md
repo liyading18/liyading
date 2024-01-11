@@ -176,10 +176,13 @@
 <img src="/image//blogs/study/gongKao/xc01/yinguo.png" style="width: 300px;" />
 :::
 :::tip 常见因果关系总结
-人逢喜事：精神爽、&nbsp;&nbsp;&nbsp;城门失火：殃及池鱼、&nbsp;&nbsp;众人拾柴：火焰高、<br/>
-多行不义：必自毙、&nbsp;&nbsp;&nbsp;水落石出、&nbsp;&nbsp;&nbsp;水涨船高、&nbsp;&nbsp;&nbsp;春暖花开、<br />
-风吹草动、&nbsp;&nbsp;&nbsp;天寒地冻、&nbsp;&nbsp;&nbsp;物腐虫生、&nbsp;&nbsp;&nbsp;鸟尽弓藏、<br />
-唇亡齿寒、&nbsp;&nbsp;&nbsp;理屈词穷、&nbsp;&nbsp;&nbsp;水滴石穿
+人逢喜事：精神爽、&nbsp;&nbsp;&nbsp;城门失火：殃及池鱼、<br />
+众人拾柴：火焰高、&nbsp;&nbsp;&nbsp; 多行不义：必自毙、<br />
+水落石出、&nbsp;&nbsp;&nbsp;水涨船高、<br />
+春暖花开、&nbsp;&nbsp;&nbsp; 风吹草动、<br />
+天寒地冻、&nbsp;&nbsp;&nbsp;物腐虫生、<br />
+鸟尽弓藏、&nbsp;&nbsp;&nbsp;唇亡齿寒、<br />
+理屈词穷、&nbsp;&nbsp;&nbsp;水滴石穿
 :::
 
 #### 2.3 语法关系
@@ -207,9 +210,9 @@
 3. <b><font color=red>相同单字反复出现：</font></b>寒：寒冷：寒舍
 4. <b><font color=red>方式目的拆分</font></b>
     + 怎么想到的？<b><font color=blue>前后两词一般是动词/动宾结构</font></b><br />
-    【刻舟：求剑】【按图：索骥】【削足：适履】【杀鸡：取卵】<br />
-    【掩耳：盗铃】【守株：待兔】【凿壁：偷光】【缘木：求鱼】<br />
-    【望梅：止渴】【杀鸡：儆猴】【画饼：充饥】
+    【刻舟：求剑】【按图：索骥】<br />【削足：适履】【杀鸡：取卵】<br />
+    【掩耳：盗铃】【守株：待兔】<br />【凿壁：偷光】【缘木：求鱼】<br />
+    【望梅：止渴】【杀鸡：儆猴】<br />【画饼：充饥】
 
 <img src="/image//blogs/study/gongKao/xc01/yuyi00.png" style="width: 220px;" />
 :::

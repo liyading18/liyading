@@ -182,7 +182,9 @@
 :::
 
 #### 考点六、关于“有的”
-<b>逻辑内涵：</b>“有的”表示至少一个，即 ≥ 1，包含3种可能性：<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. 只有1个满足；2. 有一部分满足； 3.全部满足<br />
+<b>逻辑内涵：</b>“有的”表示至少一个，即 ≥ 1，包含3种可能性：<br />
+1. 只有1个满足；2. 有一部分满足； 3.全部满足<br />
+
 <b>同义关联词：</b>有、有些、一些、某些、有一些……<br />
 <b>翻译规则：</b><br />
 有的1是2，翻译：1 → 2<br />
@@ -246,6 +248,7 @@
 <b>运用特殊翻译：</b> <font color=red>A → B，-A → B，则B一定成立</font><br />
 <b><font color=red>箭头前后是矛盾，箭头后相同，箭头后必然成立！！！</font></b>
 <img src="/image/blogs/study/gongKao/xc04/tzhan01.png" style="width: 400px;" />
+`解析：`由甲和丙（箭头前矛盾，箭头后相同）可推出<b>-王兴</b>，再结合乙可推出“只录取李正”
 :::
 
 ### 2. 组合排列

@@ -271,9 +271,12 @@ $1. 路程 = 速度 \times 时间（s = vt）$
 
 > <b>排列：与顺序有关</b><br /><b>组合：与顺序无关</b>
 
-<b>$排列公式：A_n^m=P_n^m=A_m^{个数}=\frac{n!}{(n-m)!}=n(n-1)(n-2)……(n-m+1)$</b>
+<b>$排列公式：A_n^m=P_n^m=A_m^{个数}=\frac{n!}{(n-m)!}$</b>
+<font color=blue>=n(n-1)(n-2)…(n-m+1)</font>
 
-<b>$组合公式：C_n^m=C_{n-m}^m=\frac{A_n^m}{A_m^m}=\frac{n!}{(n-m)!m!}=\frac{n(n-1)(n-2)……(n-m+1)}{m(m-1)(m-2)……2×1}$</b>
+<b>$组合公式：C_n^m=C_{n-m}^m=\frac{A_n^m}{A_m^m}=\frac{n!}{(n-m)!m!}$</b>
+
+$=\frac{n(n-1)(n-2)…(n-m+1)}{m(m-1)(m-2)…2×1}$
 
 :::info 特殊形式：
 $C^9_{10}=C^1_{10}=10$
@@ -661,7 +664,9 @@ $错位排列用 D_n 表示，D_n 表示n个数字的全错位排列$
 
 #### 数列与平均数
 ::: info 必背公式
-1. 等差数列求和公式：$S_n=na_1+\frac{n(n-1)}{2}d=\frac{a_1+a_n}{2}n=平均数×项数$
+1. 等差数列求和公式：$S_n=na_1+\frac{n(n-1)}{2}d=\frac{a_1+a_n}{2}n$
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=平均数×项数
 2. 等差数列通项公式：$a_n=a_1+(n-1)d=a_m+(n-m)d$
 3. 等比数列求和公式：$S_n=a_1×\frac{1-q^n}{1-q}（q≠1）$
 4. 等比数列通项公式：$a_n=a_1×q^{n-1}=a_m×q^{n-m}$
