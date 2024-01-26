@@ -55,16 +55,17 @@ export const sidebar = {
                         {
                             text: '判断推理', collapsed: true, collapsible: true,
                             items: [
-                                { text: '图形推理', link: '/blogs/gongKao/xc/indexXC' },
-                                { text: '定义判断', link: '/blogs/gongKao/xc/secondXC' },
-                                { text: '类比推理', link: '/blogs/gongKao/xc/thirdXC' },
-                                { text: '逻辑判断', link: '/blogs/gongKao/xc/fourthXC' },
+                                { text: '第一章 图形推理', link: '/blogs/gongKao/xc/indexXC' },
+                                { text: '第二章 定义判断', link: '/blogs/gongKao/xc/secondXC' },
+                                { text: '第三章 类比推理', link: '/blogs/gongKao/xc/thirdXC' },
+                                { text: '第四章 逻辑判断', link: '/blogs/gongKao/xc/fourthXC' },
                             ]
                         },
                         {
                             text: '数量关系与资料分析', collapsed: true, collapsible: true,
                             items: [
-                                { text: '数学运算', link: '/blogs/gongKao/xc/fiveXC' }
+                                { text: '第一部分 数学运算', link: '/blogs/gongKao/xc/fiveXC' },
+                                { text: '第二部分 资料分析', link: '/blogs/gongKao/xc/zlfxXC' }
                             ]
                         }
                     ]
