@@ -18,4 +18,13 @@
 2. <font color=red>基期量 = 现期量 / 1+r</font>（r为增长率）
 3. <font color=red>基期量 = 现期量 / 1+r</font>（r为间隔增长率）
 :::
+:::info 常用方法
+1. 当增长率`r`较大时，采用<font color=red>截位直除法</font>
+2. 当增长率`r`特别小时（<font color=red>|r|≤ 5%</font>），<b><font color=red>化除为乘</font></b><br />
+<b><font color=red>基期量 = 现期量/(1+r) ≈ 现期量 x (1-r)</font></b><br />
+<b><font color=red>基期量 = 现期量/(1-r) ≈ 现期量 x (1+r)</font></b>
+:::
+
+#### 速算技巧 —— 化除为乘
+<span></span>
 
