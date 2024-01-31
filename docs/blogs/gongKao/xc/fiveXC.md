@@ -161,9 +161,8 @@
 :::details 鸡兔同笼（假设法巧解方程）
 <img src="/image/blogs/study/gongKao/xc05/szys22.png" style="width: 500px;" />
 <img src="/image/blogs/study/gongKao/xc05/szys23.png" style="width: 500px;" />
-<img src="/image/blogs/study/gongKao/xc05/szys24.png" style="width: 500px;" />
 :::
-:::details 假设法巧解方程
+:::details 假设法巧解方程(赋0法)
 <img src="/image/blogs/study/gongKao/xc05/szys24.png" style="width: 500px;" />
 <img src="/image/blogs/study/gongKao/xc05/szys25.png" style="width: 500px;" />
 :::
