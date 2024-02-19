@@ -26,5 +26,18 @@
 :::
 
 #### 速算技巧 —— 化除为乘
-<span></span>
+<font color=red><b>应用环境：</b>|r| &lt; 5%， <font color=blue>基期 = 现期 ± 现期 × r</font></font><br />
+:::tip 化除为乘，两步走
+<b><font color=red>1. 看加减</font></b><br />
+<b><font color=red>2. 算差距（现期 × r）</font></b>
+:::
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx01.png" style="width: 400px;" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx02.png" style="width: 500px;" />
+
+#### 速算技巧 —— 基期差值
+<b>`方法：`</b>优先“分析”（以坑治坑）→ 上去干掉“现期差”，分析“正负”或“变化”<br />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx03.png" style="width: 500px;" />
+<b>`方法：`</b>分析不出，“算一半”再分析<br />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx04.png" style="width: 400px;" />
+
 
