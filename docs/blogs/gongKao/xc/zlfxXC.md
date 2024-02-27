@@ -78,19 +78,65 @@ xxxx年 —— xxxx年这n年，<b><font color=red>初期往前推一年</font>�
 5. <font color=blue>总体相同时，比较两个部分量，直接比较比重即可</font>
 6. <font color=blue>比较A/(A+B)大小关系，可直接比较 A/B </font>
 
+:::details 案例分析【 增长量 = 现期量 ÷ （N+1）】
+<img src="/image/blogs/study/gongKao/zlfx/zlfx20.png" style="width: 550px;" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx21.png" style="width: 550px;" />
+:::
+
 #### 增长量识别
 `识别：` <b>增长 + 单位（绝对量）</b>
 <img src="/image/blogs/study/gongKao/zlfx/zlfx12.png" style="width: 400px;" />
 
 #### 增长量比较
 当资料给出<b>现期量和增长率</b>时，如果<b><font color=red>两者都大则增长量必然大</font></b>，否则将进行百分数化分数进行计算。<br />
-<img src="/image/blogs/study/gongKao/zlfx/zlfx13.png" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx13.png" style="width:400px;" />
+A比B增长了50%，则A是B的1.5倍<br />
+A是B的1.7倍，则A比B增长70%
+:::details 案例分析【增长量比较】
+<img src="/image/blogs/study/gongKao/zlfx/zlfx18.png" style="width:550px;" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx19.png" style="width:550px;" />
+:::
 
+#### 增长量的高频考法之百化分
++ <font color=blue>增长量 = 现期 ÷ （N+1）</font>
++ <font color=blue>减少量 = 现期 ÷ （N-1）</font>
+<img src="/image/blogs/study/gongKao/zlfx/zlfx14.png" style="width:550px;" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx15.png" style="width:400px;" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx16.png" style="width:550px;" />
 
+:::details 案例分析【百化分】
+<img src="/image/blogs/study/gongKao/zlfx/zlfx17.png" />
+:::
 
-
-
+#### 增长率
+`增长率`是用来描述<u>现期量相对于基期量的<b>相对变化量</b></u>，计算公式为：
+1. <font color=blue>增长率 = （现期量-基期量）/ 基期量 = （现期量÷基期量）-1</font>
+2. <font color=blue>增长率 = 增长量 ÷ 基期量 = 增长量 /（现期量-增长量）</font>
+3. <font color=blue>现期增长率 = 基期增长率 ± 百分点</font>
 
 :::details 案例分析【基期量与现期量】
 <img src="/image/blogs/study/gongKao/zlfx/zlfx06.png" style="width: 300px;" />
 :::
+
+#### 增长率的比较（已知现期量和基期量）
+比较增长率时候，<font color=red>若（现期量/基期量）≥ 2，<b>可直接比较</b></font>；<font color=blue>若（现期量/基期量）＜ 2，<b>则比较 增长量/基期量</b></font>
+<br />
+<b>速算：</b><font color=blue>截位直除</font>
+::: tip 做题技巧
+1. <font color=blue>先瞪正负</font>
+2. <font color=blue>直接直除</font>
+3. <font color=blue>再套公式</font>
+<b>增长率＞10% → 基期×1.1 ＜ 现期</b><br />
+<b>增长率＞50% → 基期×1.5 ＜ 现期</b>
+:::
+::: info <font color=blue>优化：现期、增长量，比较：增长率</font>
+`结论：`可通过“<font color=red>增长量/现期</font>”大小，来比较<font color=red>r</font>大小<br />
+<b>`注意：` 仅限于比较，不能用于计算</b>
+<img src="/image/blogs/study/gongKao/zlfx/zlfx22.png" />
+:::
+
+#### 增长量倍数的速算技巧
+1. <font color=blue>增速差在10%以上</font>，<font color=red>各自百化分，求增量，再求倍数</font>
+2. <font color=blue>增速差在10%以内</font>，<font color=red>倍数≈现期倍数×增速倍数</font>
+<img src="/image/blogs/study/gongKao/zlfx/zlfx23.png" style="width:600px;" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx24.png" style="width:600px;" />
