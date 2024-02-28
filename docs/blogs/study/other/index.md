@@ -132,5 +132,10 @@ AI绘画是布丁扫描的特色功能，这个功能可以让布丁扫描从一
 :::
 
 ### 17. AI旋风
+地址：[https://www.aixuanfeng.com/](https://www.aixuanfeng.com/)<br />
 AI旋风网站收录了超过1000个国内外好用的AI工具，按照AI写作、AI互动、AI影视、AI绘画、AI视觉设计、AI语音、AI办公、企业平台等进行了详细分类，并且支持一键直达
 ![avatar](/image/blogs/study/buildBlog/aixf.png)
+
+### 18. 脚本之家在线工具
+地址：[http://tools.jb51.net/](http://tools.jb51.net/)
+![avatar](/image/blogs/study/buildBlog/bd10.png)

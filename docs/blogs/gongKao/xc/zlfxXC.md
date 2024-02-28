@@ -67,7 +67,6 @@ xxxx年 —— xxxx年这n年，<b><font color=red>初期往前推一年</font>�
 3. <font color=blue>一个数 × 0.9 = <b>错位相减</b></font><br />
 <img src="/image/blogs/study/gongKao/zlfx/zlfx08.png" style="width: 200px;" />
 
-
 ### 术语二、`增长量`与`增长率`
 `增长量`是用来描述<u>基期量与现期量的<b>绝对变化量</b></u>，计算公式为：
 1. <font color=blue>增长量 = 现期量 - 基期量</font>
@@ -135,8 +134,61 @@ A是B的1.7倍，则A比B增长70%
 <img src="/image/blogs/study/gongKao/zlfx/zlfx22.png" />
 :::
 
+#### 一般增长率的比较
+<img src="/image/blogs/study/gongKao/zlfx/zlfx27.png" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx28.png" />
+<font color=blue>基期量在增大，增量下降，则增速肯定变小</font>
+<img src="/image/blogs/study/gongKao/zlfx/zlfx29.png" />
+
 #### 增长量倍数的速算技巧
 1. <font color=blue>增速差在10%以上</font>，<font color=red>各自百化分，求增量，再求倍数</font>
 2. <font color=blue>增速差在10%以内</font>，<font color=red>倍数≈现期倍数×增速倍数</font>
 <img src="/image/blogs/study/gongKao/zlfx/zlfx23.png" style="width:600px;" />
 <img src="/image/blogs/study/gongKao/zlfx/zlfx24.png" style="width:600px;" />
+
+#### 口算加减法之截位修正
+<img src="/image/blogs/study/gongKao/zlfx/zlfx25.png" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx26.png" />
+
+### 术语三、年均增长率
+`识别：` 年均增长率最快、年均增速排序（年均+增长+%）
+:::tip 公式
+1. <font color=blue>现期量=基期量×（1+年均增长率）ⁿ，其中n为相差周期数</font>
+2. <font color=blue>（1+年均增长率）ⁿ=现期量/基期量，n为现期和基期的年份差</font>
+:::
+
+#### 年均增长率（<font color=blue>比较</font>）
+`公式：`（1+r）ⁿ=现期/基期<br />
+`方法：`年份差<font color=red>n相同时</font>，只需比较<font color=blue>（现期量/基期量）</font>即可<br />
+`记住：`<u>年均增长率的比较就是比较“整体增长率”，本质就是分数比较</u>
+<img src="/image/blogs/study/gongKao/zlfx/zlfx30.png" />
+:::details 案例分析【年均增长率-比较】
+<img src="/image/blogs/study/gongKao/zlfx/zlfx31.png" />
+:::
+
+#### 年均增长率（<font color=blue>计算</font>）
+`识别：`年均增速为……<br />
+`方法：`增长率较大（10%以上）且差距大时，<font color=blue>居中代入（整十的数）</font>
+<img src="/image/blogs/study/gongKao/zlfx/zlfx32.png" />
+
+#### 年均增长率（<font color=blue>平方数</font>）
+:::info 年均增长率（常见平方数）
+<font color=blue>11²=121、12²=144、13²=169、14²=196、15²=225、16²=256、17²=289、18²=324、19²=361</font>
+:::
+<img src="/image/blogs/study/gongKao/zlfx/zlfx33.png" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx34.jpg" />
+
+#### 年均增长量的识别与公式
+`识别：`时间段+平均+增长+单位（绝对量）<br />
+`公式：`<font color=blue>年均增长量=（现期-基期）÷ 年份差</font><br />
+<b><font color=red>五年规划的年份差必须为5</font></b><br />
+:::tip 考官规定：
+<font color=blue>(N年/这N年)：2016—2020这五年：年份差为5（基期往前推一年）</font><br />
+<font color=red>基期：2015年；现期限：2020年</font>
+:::
+<img src="/image/blogs/study/gongKao/zlfx/zlfx35.png" style="width:600px;" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx36.png" style="width:600px;" />
+
+:::tip 速算小积累
+<font color=blue>结论：一个数除以5，有效数字相当于乘以2</font>
+:::
