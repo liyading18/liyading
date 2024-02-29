@@ -164,6 +164,7 @@ A是B的1.7倍，则A比B增长70%
 <img src="/image/blogs/study/gongKao/zlfx/zlfx30.png" />
 :::details 案例分析【年均增长率-比较】
 <img src="/image/blogs/study/gongKao/zlfx/zlfx31.png" />
+
 :::
 
 #### 年均增长率（<font color=blue>计算</font>）
@@ -192,3 +193,25 @@ A是B的1.7倍，则A比B增长70%
 :::tip 速算小积累
 <font color=blue>结论：一个数除以5，有效数字相当于乘以2</font>
 :::
+![速算小积累](/image/blogs/study/gongKao/zlfx/zlfx37.png)
+![速算小积累](/image/blogs/study/gongKao/zlfx/zlfx38.png)
+
+#### 增长率百化分之放缩法
+![增长率百化分之放缩法](/image/blogs/study/gongKao/zlfx/zlfx39.png)
+
+#### 增长率百化分之取中法
+![增长率百化分之取中法](/image/blogs/study/gongKao/zlfx/zlfx40.png)
+![增长率百化分之取中法](/image/blogs/study/gongKao/zlfx/zlfx41.png)
+
+#### 增长率百分分之倒数法
+<img src="/image/blogs/study/gongKao/zlfx/zlfx42.png" style="width:600px;" />
+
+#### 增长率百化分之公式法
+<img src="/image/blogs/study/gongKao/zlfx/zlfx43.png" style="width:600px;" />
+
+### 术语四、拉动增长率
+如果B是A的一部分，<u>B拉动A增长了 x%</u>，那么 <font color=blue>x% = (B的增长量 ÷ A的初期量) × 100%</font><br />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx44.png" style="width:600px;" />
+
+#### 特定增长率
+
