@@ -164,7 +164,6 @@ A是B的1.7倍，则A比B增长70%
 <img src="/image/blogs/study/gongKao/zlfx/zlfx30.png" />
 :::details 案例分析【年均增长率-比较】
 <img src="/image/blogs/study/gongKao/zlfx/zlfx31.png" />
-
 :::
 
 #### 年均增长率（<font color=blue>计算</font>）
@@ -213,5 +212,124 @@ A是B的1.7倍，则A比B增长70%
 如果B是A的一部分，<u>B拉动A增长了 x%</u>，那么 <font color=blue>x% = (B的增长量 ÷ A的初期量) × 100%</font><br />
 <img src="/image/blogs/study/gongKao/zlfx/zlfx44.png" style="width:600px;" />
 
-#### 特定增长率
+### 特定增长率
+`识别：`给出现期、基期，判断多个年份的增长率大于/小于特定数值
+<img src="/image/blogs/study/gongKao/zlfx/zlfx45.png" style="width:550px;" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx46.png" style="width:550px;" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx47.png" style="width:550px;" />
 
+### 术语五、同比与环比
+<br />
+
+#### 同比
+<font color=blue>同比是与历史同期相比较。</font>如今年6月与去年6月相比较
+:::details 案例分析【同比】
+`例1：`2010年上半年，全国原油产量为9848万吨，同比增长为5.3%，上年同期为下降1%<br />
+`应理解为：`<span style="background:yellow;"><b>与2009年上半年全国原油产量相比，<font color=red>2010年</font>上半年增长5.3%</b></span>；
+<span style="background:pink;"><b>与2008年上半年全国原油产量相比，<font color=red>2009年</font>上半年下降1%</b></span>
+:::
+
+#### 环比
+<font color=blue>环比是与紧紧相邻的上个统计周期相比较</font>，包括<u>日环比、周环比、月环比、年环比等</u>
+:::details 案例分析【环比】
++ `例1：`<u>2010年8月1日</u>，全国原油产量为68万吨，环比增长5.3%<br />
+`应理解为：`与<font colo=blue>2009年7月31日</font>全国原油产量相比，<font color=red>2010年8月1日增长5.3%</font><br />
++ `例2：`<u>2010年1月</u>，全国原油产量为1848万吨，环比增长5.3%<br />
+`应理解为：`与<font colo=blue>2009年12月</font>全国原油产量相比，<font color=red>2010年1月增长5.3%</font><br />
++ `例3：`<u>2010年上半年</u>，全国原油产量为1848万吨，环比增长5.3%<br />
+`应理解为：`与<font colo=blue>2009年下半年</font>全国原油产量相比，<font color=red>2010年上半年增长5.3%</font><br />
+:::
+
+### 术语六、百分数与百分点
++ <b>百分数也叫百分率或百分比</b>，是指用100做分母的分数，在数学中用`%`来表示，在文中一般都写作“百分之多少”。<br />
++ <b><font color=blue>百分点</font>是指不同时期以百分数形式表示的相对指标的<font color=blue>变动幅度</font></b>。1个百分点就是1%。<br />
++ <b><font color=blue>百分点表示百分数的变化，用加减法计算</font></b><br />
++ <b><u>增长率（或比例）之间的比较一般用百分点来表示</u></b>
+:::details 案例分析【百分点】
+`例1：`某国今年粮食增产20%，去年增产12%，则粮食的<font color=red>增长率同比增幅提高了8个百分点（20%-12%=8%）</font>，但不能说同比增幅提高了8%，否则今年粮食应增产12%×（1+8%），而非20%
+<img src="/image/blogs/study/gongKao/zlfx/zlfx48.png" style="width:400px;" />
+:::
+:::tip 具体用法
++ <font color=blue>不同时期</font>以百分数形式表示的相对指标<font color=red>一定要用百分点表示</font>
++ <font color=blue>相同时期</font>以百分数表示的相对指标<font color=red>用百分数或百分点表示都可以</font>
++ 为了避免混淆这两个概念，只要记住百分点和百分数<font color=blue>如果同时出现</font>，<font color=red>选择百分点表示</font>的选项即可
+:::
+<img src="/image/blogs/study/gongKao/zlfx/zlfx49.png" style="width:600px;" />
+
+#### 给百分点型，高减低加
+`通俗理解：`看百分点前的表述，<font color=blue>“高的表述”就做减法，“低的表述”就做加法</font><br />
++ <b>“提高”</b>：上升、增加、扩大、提升等<br />
++ <b>“降低”</b>：下降、减少、缩小、收窄等
+<img src="/image/blogs/study/gongKao/zlfx/zlfx50.png" style="width:450px;" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx51.png" style="width:450px;" />
+
+### 术语七、比重
+比重是指部分在总体中占的比例，有时也用贡献率等方式表述
+
+### 术语八、增长贡献率
+增长贡献率是指部分增长量占总体增长量的比重
+
+### 术语九、成数与翻番
++ `成数`：表示<b>一个数</b>是另一个数的<b>十分之几的数</b>，<font color=blue>几成相当于十分之几</font>
++ `翻番`：翻一番为原来的2倍，翻两番为原来的4倍，以此类推，翻n番即为原来的<font color=red>2ⁿ</font>倍
+<img src="/image/blogs/study/gongKao/zlfx/zlfx52.png" style="width:450px;" />
+
+#### <span style="background:#000;color:#fff;">&nbsp;概念区分：增幅、降幅、变化幅度&nbsp;</span>
++ <b><font color=blue>增幅</font><font color=red>（不要望文生义）</font>：就是增长率，计算、比较时，有负号带负号。（<font color=blue>正＞负；负的越多越小</font>）</b>
+<img src="/image/blogs/study/gongKao/zlfx/zlfx54.png" style="width:500px;" />
+
++ <b><font color=blue>降幅</font><font color=red>（要望文生义）</font>：计算、比较时看绝对值</b>
+<img src="/image/blogs/study/gongKao/zlfx/zlfx55.png" style="width:500px;" />
+
++ <b><font color=blue>变化幅度</font><font color=red>（要望文生义）</font>：计算、比较时看绝对值</b>
+<img src="/image/blogs/study/gongKao/zlfx/zlfx56.png" style="width:500px;" />
+
+#### <span style="background:#000;color:#fff;">&nbsp;已知：现期、增长率，比较增长量&nbsp;</span>
+:::tip 口诀：
+<font color=blue>大大则大，一大一小百化分</font>
+:::
+<img src="/image/blogs/study/gongKao/zlfx/zlfx57.png" style="width:600px;" />
+<img src="/image/blogs/study/gongKao/zlfx/zlfx58.png" style="width:600px;" />
+
+### 术语十、顺差与逆差
+在一个时期内，一个国家（或地区）的<b>出口商品额大于进口商品额</b>，叫做<font color=blue>对外贸易顺差（又称净出口额，出超）</font><br />
+在一个时期内，一个国家（或地区）的<b>出口商品额小于进口商品额</b>，叫做<font color=blue>对外贸易逆差（又称净出口额，入超）</font>
+
+### 术语十一、指数
+<b>指数</b>是用来衡量某种要素相对变化的指标量。<br />
+一般假定基期为100，<font color=blue>其他量和基期相比得出来得数值</font>即为指数，即<font color=blue>相应两期实际值的比=相应两期指数的比</font><br />
+常见指数包括<b>纳斯达克指数、物价指数、上证指数和区域价格指数</b>
+:::tip 🔈🔈🔈注意事项
+1. 指数的增长率 = 实际值的增长率
+2. 指数一般表示的不是绝对值的大小，而是相对变化的指标量。
+:::
+
+### 术语十二、GDP
+<b>GDP即国内生产总值</b>，是指一个国家（或地区）所有常住单位在一定时期内生产的最终产品和服务价值的总和，常被<b>公认为衡量国家经济状况的最佳指标</b>。<br />
+国内生产总值由第一产业、第二产业和第三产业的增加值构成，<font color=blue>一个国家的国内生产总值就是这三大产业的增加值之和。</font>
+
+### 术语十三、恩格尔系数
+恩格尔系数是<b>指食品支出总额（生活必需品、非奢侈品）占家庭或个人消费支出总额的百分比</b>。用以衡量一个国家（或地区）人民生活水平的常用指标。<font color=blue>一般这个系数越低，反映出该地区人民生活水平越高。</font>
+
+### 术语十四、基尼系数
+基尼系数是<b>用以衡量一个国家（或地区）人民收入差距的常用指标，数值介于`0~1`之间</b><br />
+<font color=blue>基尼系数越大，表示不平等程度越高</font>
+
+### 术语十五、特定历史时期表述
++ “中华人民共和国成立初”<font color=blue>指1949年之后的几年</font>
++ “改革开发以来”<font color=blue>指1978年以后至今</font>
++ “九五计划时期”<font color=blue>指1996-2000年</font>
++ “十五计划时期”<font color=blue>指2001-2005年</font>
++ “十一五规划时期”<font color=blue>指2006-2010年</font>
++ “十二五规划时期”<font color=blue>指2011-2015年</font>
++ “十三五规划时期”<font color=blue>指2016-2020年</font>
+
+### 术语十六、三大产业
++ `第一产业`：<font color=blue>农、林、牧、渔业</font>（不包含农、林、牧、渔服务业）。
++ `第二产业`：<font color=blue>采矿业</font>（不包含开采辅助活动），<font color=blue>制造业</font>（不包含金属制品、机械和设备修理业），<font color=blue>电力、热力、燃气及水生产和供应业，建筑业</font>。
++ `第三产业`：<font color=blue>服务业</font>，是指除第一产业、第二产业以外的其他行业。
+
+## 第二节、结构阅读法 
+
+### 类型一、文字型资料
+`方法`：圈画提取每段关键词
