@@ -333,3 +333,116 @@ A是B的1.7倍，则A比B增长70%
 
 ### 类型一、文字型资料
 `方法`：圈画提取每段关键词
+
+### 类型二、表格型资料
+`方法一：`<b>一个统计表</b>需要关注的：
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx201.png" style="width:500px;" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx202.png" style="width:500px;" /><br />
+`方法二：`<b>两个统计表</b>需要关注的：
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx203.png" style="width:500px;" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx204.png" style="width:500px;" />
+
+### 类型三、图形型资料
+柱状图、折线图、饼图
+
+## 第三节、基础速算技巧
+一般来说，对于<b>计算类的题目</b>，常运用<font color=blue><b>截位法和公式法</b></font>，而对于<b>比较类的项目</b>，则常用<font color=blue>直接观察法和速度比较法</font>
+
+### 题型一、计算类
+<br />
+
+#### 一、截位法
++ 什么是截位法？<br />
+截位法就是<b>从左到右保留几位有效数字，<font color=blue>看下一位</font>，进行<font color=red>四舍五入</font></b>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx205.png" style="width:500px;" /><br />
+
+:::tip 截谁（记住规则，切莫纠结）
++ <font color=blue>一步除法</font>（除了一次），<font color=red>只截分母</font>
++ <font color=blue>多步除法</font>（除了多次），<font color=red>分子、分母都截</font>
+:::
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx206.png" style="width:500px;" /><br />
+:::tip 截几位
+<font color=blue>看最接近的两个选项差距：</font>
++ 差距大（差距＞10%）→ <b><font color=red>截两位（快且准）</font></b> 
++ 差距小（差距＜10%）→ <b><font color=red>截三位（慢但准）</font></b>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx207.png" style="width:400px;" />
+
+<b><span style="background:#000;color:#fff;">&nbsp;差距大（截两位）：</span></b><br />
++ <font color=blue>首位都不同</font> 
++ <font color=blue>首位有相同，次位差 ＞ 首位</font> 
+<b><span style="background:#000;color:#fff;">&nbsp;差距小（截三位）：</span></b><br />
++ <font color=blue>首位有相同，次位差 ＜ 首位</font> 
++ <font color=blue>首位有相同，次位差 = 首位</font> 
+:::
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx208.png" style="width:600px;" /><br />
+:::tip <font color=red>截位直除，三步走</font>
+<b><font color=blue>第一步：</font>看选项，判差距（大截两、小截三）</b><br />
+<b><font color=blue>第二步：</font>看式子，去截谁（一截母、多都截）</b><br />
+<b><font color=blue>第三步：</font>看上几，别算完（点到为止）</b>
+:::
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx209.png" style="width:250px;" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx210.png" />
+
++ <b><font color=blue>选项仅数字不同，没位数差别，用不着看</font></b> 
++ <b><font color=blue>选项有数字相同，有位数差别，必须要看</font></b> 
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx211.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx212.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx213.png" />
+
+#### 二、公式法
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx214.png" style="width:300px;" />
+
+### 题型二、比较类
+<br />
+
+#### 一、直接观察法
+`适用范围：`当分数的<u>分子和分母一大一小时</u>，<b>直接看分子，<font color=red>分子大的分数就大</font></b>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx215.png" style="width:350px;" />
+
+#### 二、速度比较法
+<br />
+
+##### <span style="background:#000;color:#fff;">&nbsp;1. 横向比较看速度 &nbsp;</span>
+找出<u>两个分数的分子和分子、分母和分母之间的倍数关系</u>，即变化速度，谁变化速度快看谁。<br />
+<b>分子变化速度快看分子，<font color=red>分子大的分数大</font>；分母变化速度快看分母，<font color=red>分母小的分数大</font></b>。
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx216.png" />
+
+##### <span style="background:#000;color:#fff;">&nbsp;2. 纵向比较看速度 &nbsp;</span>
+当<u>分子大于分母</u>时，可以近似看作直除，<b><font color=red>商首位</font>进行比较</b>。<br />
+当<u>分子小于分母</u>时，比较<b>分子到分母的倍数关系</b>，<b><font color=red>倍数越大，变化速度越快，分数越小</font></b>。<br />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx217.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx218.png" />
+
+#### 分数比较的学习重点
++ `问题1：`<font color=blue>一大一小（钱多人少分的多）</font><br />
+`通俗理解：`总钱数多，分的人少，平均每人分的钱数多
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx219.png" /><br />
+
++ `问题2：`<font color=blue>同大同小</font><br />
+<font color=red>竖着直接除：</font><font color=blue>一般保留两位即可</font>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx220.png" style="width:450px;" /><br />
+:::tip <font color=red>横着看倍数：</font>
+1. <font color=blue>分子间倍数大，只看分子，分子大的分数大</font>
+2. <font color=blue>分母间倍数大，只看分母，分母大的分数小</font>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx221.png" style="width:200px;" /><br />
+:::
+
++ <span style="background:#000;color:#fff;">&nbsp; 四个分数比较 &nbsp;</span>
+1. <b>若找最大，分子大（分母小）的可能性大，确定目标，再验证</b>
+1. <b>若找最小，分子小（分母大）的可能性大，确定目标，再验证</b>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx222.png" style="width:500px;" /><br />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx223.jpg" style="width:600px;" /><br />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx224.png" style="width:500px;" /><br />
+
+## 高频考点
+
+### 一、混合增长率
+`题干特征：`题干所求为总体增长率，资料<b>给出组成总体的各部分增长率与现期量</b>。<br />
+`识别：`部分+部分=总体，求增长率<br />
+`方法：`<b>先口诀，后线段</b><br />
+
+<b>`口诀：`混合之后居中，<font color=red>偏向基期更大的一边</font>。</b>即总体增长率一定居于部分增长率之间，且更偏向于基期量较大者的增长率。<br />
+<font color=blue>混合增长率居中 → 部分增速（小）＜ 混合r ＜ 部分增速（大）</font><br />
+<font color=blue>偏向基期量（一般拿现期量估算）大的</font><br />
+
+`辅助理解：`增长率、溶液混合、拔河
