@@ -446,3 +446,72 @@ A是B的1.7倍，则A比B增长70%
 <font color=blue>偏向基期量（一般拿现期量估算）大的</font><br />
 
 `辅助理解：`增长率、溶液混合、拔河
+:::details 辅助解析【混合增长率】
+`例1：`男生增速为10%，女生增速为30%，则全班的增速范围：10%~30%（<font color=blue><b>混合之后居中</b></font>）<br />
+`例2：`男生增速为10%，女生增速为30%，小明增速为5%，则全班的增速范围：5%~30%（<font color=blue><b>混合之后居中在最小和最大之间</b></font>）<br />
+`例3：`男生100人，增速10%，女生10人，增速30%，则全班增速范围相对与<b>10%~20%</b>更近（<font color=blue><b>混合之后居中，偏向基期更大的一边（<font color=red>一般拿现期量估算</font>）</b></font>）<br />
+`例4：`男生10人，增速10%，女生100人，增速30%，则全班增速范围相对与<b>20%~30%</b>更近（<font color=blue><b>混合之后居中，偏向基期更大的一边（<font color=red>一般拿现期量估算</font>）</b></font>）<br />
+:::
+:::details 案例分析【混合增长率】
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx225.png" style="width:550px;" /><br />
+:::
+
+#### 补充：混合增长率（口诀之拔河）
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx226.png" style="width:550px;" /><br />
+:::details 案例分析【混合增长率-口诀之拔河】
+<font color=blue>题目中只给了现期，且有混合之前的增长率，可利用拔河思维</font>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx227.png" /><br />
+:::
+
+#### 补充：混合增长率之线段法
+`起手式：`部分写两边，混合写中间，数字标上去，<font color=blue><b>距离与量成反比</b></font><br />
+`解释：`距离与量成反比中，<font color=blue><b>距离 → 部分r与整体r的差值，量 → 部分的基期量（<font color=red>一般拿现期量估算</font>）</b></font><br />
+:::details 案例分析【混合增长率之线段法】
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx228.png" style="width:450px;" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx229.png" />
+:::
+
+#### 补充：计算混合增长率之“无脑三角杀”
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx230.png" /><br />
+:::tip 操作步骤
+1. <font color=blue>无脑做差</font>：已知的两个增速，大 - 小<br />
+2. <font color=blue>无脑倍数</font>：部分的具体量的倍数，大 ÷ 小<br />
+3. <font color=red>算差距</font>：大 → ÷、小 → ×、混合 → ÷（倍 + 1）<br />
+<b>`注：`求部分增速，基期量与<font color=blue>混合</font>的差距；求混合增速，差距是与<font color=blue>部分（大）</font>的差距</b>
+:::
+:::details 案例分析【无脑三角杀】
++ <font color=blue>算差距：大 → ÷</font>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx231.png" />
+
++ <font color=blue>算差距：小 → ×</font>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx232.png" />
+
++ <font color=blue>算差距：混合 → ÷（倍数+1）</font>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx233.png" />
+:::
+
+### 二、间隔增长率
+`题型特征：`求间隔一年的增长率，如“……2013年相比2011年增长了……”<br />
+`识别：`<b>隔一期 + 求增长率</b><br />
+:::info
+`形式1:` <b>直接给：</b>2021年志哥私房钱的同比增速为10%，2020年同比增速为5%。<br />
+`形式2:` <b>给百分点关系：</b>2021年志哥私房钱的同比增速为10%，增速比上年上升5个百分点。<br />
+求2021年比2019年的增速<br />
+`细节说明`：间隔增长中有三个年份，<font color=blue>r1与r2为年份最大两年的增长率</font>
+:::
+:::details 练习
++ 2017年比2015年增长了百分之几？<b>r1 ➝ 17年、r2 ➞ 16年</b>
++ 2011年比2009年增长了百分之几？<b>r1 → 11年、r2 → 10年</b>
+:::
+:::tip 公式: <b><font color=blue>和 + 积</font></b>
+若<b>第二年相对于第一年的增长率为r1，第三年相对于第二年的增长率为r2</b>，则第三年相对于第一年的增长率成为间隔增长率，计算公式为：
+<font color=red>r间隔 = r1 + r2 + r1 × r2</font><br />
+<b>实战攻略 ：<font color=red>r1+r2=2 x r1± 百分点</font></b>
+:::
+:::info 速算
++ <b>第一步，先算加和（<font color=red>分析选项是否是唯一值</font>）</b>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx234.png" />
+
++ <b>第二步，再算乘积 → <font color=red>若r1、r2绝对值均小于10%时，r1 x r2可忽略</font>；不能忽略时，<font color=red>一个不变，另一个百化分</font></b>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx235.png" />
+:::
