@@ -515,3 +515,235 @@ A是B的1.7倍，则A比B增长70%
 + <b>第二步，再算乘积 → <font color=red>若r1、r2绝对值均小于10%时，r1 x r2可忽略</font>；不能忽略时，<font color=red>一个不变，另一个百化分</font></b>
 <img src="/image/blogs/study/gongKao/zlfx01/zlfx235.png" />
 :::
+:::details 案例分析
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx236.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx237.png" />
+:::
+
+### 间隔增长率（变形）
+1. <b><font color=red>间隔倍数 = 间隔r + 1 </font> ➞ 2021年是2019年的几倍？</b>
+2. <b><font color=red>间隔基期 = 现期 / (1+间隔r) </font> ➞ 已知：2021年，求2019年</b>
+3. <b><font color=red>间隔增长量</font> ➞ 2021年比2019年的增长量</b>
+    + <font color=blue>第一步，间隔 |r| = 1/N</font>
+    + <font color=blue>第二步，增长量=现期/N+1，减少量=现期/N-1</font>
+
+### 二、间隔增长率（间隔倍数）
+`识别：`隔一年，问“是几倍”、“多几倍”<br />
+:::tip 方法
++ <b>第一步</b>，求间隔增长率；
++ <b>第二步</b>，看问法：<font color=blue>是几倍 = 间隔r+1</font>、<font color=red>多/增长几倍=间隔r</font>
+:::
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx238.png" style="width:600px;" /><br />
+:::details 案例分析【是多少倍】
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx239.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx240.png" />
+:::
+
+### 二、间隔增长率（间隔基期）
+`识别：`隔一年，求基期<br />
+:::tip 方法
++ <b>第一步</b>，求间隔增长率；
++ <b>第二步</b>，<font color=red>间隔基期 = 现期 / (1+间隔r)</font>
+:::
+:::details 案例分析
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx241.png" />
+:::
+<span style="background:#000;color:#fff;">&nbsp; 实战攻略：&nbsp;</span>&nbsp;<font color=blue>r1 + r2 = 2 × r1 ± 百分点</font>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx242.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx243.jpg" />
+
+### 二、间隔增长率（间隔增量）
+`识别：`隔一年，求增长量<br />
+:::tip 方法
++ <b>第一步</b>，求间隔增长量；
++ <b>第二步</b>，<font color=red><b>间隔|r|</b>= 1/N</font>，<font color=red><b>增长量</b>= 现期/(N+1)</font>，<font color=red><b>减少量</b>= 现期/(N-1)</font>
+:::
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx244.png" />
+
+### 补充：间隔增长率（速算优化之参照法）
+:::tip 方法
+10% × 10% = (10×10) / 100 = 1%
++ <b>a% × b%</b>，<font color=blue>a × b ＜ 100</font>，<font color=red>乘积大</font>，<font color=blue>乘积可忽略</font>
++ <font color=red>差距不大</font>，<font color=blue>可以用类比法</font>
+:::
+:::details 案例辅助
++ <b>2% + 23% + 2% × 23%</b> = 25% + 0.46% ≈ （<font color=blue>2 × 23 ＜ 100，且2和23差距大，乘积可忽略</font>）<font color=red>25%</font><br />
++ <b>22% + 23% + 22% × 23%</b> ≈ （<font color=blue>22 × 23 ＞ 100，且22和23差距不大，</font>22%+23%=45%，<font color=blue>22%×23%</font>≈5%）<font color=red>50%</font>
+:::
+
+### 补充：乘积增长率
+`识别：`已知两者各自增长率，求两者乘积的增长率<br />
+:::tip 计算公式
+<font color=blue>rₐ = rₘ + rₙ + rₘ × rₙ</font>
+:::
+:::details 案例分析【乘积增长率】
+`例：` 2016年，我国粮食种植面积达到10670万公顷，增长1%，粮食单产4.95吨/公顷，增长4.21%。请问我国2016年粮食总量增长率为多少？<br />
+`解：` 代入乘积增长率公式<font color=red>rₐ = rₘ + rₙ + rₘ × rₙ</font> = <font color=blue>1% + 4.21% + 1% × 4.21% ≈ 5.25%</font>
+:::
+
+### 三、现期倍数
+`识别：`现期时间 / 倍，是几倍、多几倍<br />
+`问法：`<br />
+1. 常见问法为<b>“A是B的多少倍”、“A与B的比值是多少”</b><br />
+    计算时，<b>直接用<font color=red>A÷B</font>即可</b>
+2. <b>“A比B多多少倍”</b>，计算<b><font color=red>(A/B)-1</font></b>
+3. <b>A超过B的N倍</b> → <b><font color=red>A＞B×N</font></b>
+:::details 练习
++ 800是100的<font color=red>（800/100=8）</font>倍
++ 800比100多<font color=red>（800/100-1=7）</font>倍
++ 800是否超过100的9倍 ➛ <font color=red>800 < 100x9</font>
+:::
+
+### 四、基期倍数
+`题型特征：`常见问法为<b>“A是B的多少倍”“A与B的比值是多少”</b><br />
+`识别：`<b>过去时间 + 倍</b><br />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx245.png" style="width:350px;" />
+公式中未知数为<font color=red>现期时倍数</font>，<b>用A、B表示现期量，a、b表示对应增长率</b>
+:::tip 速算
+<b>选项差距大：<font color=red>截位直除、约分计算</font></b><br />
+<b>选项差距小：<font color=red>先算“现期倍数”，再根据选项分析；化1法</font></b><br />
+:::
+
+### 五、平均数倍数
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx246.png" style="width:200px;" />
+
+`说明：`若求比例的倍数，<font color=red>可先找到分子之间倍数，分母之间倍数，再相除</font>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx247.png" style="width:550px;" />
+
+### 六、基期比重
+`题型特征：`常见问法为<b>“A占B的比重是多少”</b><br />
+`识别：`<b>求过去 + 比重</b><br />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx248.png" style="width:400px;" />
+公式中<b>未知数为<font color=red>现期时数据</font>，A表示现期部分量，B表示现期整体量 ，a、b表示对应增长率</b>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx249.png" style="width:600px;" />
+:::tip 速算
+<b>选项差距大：<font color=red>截位直除，约分计算</font>（两位约分）</b><br />
+<b>选项差距小：<font color=red>算“前”看“后”</font></b><br />
+:::
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx250.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx251.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx252.png" />
+
+### 七、现期比重
++ <b>比重 = 部分 / 总体 </b>
++ <b>增长贡献率 = 部分增长量 / 总体增长量</b>
++ <b>资料中：<font color=red>利润率 = 利润 / 收入</font></b>
++ <b>数量中：<font color=red>利润率 = 利润 / 成本</font></b>
+
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx253.png" />
+
+### 八、两期比例
+<br />
+
+#### 1. 两期比重
+`识别：`常见问法为<b>“xxxx年比重与xxxx年相比上升/下降的是 ......”“xxxx年比重与xxxx年相比上升/下降了多少个百分点”</b>
++ <span style="background:#000;color:#fff;">&nbsp; 两期比重（比较）&nbsp;</span><br />
+`识别：`……占……的比重，比上年上升/下降？
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx254.png" style="width:600px;" />
+公式中未知数为现期时数据，<b>A表示现期部分量，B表示现期整体量，a、b表示对应增长率</b>
+:::tip 思维总结
+由于<b>A、B、1+a一般均大于0，故<font color=red>两期比重增长量的正负取决于a-b的符号</font></b>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx255.png" style="width:400px;" />
+:::
+
++ <span style="background:#000;color:#fff;">&nbsp; 两期比重（计算）&nbsp;</span><br />
+`识别：`……占……的比重，比上年上升/下降了多少个百分点？
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx254.png" style="width:600px;" />
+
+`结论：1` 在实际做题过程中，<b><font color=red>两期比重差绝大多数都 < | a-b |</font></b>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx256.png" />
+
+`结论：2` 结果 < | a-b |，<b><font color=red>无唯一答案，</font></b>遵循以下步骤计算：
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx257.png" style="width:350px;" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx258.png" />
+
+:::tip 定大小的技巧
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx259.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx260.png" />
+:::
+
+#### 2. 现期平均数
+`识别：`均、每、单位面积<br />
+`列式方法一：`<font color=blue>平均数 = 后面的量 / 前面的量</font><br />
+`列式方法二：`<font color=blue>平均数 = 单位的量 / 另一个量</font><br />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx261.png" />
+
+#### 2. 现期平均数（<font color=red>求多个数的平均数</font>）
+`第一层：`<b>10个数的平均数，看尾数（非0时）</b><br />
+`第二层：`<b>看选项，瞪瞪瞪</b><br />
+`第三层：`<b>数据相差大，直接加和除</b>；<b>数据相差小，削峰填谷</b>
+:::details 案例分析【第一层、第二层】
+12345 / 10 = 1234.5 （<font color=red>适用</font>）<br />
+12340 / 10 = 1234 （<font color=red>不适用，因为和和的尾数不同</font>） 
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx262.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx263.png" />
+:::
+:::details 案例分析【第三层】
+
++ <b>数据相差小，数据相差小，削峰填谷</b><br />
+<font color=red><b>方法：↓↓↓</b></font><br />
+<b>第一步：</b>画线，找峰找谷<br /><b>第二步：</b>计算，用峰填谷
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx264.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx265.png" />
+:::
+
+#### 3. 基期平均数
+`识别：`求过去 + 平均数
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx266.png" style="width:250px;" />
+:::tip 速算
+<b>选项差距大：<font color=red>截位直除，约分计算</font>（两位约分）</b><br />
+<b>选项差距小：<font color=red>算“前”看“后”</font></b>
+:::
+
+#### 4. 两期平均数
+`识别：`平均数，比上年上升/下降 + 百分数（%）？<br />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx267.png" />
+公式中未知数为现期时数据，A表示现期总量，B表示现期个数，a、b表示对应增长率
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx268.png" />
+:::tip 思维总结
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx269.png" />
+<b>当A、B、1+a、1+b均大于0时，平均数增长量、平均数增长率的正负取决于a-b的符号</b>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx270.png" style="width:300px;" />
+:::
+
+#### 优化1: 类比求比重
+:::info <font color=blue>两种情况：</font>
+1. 给出部分、总体，直接除
+2. <b>给出部分，未直接给出总体，<font color=red>参照法</font></b>
+:::
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx271.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx272.png" />
+
+#### 优化2：化1法的基础理论
+`原理：`分子、分母同比例变化，分数值不变<br />
+`通俗理解：`<b>分子、分母几倍，加减的数字也保持相同倍数即可</b>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx273.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx274.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx275.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx276.png" />
+
+#### 优化3: 两期比例计算过程优化
+`口算：`a-b<br />
+`结论：`若 a-b>0，<b>上升</b>；若 a-b<0，<b>下降</b><br />
+`技巧：`两期平均数增长率，若 b>0，<b>绝对值变小</b>；若 b<0，<b>绝对值变大</b>
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx277.png" />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx278.png" />
+
+### 九、综合分析
+`题型特征↓↓↓`<br />
+下列说法正确/错误的是：<br />
+根据资料，以下说法能够/不能推出的是：<br />
+以下说法正确/错误的有几个？
+:::tip 综合分析做题策略（个人理解）：
++ <span style="background:#000;color:#fff;">&nbsp; 经验： &nbsp;</span><br />
+表述绝对往往是错的 → 逐年、均、一定<br />
+表述模棱两可的往往是对的 → 大约、左右<br />
+多几倍往往设置是几倍的坑<br />
+两期比例简单，往往设置成正确答案<br />
+单位不同，多半有坑<br />
+好的越来越好，坏的越来越少<br />
++ <span style="background:#000;color:#fff;">&nbsp; 难易：从易到难 &nbsp;</span><br />
+<img src="/image/blogs/study/gongKao/zlfx01/zlfx279.png" style="width:300px;" />
++ <span style="background:#000;color:#fff;">&nbsp; 概率：先C、D，再A、B &nbsp;</span>
+概率：先C、D，再A、B
+:::
