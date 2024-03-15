@@ -67,6 +67,12 @@ export const sidebar = {
                                 { text: '第一部分 数学运算', link: '/blogs/gongKao/xc/fiveXC' },
                                 { text: '第二部分 资料分析', link: '/blogs/gongKao/xc/zlfxXC' }
                             ]
+                        },
+                        {
+                            text: '常识', collapsed: true, collapsible: true,
+                            items: [
+                                { text: '第一章 历史文化', link: '/blogs/gongKao/xc/changshi01' },
+                            ]
                         }
                     ]
                 }
