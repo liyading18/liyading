@@ -87,9 +87,162 @@
 
 <b><font color=blue>岳飞</font></b>，<b>满江红</b><br />
 
-### 三、“古文运动”——唐宋八大家
+### 三、“古文运动”—— 唐宋八大家
 <b>唐代中期及宋朝时期以提倡古文、反对骈文为特点的文体改革运动</b><br />
 <b>唐宋八大家</b>，是对<u>唐代</u><font color=blue>韩愈、柳宗元</font>和<u>宋代</u><font color=blue>苏轼、苏洵、苏浙、欧阳修、王安石、曾巩</font>八位散文家的合称
 :::info 唐朝
+<b><font color=blue>韩愈（“韩昌黎”）</font></b>，<b>唐宋八大家之首</b>。1. 提出“文道合一”；<b>《师说》</b>（师者，所以传道授业解惑也）、<b>《进学解》</b>（业精于勤，荒于嬉；行成于思，毁于随）。<b><font color=red>古文运动发起者</font></b>，苏轼对其评价为“文起八代之衰，道济天下之弱”<br />
+
+<b><font color=blue>柳宗元（“柳河东”）</font></b>，<b>《永州八记》</b>生于河东，做官在柳州。<br />
 :::
+:::info 宋朝
+<b><font color=blue>苏轼（“东坡居士”）</font></b>，<b>《赤壁赋》</b>月出于东山之上，徘徊于<b>斗牛</b>之间。<font color=red>斗牛——南斗六星</font><br />
+
+<b><font color=blue>苏洵</font></b>，<b>《六国论》</b><br />
+
+<b><font color=blue>苏辙</font></b>，<b>《诗集传》、《春秋集解》</b><br />
+
+<b><font color=blue>欧阳修（醉翁、六一居士）</font></b>，<b>《醉翁亭记》</b>（醉翁之意不在酒，在乎山水之间也）<br />
+
+<b><font color=blue>王安石（“临川先生”）</font></b>，<b>《临川集》</b><br />
+
+<b><font color=blue>曾巩（“南丰先生”）</font></b>，<b>《元丰类稿》、《隆平集》</b><br />
+:::
+
+### 其他拓展
+:::info 唐
++ <font color=blue>刘禹锡</font> <br />
+山围故国周遭在，潮打空城寂寞回。<font color=red>"石头城"指 南京</font> <br />
+旧时王谢堂前燕，飞入寻常百姓家。<font color=red>《乌衣巷》 包含运动/变化</font> <br />
+东边日出西边雨，道是无晴却有晴。<font color=red>对流雨</font> <br />
+沉舟侧畔千帆过，病树前头万木春。<font color=red>发展眼光看问题</font> <br />
++ <font color=blue>崔颢</font> <br />
+晴川历历汉阳树，芳草萋萋鹦鹉洲。<font color=red>鹦鹉洲——黄鹤楼</font> <br />
++ <font color=blue>贺知章</font> <br />
+少小离家老大回，乡音无改鬓毛衰。<font color=red>（静止运动）</font> <br />
++ <font color=blue>李贺</font> <br />
+黑云压城城欲摧，甲光向日金鳞开。<font color=red>（黑云：积云，很厚的乌云）（城：雁门关）</font> <br />
+:::
+:::info 宋
++ <font color=blue>陆游</font> <br />
+山重水复疑无路，柳暗花明又一村。<font color=red>（前进性 与 曲折性）</font> <br />
+塞上长城空自许，镜中衰鬓已先斑。<font color=red>（长城：边关守将）</font> <br />
+纸上得来终觉浅，绝知此事要<b>躬行</b>。<font color=red>（实践）</font> <br />
++ <font color=blue>朱熹</font> <br />
+问渠那得清如许？为有源头活水来。<font color=red>（事物都是不断运动、变化和发展的）</font> <br />
+等闲识得东风面，万紫千红总是春。<font color=red>（东风 —— 春天，西风 —— 秋天，南风 —— 夏天，北风 —— 冬天）</font> <br />
+:::
+:::info 中国名关
+山海关 —— <font color=red>（河北秦皇岛）</font><br />
+嘉峪关，玉门关，阳关 —— <font color=red>（甘肃）</font><br />
+雁门关 —— <font color=red>（山西）</font><br />
+居庸关 —— <font color=red>（北京昌平区）</font>
+:::
+
+### 四、元曲
+<br />
+
+#### （一）元曲四大家
+<b><font color=blue>关汉卿</font></b>，元曲四大家之首，代表作：<b>《窦娥冤》、《望江亭》</b><br />
+<b><font color=blue>马致远</font></b>，《汉宫秋》，其作品<b>《天净沙·秋思》被称为“秋思之祖”</b><br />
+<b><font color=blue>郑光祖</font></b>，《倩女离魂》<br />
+<b><font color=blue>白朴</font></b>，《墙头马上》
+
+#### （二）著名元曲
+<br />
+
+##### 元曲四大悲剧
+<b><font color=blue>《窦娥冤》</font></b>，作者<b>关汉卿</b>，取材于《列女传》中的《东海孝妇》，成功塑造“窦娥”这个悲剧主人公形象<br />
+<b><font color=blue>《梧桐雨》</font></b>，作者<b>白朴</b>，全名《唐明皇秋夜梧桐雨》，写的时唐明皇李隆基于杨贵妃的故事<br />
+<b><font color=blue>《汉宫秋》</font></b>，作者<b>马致远</b>，写西汉元帝受匈奴威胁，被迫送爱妃王昭君出塞和亲的故事<br />
+<b><font color=blue>《赵氏孤儿》</font></b>，作者<b>纪君祥</b>，春秋时期晋国赵氏被奸臣屠岸贾陷害而惨遭灭门，幸存下来的赵氏孤儿赵武长大后为家族复仇的故事
+
+##### 元曲四大爱情剧
+<b><font color=blue>《拜月亭》</font></b>，作者<b>关汉卿</b>，也称《王瑞兰闺怨拜月亭》，写的是蒋世隆与王瑞兰在兵荒马乱时期悲欢离合的爱情故事<br />
+<b><font color=blue>《西厢记》</font></b>，作者<b>王实甫</b>，全名《崔莺莺待月西厢记》，写的是书生张君瑞和相国小姐崔莺莺相爱后冲破重重阻挠而终成眷属的故事<br />
+<b><font color=blue>《墙头马上》</font></b>，作者<b>白朴</b>，写的是尚书之子裴少俊和总管之女李千金私定终身的故事<br />
+<b><font color=blue>《倩女离魂》</font></b>，作者<b>郑光祖</b>，出自唐代陈玄祐的传奇小说《离魂记》，写的是张倩女和王文举的故事
+
+### 五、戏曲
+<font color=blue>中国戏曲</font>与<font color=blue>古希腊悲喜剧、印度梵剧</font>并称为“世界三大古老的戏剧文化”
+<br />
+<br />
+
+#### （一）昆曲
++ <font color=blue>2001年入选《人类非物质文化遗产代表作名录》</font>
++ 昆曲是明朝中叶至清朝中叶戏曲中影响最大的声腔剧种。汤显祖的<font color=blue>《牡丹亭》《邯郸记》</font>
+
+#### （二）京剧
++ <font color=blue>2010年入选《人类非物质文化遗产代表作名录》</font>
++ <font color=blue>中国京剧</font>与<font color=blue>中国画、中国医学</font>被世人称为<font color=red>“中国三大国粹”</font><b>(国画、中医、京剧)</b>
++ “唱念做打”“生旦净丑”
+:::info 名人名剧
+`四大名旦：`梅兰芳、程砚求、尚小云、荀慧生<br />
+`著名剧目：`《红灯记》、《霸王别姬》、《四郎探母》、《铡美案》（又名《秦香莲》）
+:::
+
+#### （三）其他戏曲剧种
+我国戏曲经过长期的发展演变，逐步形成了以<b><font color=red>“京剧、越剧、黄梅戏、评剧、豫剧”</font></b>五大戏曲剧种为核心的中华戏曲百花苑。<br />
++ <b><font color=blue>越剧</font></b>，多以“才子佳人”题材为主，<b>《梁山伯与祝英台》、《红楼梦》</b>
++ <b><font color=blue>黄梅戏</font></b>，以真实活泼著称，<b>《天仙配》</b>
++ <b><font color=blue>评剧</font></b>，有亲切的民间味道，<b>《秦香莲》、《刘巧儿》</b>
++ <b><font color=blue>豫剧</font></b>，以表达人物内心情感著称，<b>《朝阳沟》</b>
+
+#### （四）其他入选《人类非物质文化遗产代表作名录》的戏曲
+蒙古族长调民歌、新疆维吾尔木卡姆艺术、贵州侗族大歌、福建南音、皮影戏
+
+### 汉赋
+<br />
+
+#### 汉赋四大家
++ <b><font color=blue>司马相如</font></b>，（汉赋奠基人）
++ <b><font color=blue>扬雄</font></b>，<b>《蜀都赋》又称《京都赋》</b>，今成都
++ <b><font color=blue>班固</font></b>，<b>《两都赋》</b>，洛阳与长安（今西安）
++ <b><font color=blue>张衡</font></b>，科圣，<b>浑天仪——地球仪；张衡一号——地震</b>
+
+## 专题2、中国文学
+
+### 一、四大名著
++ <b><font color=blue>《三国演义》</font></b>，罗贯中（元末明初），描写东汉末年到西晋初年之间的历史风云
++ <b><font color=blue>《水浒传》</font></b>，施耐庵 （元末明初），描写北宋末年以宋江为首的故事
++ <b><font color=blue>《西游记》</font></b>，吴承恩（明代），取材于《大唐西域记》和民间传说、元杂剧
++ <b><font color=blue>《红楼梦》</font></b>，曹雪芹（清代），又名《石头记》《金陵十二钗》《风月宝鉴》等
+
+### 二、《永乐大典》与《四库全书》
++ <font color=blue>《永乐大典》</font>编撰与于明朝永乐年间（朱棣）。称为“世界上有史以来最大的百科全书”
++ <font color=blue>《四库全书》</font>在乾隆皇帝的主持下，由纪昀等编撰，耗时十几年编成的丛书，全称《钦定四库全书》。分经、史、子、集四部，故名四库全书
+
+### 三、著名作家
+<b><font color=blue>鲁迅</font></b>，原名周樟寿，后改名周树人。<b>著名文学家、思想家，新文化运动的重要参与者，中国现代文学的奠基人</b>。小说集<font color=blue>《呐喊》《彷徨》《故事新编》</font>，散文诗集<font color=blue>《野草》</font><br />
+
+<b><font color=blue>茅盾</font></b>原名沈德鸿，字雁冰。小说<font color=blue>《春蚕》、《林家铺子》、《子夜》</font>，文学评论<font color=blue>《夜读偶记》</font><br />
+
+<b><font color=blue>老舍</font></b>，原名舒庆春，《<b>新中国第一位获得“人民艺术家”称号的作家</b>。小说<font color=blue>《骆驼祥子》、《四世同堂》</font>，话剧<font color=blue>《茶馆》</font><br />
+
+<b><font color=blue>曹禺</font></b>，原名万家宝，<b>中国现代话剧史上成就最高的剧作家</b>。<font color=blue>《雷雨》《日出》《北京人》《原野》</font><br />
+
+<b><font color=blue>沈从文</font></b>，中国现代著名文学家、小说家、散文家和考古家。《边城》、《长河》<br />
+
+<b><font color=blue>钱钟书</font></b>，中国现代作家、文学研究家。长篇小说<font color=blue>《围城》</font><br />
+
+<b><font color=blue>莫言</font></b>，2011年荣获茅盾文学奖，2012年获得诺贝尔文学奖（是第一个获得诺贝尔文学奖的中国籍作家）<font color=blue>《红高粱》、《丰乳肥臀》等</font><br />
+
+<b><font color=blue>巴金</font></b>，原名李尧棠
+
+### 四、著名作品
+<b><font color=blue>《白鹿原》</font></b>，根据陈忠实的同名小说改编。1997年，该小说<b>获得中国第四届茅盾文学奖</b><br />
+
+<b><font color=blue>《平凡的世界》</font></b>，作者路遥，1991年，<b>获得中国第三届茅盾文学奖</b><br />
+
+<b><font color=blue>《妻妾成群》</font></b>，作者苏童，改编成电影<b>《大红灯笼高高挂》</b>
+
+## 专题3、诸子百家
+
+### 一、儒家
+<b><font color=blue>孔子（名丘，字仲尼）</font></b>，<b>儒家学派创始人</b>，被称为“圣人”。政治思想核心内容是<font color=blue>“礼”与“仁”</font>，在治国方略上，主张<font color=blue>“为政以德”</font>。变“学在官府”为“有教无类”，倡导“因材施教”。与弟子重新编订<font color=blue>《五经》</font>，思想和言论被弟子整理成<font color=blue>《论语》</font>。<b>鲁国史官<font color=blue>《春秋》，至圣</font>，康熙称其为<font color=blue>万世师表</font></b>。<br />
+
+<b><font color=blue>孟子（名轲，字子舆）</font></b>，被称为<b>“亚圣”</b>，宣扬<font color=blue>“仁政”“王道”</font>的主张，提倡<font color=blue>“民为贵，社稷次之，君为轻”</font>。“富贵不能淫，贫贱不能移，威武不能屈，此之谓大丈夫”。<br />
+
+<b><font color=blue>荀子</font></b>，曾传道授业，弟子有韩非、李斯等。在人性问题上，提倡“性恶论”，主张人性恶，<b>否认天赋的道德观念，强调后天环境和教育对人的影响</b>。<font color=blue>《荀子》</font>（青，取之于蓝，而青于蓝）。主张<font color=blue><b>“礼法并用”</b></font>。<br />
+
 
