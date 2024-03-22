@@ -446,3 +446,87 @@
 2. <b>民族独立：</b>亚非地区的印度、越南、埃及等国家相继独立，导致由西方地理大发现后在全球形成的殖民体系彻底瓦解
 3. <b>两极阵营：</b>美国与西欧、北美资本主义国家为实现防卫协作建立以美国为首的资本主义阵营<font color=blue>（北约阵营）</font>。东欧和亚洲社会主义国家为对抗北约形成以苏联为首的社会主义阵营<font color=blue>（华约阵营）</font>
 :::
+
+## 专题5、二十四节气
+（<b><font color=red>春雨惊春清谷天，夏满芒夏暑相连；秋处露秋寒霜降，冬雪雪冬小大寒。</font></b>）
++ <font color=blue>立春</font>（2月3日~2月4日）、<font color=blue>雨水</font>（2月18日~2月19日）
++ <font color=blue>惊蛰</font>（3月5日~3月6日）、 <font color=blue>春分</font>（3月20日~3月21日）
++ <font color=blue>清明</font>（4月4日~4月6日）、<font color=blue>谷雨</font>（4月19日~4月20日）
++ <font color=blue>立夏</font>（5月5日~5月6日）、 <font color=blue>小满</font>（5月20日~5月22日）
++ <font color=blue>芒种</font>（6月5日~6月6日）、 <font color=blue>夏至</font>（6月21日~6月22日）
++ <font color=blue>小暑</font>（7月7日~7月8日）、<font color=blue>大暑</font>（7月22日~7月23日）
++ <font color=blue>立秋</font>（8月6日~8月9日）、<font color=blue>处暑</font>（8月22日~8月24日）
++ <font color=blue>白露</font>（9月7日~9月8日）、<font color=blue>秋分</font>（9月22日~9月24日）
++ <font color=blue>寒露</font>（10月7日~10月9日）、<font color=blue>霜降</font>（10月23日~10月24日）
++ <font color=blue>立冬</font>（11月7日~11月8日）、<font color=blue>小雪</font>（11月22日~11月23日）
++ <font color=blue>大雪</font>（12月7日~12月8日）、 <font color=blue>冬至</font>（12月21日~12月23日）
++ <font color=blue>小寒</font>（1月5日~1月6日）、<font color=blue>大寒</font>（1月19日~1月21日）
+
+<b>白露</b>：<font color=red>昼夜温差最大</font><br />
+<b>七月流火</b>：不是天气最热的时候，而是天气慢慢转凉
+
+## 专题6、丝绸之路
+<b>“丝绸之路”</b>是指起始于古代中国长安<b>（今西安）</b>，德国，李希霍芬最早提出该词。连接亚洲、非洲和欧洲的陆上商业贸易路线，最初的作用是运输古代中国出产的丝绸、瓷器等商品，后来成为东方与西方之间在经济 、政治、文化等 诸多方面进行交流的主要道路。终点<b>（地中海沿岸｜大秦｜古罗马）</b><br />
+
+<b>狭义的丝绸之路</b>一般指<b>陆上丝绸之路</b>。广义上讲，又分为<font color=red>陆上丝绸之路和海上丝绸之路</font>。国家级合作倡议<font color=blue>“一带一路”</font>是<b>“丝绸之路经济带”和“21世纪海上丝绸之路”的简称</b>。
+
+### 陆上丝绸之路
+
++ <font color=blue>中、吉、哈</font><b>三国联合申报的“丝绸之路”东段：长安——天山廊道的路网</b>成功申报为世界文化遗产，是首例跨国合作申遗成功项目。<br />
++ <font color=blue>第一亚欧大陆桥：</font>东起<b>海参崴（符拉迪沃斯托克）</b>—— 西至<b>荷兰鹿特丹</b>
++ <font color=blue>第二亚欧大陆桥：</font><b>新丝绸之路（现代“丝绸之路”）</b>：“亚欧大桥”，跨越亚欧两大洲，连接太平洋和大西洋。<b>东起江苏连云港，西至荷兰鹿特丹。</b>
+
+### 海上丝绸之路
+<b>重要起点：</b><font color=blue>广州（番禺）、泉州（刺桐）、宁波（明州）、扬州、登州（蓬莱）、刘家港、福州等。</font><br />
+
+<b>著名人物及其成就：</b><br />
+1. <font color=red>西汉张骞</font>，<b>丝绸之路的开拓者，被誉为“第一个睁开眼睛看世界的中国人”</b>
+2. <font color=red>东汉班超</font>，<b>不入虎穴，焉得虎子</b>
+3. <font color=red>唐·玄奘</font>，<b>创作《大唐西域记》</b>
+4. <font color=red>唐·鉴真</font>，<b><font color=blue>六次东渡日本</font>，弘扬佛法，传播大唐文化。《戒律三部经》</b>
+5. <font color=red>明·郑和</font>，<b>七次下西洋，经历靖难之役。发展海外贸易，传播中华文明</b>
+
+:::tip 知识补充
++ 带<b><font color=red>“胡”</font></b>字多是<b>两汉、南北朝时期</b>传入中国，且多来自<b>西北地区</b>
++ + <b>玉米🌽</b>(明末)、<b>白薯、辣椒🌶️等都是明朝时期传入</b>
++ 带<b><font color=red>“番”</font></b>字多是<b>明朝以后</b>传入中国的，大多来自<b>南洋</b>
++ 带<b><font color=red>“洋”</font></b>字多是<b>清末、民国时期</b>传入中国的
+:::
+
+## 专题7、史学名著
+
+### 儒家经典
++ <b>《尚书》</b>，<font color=blue>又称《书》或《书经》</font>，是中国第一部古典文集和最早的历史文献汇编。<b>最早提出<font color=red>“和”</font>这一思想。</b><u>和、协和万邦、和恒四方</u>
++ <b>《春秋》</b>，即《春秋经》，<font color=blue>是我国第一部编年体史书</font>。作为鲁国的编年史，据传由孔子修订而成。“春秋三传”：《左传》《公羊传》《毂梁传》
++ <b>《左传》</b>，全称《春秋左氏传》，中国第一部叙事详细的编年史著作
+
+### 二十四史
+<b>前四史<font color=blue>（《史记》《汉书》《后汉书》《三国志》</font></b>）
++ <b>《史记》</b>，西汉<b>司马迁，中国历史上<font color=red>第一部纪传体通史</font></b>。记录<font color=blue>黄帝到汉朝</font>的历史；<b>鲁迅称“史家之绝唱，无韵之离骚”</b>。<u>本纪：</u>记录帝王（例外：《项羽本纪》）；<u>世家：</u>王侯将相，如《陈涉世家》
++ <b>《汉书》</b>，东汉班固，中国第一部纪传体断代史
++ <b>《后汉书》</b>，南朝宋范晔，第一位在纪传体史书专为妇女作传的史学家
++ <b>《三国志》</b>，西晋陈寿，记载中国三国时代历史的断代史。罗贯中的《三国演义》即以陈寿的《三国志》为蓝本
+
+<b><font color=blue>《资治通鉴》</font></b>，北宋司马光<br />
+
+<b><font color=blue>《国语》</font></b>作者：战国，左丘明，<font color=blue>是我国第一部国别体史书</font>
+
+## 专题8、历代帝王将相
+
+### 帝王
+:::info 【秦】
+<b>秦始皇（嬴政）</b>，<font color=blue>统一华夏；书同文，车同轨，统一度量衡，统一货币</font>；废除分封制，推行郡县制；<font color=blue>修建万里长城</font>
+:::
+:::info 【汉】
++ <b>西汉</b>：刘邦之子 → <font color=blue>刘恒</font>，刘恒之子 → <font color=blue>刘启</font>，刘启之子 → <font color=blue>刘彻</font>……<br />
++ <b>东汉</b>，刘秀建立
+:::
+:::info 【隋】
++ <b>隋文帝</b>，结束南北分裂局面；开皇之治，创<font color=blue>三省六部制</font>
++ <b>隋炀帝</b>，开创<font color=blue>科举制</font>，修隋朝大运河（京杭大运河的雏形），迁都洛阳
+:::
+:::info 【唐】
+李渊之子 → 李世民，李世民之子 → 李治，李治的皇后 → 武则天，李治、武则天之子 → 李显，李显弟弟的儿子 → 李隆基<br />
+
+<b>唐高祖（<font color=red>李渊</font>），唐太宗（<font color=red>李世民</font>），唐高宗（<font color=red>李治</font>），神龙政变唐中宗（<font color=red>李显</font>）复辟，恢复唐朝，唐玄宗（唐明皇<font color=red>李隆基</font>）</b>
+:::
