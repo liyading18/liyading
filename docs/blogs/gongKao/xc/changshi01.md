@@ -530,3 +530,174 @@
 
 <b>唐高祖（<font color=red>李渊</font>），唐太宗（<font color=red>李世民</font>），唐高宗（<font color=red>李治</font>），神龙政变唐中宗（<font color=red>李显</font>）复辟，恢复唐朝，唐玄宗（唐明皇<font color=red>李隆基</font>）</b>
 :::
+:::info 【宋】
+宋太祖（<font color=red>赵匡胤</font>），宋太宗（<font color=red>赵炅（赵光义）</font>），宋仁宗（<font color=red>赵祯</font>）；宋神宗（<font color=red>赵顼(xu)</font>）
+:::
+:::info 【元】
+元太祖（<font color=red>铁木真</font>），元世祖（<font color=red>忽必烈</font>）
+:::
+:::info 【明】
+明太祖（<font color=red>朱元璋</font>），明成祖（<font color=red>朱棣[永乐大帝]</font>）
+:::
+:::info 【清】
+<b>康熙皇帝</b>清圣祖（<font color=red>玄烨</font>），<b>雍正皇帝</b>清世宗（<font color=red>胤(yin)禛</font>），<b>乾隆皇帝</b>清高宗（<font color=red>弘历</font>）
+:::
+
+### 贤相良将
++ “华夏第一相”：<b>管仲</b>
++ 北宋<b>范仲淹</b>：不以物喜，不以己悲；居庙堂之高则忧其民；处江湖之远则有其君。 先天下之忧而忧，后天下之乐而乐
+
+## 专题9、欧洲思想解放
+<font color=blue>文艺复兴、宗教改革、启蒙运动</font>被称为<b>“西方近代三大思想解放运动”</b>
+:::info 欧洲中世纪
+始于<b>公元476年西罗马帝国的灭亡</b>，终于<b>公元1453年东罗马帝国的灭亡</b>；<br />
+最终融入<b>文艺复兴运动</b>和<b>大航海时代（地理大发现）</b>中
+
++ <b>公元5世纪后期</b>到<b>公元15世纪中期</b>（<font color=blue>宗教革命时期</font>）
+:::
+
+### 一、文艺复兴
++ 文艺复兴是<font color=blue>艺术与科学的革命</font>
++ <font color=blue>莎士比亚、但丁、达·芬奇</font>被称为<b>“文艺复兴三巨人”</b>
++ 文学三杰：<b>但丁、彼特拉克、薄伽丘</b>
++ 美术三杰：<b>达·芬奇</b>（《最后的晚餐》、《蒙娜丽莎》）、<b>拉斐尔、米开朗琪罗</b>
+:::info 【意大利】
++ `诗人：`但丁、彼特拉克
++ `作家：`薄伽丘
++ `雕刻家：`米开朗琪罗
+:::
+:::info 【英国】
++ `剧作家：`莎士比亚
++ `四大戏剧：`（吓死二喜）《仲夏夜之梦》《威尼斯商人》《第十二夜》《皆大欢喜》
++ `四大悲剧：`（哈罗李白）《哈姆雷特》《奥赛罗》《李尔王》《麦克白》
+:::
+
+#### 科学成就
+:::info 【天文学】
++ 波兰<font color=blue>哥白尼（日心说）</font>
++ 意大利<font color=blue>伽利略（天文望远镜）</font>
++ 德国<font color=blue>开普勒（行星运动的三大定律）</font>
+:::
+:::info 【物理学】
++ 意大利<font color=blue>伽利略（自由落体、抛物体）</font>
+:::
+:::info 【地理学】
++ 意大利<font color=blue>哥伦布</font>
++ 葡萄牙<font color=blue>麦哲伦（首次环球航行）</font>
+:::
+
+### 二、启蒙运动
+<b>启蒙运动是发生在17~18世纪</b>欧洲的<b>一场反封建、反教会</b>的思想文化解放运动。<font color=blue>为法国大革命爆发做了充分的思想准备</font>
+:::info 伏尔泰（法国）
+1. 反对君主专制，倡导<font color=blue>君主立宪制</font>
+2. 主张天赋人权，认为人生来就是自由和平等的
+3. 认为法律应以人性为出发点，在<font color=blue>法律面前人人平等</font>
+4. 猛烈抨击天主教会的罪恶行径，主张信仰自由和信仰上帝
+:::
+:::info 孟德斯鸠（法国）
+国家学说理论的奠基者之一<br />
+1. 反对君主专制，提出<font color=blue>“三权分立”</font>学说，认为国家的权力应分为<font color=blue>立法权、司法权和行政权，彼此制衡</font>
+2. 法律应当体现理性
+:::
+:::info 卢梭（法国）
+被称为人民主权的捍卫者<br />
+1. <font color=blue>天赋人权，人民主权</font>
+2. <font color=blue>社会契约论：</font>解释国家的起源；规定统治者和被统治者相互间的权利和义务
+3. 革命合法性
+4. 认为私有制是人类不平等的根源
+5. 理性是不可靠的
+:::
+
+## 专题10、书画
+
+### 一、书法
+<font color=blue>甲骨文、金文、篆书、隶书、草书、楷书、行书</font><br />
++ <font color=red>甲骨文</font>，最早出现在<font color=blue>商朝</font>，刻在龟甲上，<b>根据裂纹</b>用来占卜（<font color=blue>契文、卜辞文</font>）。是中国史上可考察<b>最古老的文字</b>
++ <b>甲骨文之父——王懿荣</b>。<font color=blue>刘鄂的《铁云藏龟》</font>，是中国第一部记录甲骨文的书籍。此外刘鄂还写过《老残游记》
++ <font color=red>金文</font>，又称铭文，<b>钟鼎文</b>，代表作《毛公鼎》；刻录文字最多的青铜器
+
+#### 历代名家
++ <font color=blue>李斯</font>，小篆之祖
++ <font color=blue>钟繇</font>，楷书鼻祖
++ <font color=blue>王羲之</font>，“书圣”，《兰亭序》，<font color=red>“天下第一行书”</font>
++ <font color=blue>欧阳询</font>，“唐人楷书第一”
++ <font color=blue>颜真卿</font>，“颜体”，与赵孟頫、柳公权、欧阳询并称“楷书四大家”
++ <font color=blue>张旭</font>，唐文宗以李白诗歌、裴旻(min)剑舞、<font color=red>张旭草书</font>为三绝
++ <font color=blue>怀素</font>，“狂草”
++ <font color=red>“天下第二行书”</font>——<font color=blue>《祭侄文稿》</font>
++ <font color=red>“天下第三行书”</font>——苏轼的<font color=blue>《寒食帖》</font>
++ <font color=blue>三希堂法帖</font>：王羲之的<font color=red>《快雪时请帖》</font>；王献之的<font color=red>《中秋帖》</font>；王珣的<font color=red>《伯远帖》</font>
+
+### 二、绘画
+<br />
+
+#### 1. 名画
+:::info 东晋<b>顾恺之</b>
+<b><font color=red>《洛神赋图》《女史箴(zhen)图》</font></b><br />
+<b><font color=blue>《洛神赋图》</font></b>以三国时期曹植的浪漫主义爱情名篇《洛神赋》为题材<br />
+《冯媛当熊》 —— 汉元帝
+:::
+:::info 唐<b>阎立本</b>
+<b><font color=red>《步辇图》《历代帝王图》</font></b><br />
+<b><font color=blue>《步辇图》</font></b>内容反映的是吐蕃王（今西藏）松赞干布迎娶<b>文成公主入藏</b>的事，它是<b>汉藏兄弟民族友好情谊的历史见证</b><br />
+:::
+<b><font color=red>《唐宫仕女图》</font>，唐<font color=blue>张萱、周昉</font></b>。展示“回眸一笑百媚生”的唐代美女众生相<br />
+
+<b><font color=red>《清明上河图》</font>，北宋<font color=blue>张择端</font></b>。以长卷的形式，采用散点透视构图法，生动记录了中国12世纪北宋汴京的城市面貌和当时社会各阶层人民的生活状况（北宋都城 今河南开封）<br />
+
+<b><font color=red>《千里江山图》</font>，北宋<font color=blue>王希孟</font></b>。以长卷的形式描绘了连绵的群山冈恋和浩渺的江河湖水<br />
+
+<b><font color=red>《富春山居图》</font>，元<font color=blue>黄公望</font></b>。以长卷的形式，主要描绘了浙江省桐庐、富阳境内富春江两岸<b>初秋</b>的秀丽景色<br />
+
+<b><font color=red>《百骏图》</font>，清<font color=blue>郎世宁</font>（意大利人）</b><br />
+
+<b><font color=red>《韩熙载夜宴图》</font>，五代十国<font color=blue>顾闳中</font></b>
+
+#### 2. 著名画家
++ <b><font color=red>张僧繇</font></b>，中国<b>南朝画家</b>，以善画佛道著称。“画龙点睛”传说
++ <b><font color=red>吴道子</font></b>，<b>唐代</b>杰出画家，<b>“画圣”</b>。<font color=blue>《天王送子图》《孔子行教图》</font>
++ <b><font color=red>郑板桥</font></b>，<b>清代</b>文人、画家，“扬州八怪之一”，最擅长画竹
++ <b><font color=red>徐悲鸿</font></b>，<b>擅长画马</b>，<font color=blue>《八骏图》</font>
++ <b><font color=red>齐白石</font></b>，<b>擅长画虾</b>，<font color=blue>《墨虾》《蛙声十里出山泉》</font>
++ <b><font color=red>黄胄(zhou)</font></b>，<b>擅长画驴</b>，为邓小平同志访问日本创作<font color=blue>《百驴图》</font>，作为国礼赠送给裕仁天皇
++ <b><font color=red>梵高（印象派）</font></b>，<font color=blue>《向日葵》《吃土豆者》《星空》</font>
++ <b><font color=red>毕加索</font></b>，西班牙人，<font color=blue>《亚威农少女》《格尔尼卡》《和平鸽》</font>
++ <b><font color=red>朱耷（东方梵高）</font></b>，别号<font color=blue>八大山人</font>
+
+## 专题11、 人才选拔制度
++ <b>春秋以前</b>，<font color=blue>“世卿世禄制”</font>
++ <b>战国</b>，<font color=blue>“军工爵制度” “养士”之风（收养门客）</font>
+:::info 【汉代】
+1. <font color=red>察举制</font>，自下而上推选人才；选举方式：<font color=blue>荐举为主，考试为辅</font>。汉高祖刘邦开“察举制”先河 → 汉武帝时完备（统一选才标准和考试方法）
+2. <font color=red>征辟</font>，自上而下选拔官吏，选拔方式为皇帝征聘（“征”）和公府、州郡辟除（“辟”）
+:::
++ <b>魏晋</b>，<font color=blue>“九品中正制”</font>（魏文帝曹丕于黄初元年制定）
++ <b>武则天糊名法</b>，<font color=blue>宋朝正式启用</font>。相当于今天的密封
++ <b>隋唐以后</b>，<font color=blue>科举制</font>。隋朝设立，唐朝完善，明朝鼎盛
+
+### 古代选官制度
+<img src="/image/blogs/study/gongKao/ch01/ch02.png" />
+<b>院试 —— 秀才</b>
+
+:::info 科举相关名词
+乡试、会试、殿试；状元、榜眼、探花；<br />连中三元；金榜题名；<br />蟾宫折桂、独占鳌头；<b>五子登科（殿试）</b>、名落孙山
+:::
+
+### 政治礼仪
+1. <b>封禅</b>：祭天、祭地
+2. <b>五礼</b>：吉、凶、军、嘉、宾，形成于西周
++ + <b>吉</b>：祭祀，祭天祭地祭人鬼
++ + <b>凶</b>：用来哀悯、吊唁之礼，如葬礼
++ + <b>军</b>：军事礼仪，如召集军队、检阅、士兵出征
++ + <b>嘉</b>：有喜庆意义，如婚礼、君王登基、君王纳妃
++ + <b>宾</b>：接待宾客和外交的往来
+
+### 年龄相关礼仪
+1. 诞生礼<br />
+<b>三朝</b>：出生三日领受各方贺礼，男孩是<b>弄璋之喜</b>，女孩是<b>弄瓦之喜</b><br />
+周岁：<b>抓周</b>
+
+2. <b>排行</b>：伯（1）、仲（2）、叔（3）、季（4）
+
+### 年龄别称
++ 垂髫：三四岁至八九岁的儿童

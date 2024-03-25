@@ -317,6 +317,10 @@
 <img src="/image/blogs/study/gongKao/xc04/cl1t504.png" style="width: 600px;" />
 :::
 
+#### 拓展知识
+<font color=blue>两矛盾关系比大小 —— 大大则大（<b>只适用于两矛盾关系</b>）</font>
+<img src="/image/blogs/study/gongKao/xc04/ddzd.png" />
+
 #### 日常结论
 <span style="background:#000; color:#fff;"><b>&nbsp;题型特征&nbsp;</b></span><br />
 <b>提问方式为“可以推出”“无法推出”等</b><br />
