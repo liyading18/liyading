@@ -139,3 +139,48 @@ AI旋风网站收录了超过1000个国内外好用的AI工具，按照AI写作�
 ### 18. 脚本之家在线工具
 地址：[http://tools.jb51.net/](http://tools.jb51.net/)
 ![avatar](/image/blogs/study/buildBlog/bd10.png)
+
+### 19. 在线图片编辑器
++ <b>yft-design</b><br />
+
+Github 开源地址：[https://github.com/dromara/yft-design](https://github.com/dromara/yft-design) <br />
+在线体验地址：[https://yft.design](https://yft.design) <br />
+
+一个基于 fabric.js 的在线图片编辑器，使用`Vue3 + TypeScript + Fabric.js + Element-Plus`的技术栈，该项目看起来比较注重设计文件的解析方面，作者是采用了 Python 库 psd-tools[2] 在后端进行解析，支持 PSD、PDF 等多种格式解析，同时也支持导出图片、SVG、PDF 等多种格式的文件，不过该后端解析源代码目前尚未开源，感兴趣可以向该作者了解~
+![avatar](/image/blogs/study/buildBlog/vueImg.png) <br />
+
++ <b>vue-fabric-editor</b><br />
+
+Github 开源地址： [https://github.com/nihaojob/vue-fabric-editor](https://github.com/nihaojob/vue-fabric-editor) <br />
+在线体验地址： [ https://nihaojob.github.io/vue-fabric-editor/#/](https://nihaojob.github.io/vue-fabric-editor/#/) <br />
+
+同样是一款基于`fabric.js`和`Vue`的图片编辑器，是 Github 上的热门编辑器之一，目前作者已经维护两年了，很用心的项目！其侧重点是插件化，致力于让别的项目能快速接入图片编辑器的功能。另外该项目在国际化方面也做得不错，听说有些外国友人也在使用呢~
+![avatar](/image/blogs/study/buildBlog/vueImg02.png) <br />
+
++ <b>gzm-design</b><br />
+
+Github 开源地址： [https://github.com/LvHuaiSheng/gzm-design](https://github.com/LvHuaiSheng/gzm-design) <br />
+在线预览地址： [http://gzm-design.guozimi.cn/#/editor](http://gzm-design.guozimi.cn/#/editor) <br />
+
+这款编辑器是基于`Leafer` 和`Vue`技术栈的，`PSD`解析则采用了 ag-psd[3] 这个库，解析效果还不错。leaferjs[4] 类似于前面提到的 fabric.js，同样是一套操作 Canvas 的 JS 库，总体都是比较新的，相比于老牌的 fabric.js 优势尚不明朗，不过还是值得体验的~
+![avatar](/image/blogs/study/buildBlog/vueImg03.png) <br />
+
++ <b>fabritor</b><br />
+
+Github 开源地址： [https://github.com/sleepy-zone/fabritor-web](https://github.com/sleepy-zone/fabritor-web) <br />
+在线地址： [https://fabritor.surge.sh/](https://fabritor.surge.sh/) <br />
+
+基于`fabric.js`的图片编辑器了，作者表示虽然类似的编辑器已经很卷了，但基本都是`Vue`开发的，于是他采用了`React + Antd`的组合，这也是今天唯一介绍到的 React 技术栈项目，该编辑器目前开发时间尚短，所以功能看起来比较少，期待后续的更新~
+![avatar](/image/blogs/study/buildBlog/vueImg04.png) <br />
+
++ <b>poster-design</b><br />
+
+Github 开源地址： [https://github.com/palxiao/poster-design](https://github.com/palxiao/poster-design) <br />
+在线地址： [https://design.palxp.cn/](https://design.palxp.cn/) <br />
+
+以上提到的编辑器均是基于 Canvas 渲染和出图的，而接下来介绍的这个项目则是完全利用 HTML 能力实现的前端画布编辑，出图基于后端无头浏览器，由本人耗时两年开发，半年前正式开源，在之前的文章里都有介绍过，这里就不多说啦。核心编辑器与 Node.js 后端渲染服务均开源，在线官网「迅排设计」所有功能完全免费使用，近期也上线了免费的在线 AIGC 功能，欢迎体验。设计器持续更新迭代中，未来将致力于做最酷的开源在线海报图片设计器~
+![avatar](/image/blogs/study/buildBlog/vueImg05.png) <br />
+
+### 20. 截图美化工具
+地址：[https://www.photor.fun/](https://www.photor.fun/)
+![avatar](/image/blogs/study/buildBlog/jt01.png)
