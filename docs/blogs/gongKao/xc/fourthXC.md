@@ -318,8 +318,15 @@
 :::
 
 #### 拓展知识
-<font color=blue>两矛盾关系比大小 —— 大大则大（<b>只适用于两矛盾关系</b>）</font>
+##### 1. <font color=blue>两矛盾关系比大小 —— 大大则大（<b>只适用于两矛盾关系</b>）</font><br />
 <img src="/image/blogs/study/gongKao/xc04/ddzd.png" />
+
+##### 2. <font color=blue>对等信息排除法</font>
+<b>对等信息就是说针某个结论对于A、B等两个对象，都适用，即<font color=red>对你适用的结论我也能用</font></b>
+<img src="/image/blogs/study/gongKao/xc04/ddxx01.png" />
+<img src="/image/blogs/study/gongKao/xc04/ddxx02.png" />
+
+<br />
 
 #### 日常结论
 <span style="background:#000; color:#fff;"><b>&nbsp;题型特征&nbsp;</b></span><br />

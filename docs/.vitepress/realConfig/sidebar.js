@@ -72,6 +72,7 @@ export const sidebar = {
                             text: '常识', collapsed: true, collapsible: true,
                             items: [
                                 { text: '第一章 历史文化', link: '/blogs/gongKao/xc/changshi01' },
+                                { text: '第二章 自然科技', link: '/blogs/gongKao/xc/changshi02' },
                             ]
                         }
                     ]
