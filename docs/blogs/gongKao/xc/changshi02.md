@@ -334,4 +334,149 @@ F_浮是指物体所受的浮力；G_物 是指物体自身重力
 ## 专题4、医学知识
 
 ### 一、人体九大系统
+<br />
 
+#### 1. <font color=red>运动系统</font>
+由<font color=blue>骨、骨连结和骨骼肌</font>三种器官组成；<br />
+常见疾病：骨质疏松、关节炎、肌萎缩等
++ 人体最硬的骨头：<font color=red>颅骨</font>
++ 人体最硬的部分：<font color=red>牙齿</font>
++ 人体最大的骨头：<font color=red>股骨头</font>
++ 人体最小的骨头：<font color=red>听小骨</font>
++ 人体肌肉包括：<font color=red>骨骼肌、心肌、平滑肌</font>
+
+#### 2. <font color=red>消化系统</font>
+由<b>消化道和消化腺</b>两大部分组成：
+1. 消化道包括口腔、咽、食道、胃、小肠（十二指肠、空肠、回肠）和大肠（盲肠、阑尾、结肠、直肠、肛管）等部分
+2. 人体共有5个消化腺：<b>唾液腺、胃腺、肝脏、胰腺、肠腺</b><br />
+常见疾病 ：肝胆疾病（胆结石、脂肪肝、肝硬化、肝炎）、痔疮、腹泻、慢性肠胃炎、消化道溃疡等
+
+#### 3. <font color=red>呼吸系统</font>
+由呼吸道、肺部毛细血管、肺和呼吸肌组成<br />
+常见疾病：肺部疾病、支气管痉挛、感冒等
+<img src="/image/blogs/study/gongKao/ch01/hxxt.png" />
+
+#### 4. <font color=red>免疫系统</font>
+免疫器官、免疫细胞 、免疫活性物质<br />
+人体最大的免疫器官：<font color=blue>脾脏</font>
+
+#### 5. <font color=red>循环系统</font>
+生物体的细胞外液、心血管系统<br />
+人体最大的器官：<font color=blue>皮肤</font><br />
+人体最大内脏器官：<font color=blue>肝脏</font>
+
+#### 6. <font color=red>泌尿系统</font>
+由肾、输尿管、膀胱和尿道组成
+
+#### 7. <font color=red>生殖系统</font>
+
+#### 8. <font color=red>神经系统</font>
+由脑、脊髓以及附于脑脊髓的周围神经组织组成<br />
+常见疾病：智商低下、神经衰弱、癫痫病、多动症、老年性痴呆等
+
+#### 9. <font color=red>内分泌系统</font>
+常见疾病：糖尿病、甲状腺疾病等
+
+#### <font color=red>【拓展知识】</font>
++ <b>五脏</b>：<font color=blue>心、肝、脾、肺、肾</font>
++ <b>六腑</b>：<font color=blue>胃、胆囊、膀胱、大肠、小肠、三焦</font>
++ <b>五味</b>：<font color=blue>酸、甘、苦、辛、咸</font><br />
+<b><font color=red>酸的对肝好</font>、<font color=blue>苦的对心好</font>、<font color=red>甘的对脾好</font>、<font color=blue>辛的对肺好</font>，<font color=red>咸的对肾好</font></b>
+
+### 二、营养
+<br />
+
+#### 1. 三大产能营养素
+蛋白质、脂质、糖类
+
+#### 2. 矿物质
+<b>矿物质是人体内无机物的总称</b>。约20种元素为人体营养所必需，根据人体含量多少分为<font color=blue>常量元素与微量元素</font>。<br />
+
+`常量元素：`钙、镁、钾、钠、硫、磷、氯7种<br />
+`微量元素：`铁、铜、锌、钴、钼、碘、铬、硒等
+
+#### 3. 维生素
+:::info <font color=blue>【维生素A】</font>
+`介绍`：<b>抗干眼病维生素，<font color=red>脂溶性</font></b>。多存在于动物肝脏、蛋类、乳制品、胡萝卜等食物中<br />
+`缺乏的危害`：<font color=red>夜盲症</font>
+:::
+:::info <font color=blue>【维生素B₁】</font>
+`介绍`：硫胺素，又称<b>抗脚气病因子、抗神经炎因子等，<font color=red>水溶性</font></b><br />
+`缺乏的危害`：<font color=red>脚气病</font>
+:::
+:::info <font color=blue>【维生素B₂】</font>
+`介绍`：核黄素，<font color=red>水溶性</font><br />
+`缺乏的危害`：<font color=red>口舌炎症（口腔溃疡）</font>
+:::
+:::info <font color=blue>【维生素C】</font>
+`介绍`：<b>抗坏血酸，<font color=red>水溶性。</font></b>多存在于新鲜蔬菜、水果中<br />
+`缺乏的危害`：<font color=red>坏血病</font>
+:::
+:::info <font color=blue>【维生素D】</font>
+`介绍`：钙化醇，亦称<b>骨化醇、抗佝偻病维生素，<font color=red>脂溶性</font></b>。人体可以自己合成维生素D<br />
+`缺乏的危害`：<font color=red>佝偻病、骨质软化症</font>
+:::
+:::info <font color=blue>【维生素E】</font>
+`介绍`：<b>生育酚，<font color=red>脂溶性</font></b>。维生素E是人体内优良的抗氧化剂<br />
+`缺乏的危害`：<font color=red>男女都不能生育；严重者会患肌肉萎缩症、神经麻木症等</font>
+:::
+:::info <font color=blue>【维生素K】</font>
+`介绍`：又称<b>凝血维生素，<font color=red>脂溶性</font></b>。人的肠道中有一种细菌会为人体制造维生素K。维生素K具有促进凝血功能<br />
+`缺乏的危害`：<font color=red>凝血时间延长</font>，严重者会流血不止，甚至死亡
+:::
+:::info <font color=blue>【叶酸】</font>
+`介绍`：<b><font color=red>水溶性</font></b><br />
+`缺乏的危害`：<font color=red>贫血</font>
+:::
+
+## 专题5、中国古代科学成就
+
+### 一、中医
+:::info 名医名著
++ <b><font color=red>扁鹊</font>（“脉学介导者”）</b>，<b>春秋战国</b>时期名医；奠定中医学切脉诊断方法。<font color=blue>望闻问切</font>
++ <b><font color=red>华佗</font>（“外科鼻祖”）</b>，<b>东汉末年</b>，主要成就：<font color=blue>发明麻沸散、五禽戏（虎、鹿、熊、猿、鸟）</font> 
++ <b><font color=red>张仲景</font>（“医圣”），东汉末年</b>，<font color=blue>《伤寒杂病论》</font>，中国第一部从理论到实践的医学专著
++ <b><font color=red>董奉</font>，东汉末年</b>，<font color=blue>杏林</font>
++ <b><font color=red>孙思邈</font>（“药王”）</b>，《千金方》是对唐代以前医药学成就的系统总结，被誉为我国最早的一部临床百科全书
++ <b><font color=red>李时珍</font>（“药圣”），明代</b>，《本草纲目》
++ <b><font color=red>宋慈</font>（“法医学鼻祖”）</b>，南宋著名法医学家，著《洗冤集录》
++ <b><font color=red>钱乙</font>（“儿科之圣”）</b>，宋代著名的儿科医家
++ <b><font color=red>葛洪</font>（“预防医学的介导者”）</b>，东晋道教学者、著名炼丹家、医药学家，著<font color=blue>《肘后方》</font>，全世界最早有关天花的记载
+:::
+:::info 传统医学四大经典著作：
++ <font color=red>《黄帝内经》</font>，作者非黄帝，最早的中医专著，战国至西汉。
++ <font color=red>《伤寒杂病论》</font>，东汉医圣张仲景，
++ <font color=red>《神农本草经》</font>最早的药学专著，
++ <font color=red>《难经》</font>，对黄帝内经中的疑难问题，做出解释。
+:::
+
+`治疗手段`：针灸、四诊（望、闻、问 、切）
+
+### 二、中国古代科学专著
++ <b>北魏</b>贾思勰，<b>《齐民要术》</b>，“中国古代农业百科全书”
++ <b>明朝</b>宋应星，<b>《天工开物》</b>，“中国17世纪的工艺百科全书”
+
+### 三、四大发明
++ <b>造纸术</b>（东汉蔡伦）（<font color=red>西汉就有了纸</font>，东汉蔡伦改进了造纸术）、
++ <b>印刷术（宋代毕昇）</b>（隋朝，雕版印刷术；<b>唐代雕版刻印的《金刚经》</b>，世界最早印有日期的印刷品）、
++ <b>火药</b>（唐朝末年，用于军事）、
++ <b>指南针（最早的指南仪器——战国时期：司南。宋代时，指南针在航海业中发挥作用）</b>
+
+## 专题6、生活小知识
+:::info 交通知识
++ 我国<b>第一辆磁悬浮列车（<font color=red>购自德国</font>）</b>于2003年1月开始在上海磁悬浮线运行。
++ 飞机“黑匣子” —— <b>飞行数据记录仪。</b>
+:::
+:::info 我国重要卫星
++ <font color=blue>东方红一号</font> —— 我国第一颗人造地球卫星
++ <font color=blue>“风云”</font>系列  —— 为气象卫星，主要用于天气预测、环境检测等
++ <font color=blue>北斗系统</font> ——  我国卫星导航系统
++ <font color=blue>三大化石燃料</font> —— 煤、石油、天然气
+:::
+
+## 专题7、三大科技革命
+<b>第一次科技革命（工业革命），18世纪60年代至19世纪中期，—— <font color=red>“蒸汽时代”</font></b>，以蒸汽机作为动力被广泛使用。<b>珍妮纺织机</b>（工作机的诞生）—— 标志着进入工业革命。<br />
+
+<b>第二次科技革命 ，19世纪70年代至20世纪初，——<font color=red>“电气时代”</font></b><br />
+
+<b>第三次科技革命</b>，——  以原子能、电子计算机、空间技术和生物工程的发明与应用为主要标志
