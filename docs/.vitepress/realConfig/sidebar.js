@@ -73,6 +73,9 @@ export const sidebar = {
                             items: [
                                 { text: '第一章 历史文化', link: '/blogs/gongKao/xc/changshi01' },
                                 { text: '第二章 自然科技', link: '/blogs/gongKao/xc/changshi02' },
+                                { text: '第三章 法律', link: '/blogs/gongKao/xc/changshi03' },
+                                { text: '第四章 政治经济', link: '/blogs/gongKao/xc/changshi04' },
+                                { text: '第五章 地理环境', link: '/blogs/gongKao/xc/changshi05' },
                             ]
                         }
                     ]
