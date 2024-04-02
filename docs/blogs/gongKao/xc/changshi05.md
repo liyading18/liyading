@@ -245,3 +245,26 @@
 2. <b>上上西西，下下东东。（<font color=red>上半月上半夜出现在西半天空月面朝西，下半月下半夜出现在东半天空月面朝东</font>）</b>
 3. <b>月食</b>：地球运行到太阳与月球之间，只可能发生<font color=red>农历十五前后</font>，即“望日”；<b>不能形成环食</b>。
 :::
+
+#### 自转公转与四季交替
+:::info 【自转与昼夜交替】
+<b>地球自转</b>：绕地轴<font color=blue>自西向东</font>转动，<b>从北极点看呈<font color=red>逆时针</font>旋转，从南极点看呈<font color=red>顺时针</font>旋转</b>。<br />
+自转一周的时间是<font color=red>23小时56分4秒，“坐地日行八万里”</font><br />
++ 东西半球发生<font color=red>昼夜更替</font>（<u>地球不自转也有昼夜交替，周期变为1年</u>）
++ 同一纬度的不同地点出现<font color=red>时差</font>
++ <font color=red>地转偏向力</font>（<u>南左北右赤道无，纬度越高越显著</u>）
+<img src="/image/blogs/study/gongKao/ch01/pxl.png" />
+:::
+:::info 【自转公转与四季更替】
+<b>原则：东+，西-</b><br />
+`例子🌰`：东八区现在8点，东九区就是9点，东七区就是7点<br />
+<hr />
+
++ <b>中央时区</b>：<font color=red>英国伦敦</font>
++ <b>东八区</b>：<font color=red>北京，菲马尼拉</font>
++ <b>东九区</b>：<font color=red>日本东京</font>
++ <b>东十区</b>：<font color=red>俄罗斯海参崴，澳大利亚墨尔本</font>
++ <b>东十二区</b>：<font color=red>新西兰惠灵顿</font>
++ <b>西三区</b>：<font color=red>巴西利亚，布宜诺斯艾利斯</font>
++ <b>西五区</b>，<font color=red>美国纽约，华盛顿</font>
+:::
