@@ -184,3 +184,8 @@ Github 开源地址： [https://github.com/palxiao/poster-design](https://github
 ### 20. 截图美化工具
 地址：[https://www.photor.fun/](https://www.photor.fun/)
 ![avatar](/image/blogs/study/buildBlog/jt01.png)
+
+### 21.【推荐】JS 框架语法和功能特性快速对比 网站
+[英文版本](https://component-party.dev/)<br />
+[中文版本](https://component-party.lainbo.com/)
+![avatar](/image/blogs/study/buildBlog/jsDB.png)
