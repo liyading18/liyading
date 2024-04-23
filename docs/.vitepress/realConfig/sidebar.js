@@ -76,6 +76,13 @@ export const sidebar = {
                                 { text: '第三章 法律', link: '/blogs/gongKao/xc/changshi03' },
                                 { text: '第四章 政治经济', link: '/blogs/gongKao/xc/changshi04' },
                                 { text: '第五章 地理环境', link: '/blogs/gongKao/xc/changshi05' },
+                                { text: '常识拓展', link: '/blogs/gongKao/xc/changshi06' },
+                            ]
+                        },
+                        {
+                            text: '言语理解与表达', collapsed: true, collapsible: true,
+                            items: [
+                                { text: '第一章 片段阅读', link: '/blogs/gongKao/xc/yylj01' }
                             ]
                         }
                     ]
