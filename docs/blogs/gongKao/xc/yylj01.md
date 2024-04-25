@@ -115,3 +115,120 @@
 = 好好学习是成功上岸的【前提】。<br />
 可见，必要条件往往是做事的方式方法，即对策。
 :::
+:::tip 思维总结
+**<span style="background:black;color:#fff">&nbsp;&nbsp;对策行文脉络：</span>**<br />
+1. 提出问题 —— 分析问题——**解决问题**”
+2. “提出问题——**解决问题**——解释说明”
+    + 答案内容：“解决问题”（多数情况下）。
+    + 当**正确的问题表述和对策表述同时出现时，<font color=red>优先对策表述</font>**。
+    + 当对策无效时，选择正确的问题表述。
+3. **保证对策的有效性和针对性：** 选项中解决问题的对策确保能够搞定文段提出的问题，否则没有任何意义，可果断排除！<br />
+
+**<span style="background:black;color:#fff">&nbsp;&nbsp;问题标志词：</span>** 挑战、瓶颈、软肋、难题、不足、风险等（不好、负面、消极方面的词语）
+:::
+:::details 【案例辅助解析】
+文段：雾霾很严重 —— 提出问题<br />
+A. 应治理雾霾 —— 解决问题<br />
+B. 应该多洒水 —— 对策无效<br />
+C. 雾霾很严重 —— 问题表述<br />
+针对文段提出的问题“雾霾”，**A项“治理雾霾”为解决问题，当选**。B项“多洒水”显然对治理雾霾并无实际效果，因而属于无效对策，果断排除。**当A、C两项同时出现时，优选A项。如无A项，则必选择C项**。
+:::
+
+#### 【拓展技巧】识别不明确选项
+<font color=red>先保证正确，再考虑明确</font><br />
+<font color=red>若A可以回答B，则A更明确</font>
+:::details 案例分析-识别不明确选项
+<img src="/image/blogs/study/gongKao/yylj/yylj04.png" />
+:::
+:::tip 思维总结
+**<span style="background:black;color:#fff">&nbsp;&nbsp;反面论证：</span>**<br />
+1. **典型格式：<font color=red>如果、一旦、倘若……+不好的结果，除非……否则</font>**
+2. **使用方法：将【<font color=red>如果/倘若</font>】之后的内容反过来，即为正确的做法。**
+    + **有【<font color=red>否则</font>】的句子，直接看【否则】之前。**
+:::
+:::details 案例分析
+【<u>如果</u>】你不好好刷题，就【没法上岸，只能在谷底惆怅】（不好的结果）。<br />
+【<u>除非</u>】你好好刷题，否则你就【没法上岸，只能在谷底惆怅】（不好的结果）。<br />
+**二者均可得出对策 —— 好好刷题。**
+:::
+
+#### 常见错误选项的特征：
+1. <font color=blue>假设变成现实的表述</font>
+2. <font color=blue>反面论证中的结果</font>
+:::details 案例分析：常见错误选项
+例：如果你不认真做题，那么就会做错<br />
+A. 你要认真做题    ✅<br />
+B. 你已经认真做题了  ❌<br />
+C. 你会做错      ❌
+:::
+
+#### 4. 并列关系
+**<span style="background:black;color:#fff">&nbsp;&nbsp;理论重点：</span><font color=red>全面概括</font>**<br />
+文段没有侧重点。手心手背都是肉，需要全面概括，不得有所偏向。<br />
+**<span style="background:black;color:#fff">&nbsp;&nbsp;文段特征：</span>**<br />
+1. 包含并列关联词，如<font color=red>“此外”“同时”“另外”“以及”“；”</font>
+2. 句式相同或相近。
+3. 按照时间顺序展开
+
+**<span style="background:black;color:#fff">&nbsp;&nbsp;错误选项特征：</span>表述片面**<br />
+
+#### 时间顺序展开的并列 vs 古今对比
++ <font color=blue>时间顺序展开的并列：至少三个方面且无其他关联词引导</font><br />
+夏朝……；商朝……；秦朝……；东汉……<br />
+早期……此后……如今……<br />
+第一次……第二次……第三次……第四次
++ <font color=blue>古今对比：两个方面，且有转折/程度词表强调</font><br />
+过去……现在则是……<br />
+以往……但是今天……
+
+### 二、重点词语之主题词
+`定义：`文段围绕的**核心话题**，文段围绕其展开<br />
+
+**<span style="background:black;color:#fff">&nbsp;&nbsp;判断方法：</span>中心句 + 主题词**<br />
+1. 中心句围绕的核心话题，一般前有引入或后有解释说明
+2. 每句话都围绕的相同话题
+
+**<span style="background:black;color:#fff">&nbsp;&nbsp;理论重点：</span><font color=red>正确答案需包含文段主题词</font>**<br />
+:::details 案例方法：使用反推
+<img src="/image/blogs/study/gongKao/yylj/yylj05.png" />
+:::
+
+### 三、重点词语之程度词
+程度词所在的语句通常为文段重点，特别是程度词引导的名词往往是文段主题词。
+:::info 标志词：
+1. **<font color=blue>典型程度词：</font>更、最、尤其是、根本、正是、真正等。**
+2. **<font color=blue>非典型程度词：</font>致命、无疑是、罪魁祸首、首要方式、深为……倾倒、堪比、极具特色等。**
+:::
+**<span style="background:black;color:#fff">&nbsp;&nbsp;理论要点：</span>程度词可提示重点位置**<br />
+:::details 案例分析
+言语理解与表达是行测中的一个模块，其中片段阅读是【最核心】、【最基础】的题型。<br />
+通过程度词【最核心】、【最基础】可知，“片段阅读”为强调的重点。
+:::
+
+### 四、中心理解题<font color=red>中心句及分述句</font>的特征
+**<span style="background:black;color:#fff">&nbsp;&nbsp;理论要点：</span>** 把握中心句及分述句的特点<br />
+:::info 中心距特征：
+**形式：** 重点词提示<br />
+**内容：** 观点（结论、对策、评论）
+:::
+
+#### 知识链接：<font color=blue>分总</font>
+1. 结论、对策
+2. 代词（“这”、“此”）引导的尾句需关注
+
+**<span style="background:black;color:#fff">&nbsp;&nbsp;标志词：</span>对此/有鉴于此/尽管如此/在这个意义上/从这个角度来说/总之/简而言之/换句话说**<br />
+
+#### 细节判断题
+:::info 提问方式：
++ 以下对文段理解正确/不正确的是”
++ “符合/不符合这段话意思的是”
++ “从文段中可以得知/推出的是”等
+:::
+:::tip 快速解题技巧：
+1. **对比项**<br />
+标志词：A比B更……、A高于/优于B、利大于弊<br />
+
+例：小明自认为腿长，老刚腿特长<br />
+小明比老刚的腿更长 **【无关对比】**
+:::
+
