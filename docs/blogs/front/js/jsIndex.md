@@ -176,3 +176,45 @@ console.log(Reflect.ownKeys(obj4).length === 0)  // true
 
 ### 总结
 判断一个对象是否为空时，使用`Reflect.ownKeys`方法最为完美
+
+## 数组去重方法
+
+### 使用原生`JavaScript`方法
+<br />
+
+#### 1. `filter()` 方法配合 `indexOf()`
+**该方法只适用于简单数据类型（基础数据类型）**
+```js
+const array = [1, 1, 2, 3, 4]
+const uniqueArray = array.filter((item, index, self) => {
+  return self.indexOf(item) === index;
+});
+
+console.log(uniqueArray)  // [1, 2, 3, 4]
+```
+该方法利用` filter() `遍历数组，对于每个元素，通过 `indexOf()` 查找其在原数组中的第一个索引。如果当前元素的索引与正在遍历的索引相同，说明这是该元素在数组中的首次出现，保留该元素；否则，忽略该元素。<br /><font color=red>filter 的 第三个参数 self 代表数组本身</font>。
+
+#### 2. `reduce()` 方法
+**该方法只适用于简单数据类型（基础数据类型）**
+```js
+const array = [1,1,1,2,3,4]
+const uniqueArray = array.reduce((acc, current) => {
+  return acc.includes(current) ? acc : [...acc, current];
+}, []);
+
+console.log(uniqueArray)  // [1, 2, 3, 4]
+```
+这里使用 `reduce() `函数将数组累积到一个新的数组（`acc`）中。在每次迭代中，检查当前元素是否已存在于累积数组中。若不存在，则将其添加至累积数组；否则，跳过该元素。
+
+### 利用 `ES6` 新特性
+<br />
+
+#### 1. 使用扩展运算符与解构赋值
+**该方法只适用于简单数据类型（基础数据类型）**
+```js
+const array = [1, 1, 2, 3, 4]
+const uniqueArray = [...new Set(array)];
+
+console.log(uniqueArray)  // [1, 2, 3, 4]
+```
+这种方法简洁高效，利用 ES6 的 `Set` 数据结构自动去除重复元素的特性，再通过扩展运算符将 `Set` 转换回数组。`Set` 是一种特殊的集合，不允许重复元素存在，因此插入过程会自动过滤重复项。

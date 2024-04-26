@@ -38,7 +38,8 @@ export const sidebar = {
                 {
                     text: 'js', collapsible: true, collapsed: true,
                     items: [
-                        { text: '基础方法', link: '/blogs/front/js/jsIndex' }
+                        { text: '基础方法', link: '/blogs/front/js/jsIndex' },
+                        { text: '数组去重', link: '/blogs/front/js/jsArray' },
                     ]
                 },
                 
@@ -88,6 +89,16 @@ export const sidebar = {
                                 { text: '常识拓展二', link: '/blogs/gongKao/xc/changshi07' },
                             ]
                         },
+                    ]
+                },
+                {
+                    text: '申论',
+                    items: [
+                        { text: '单一题', link: '/blogs/gongKao/sl/shenl01' },
+                        { text: '综合题', link: '/blogs/gongKao/sl/shenl02' },
+                        { text: '公文题', link: '/blogs/gongKao/sl/shenl03' },
+                        { text: '大作文', link: '/blogs/gongKao/sl/shenl04' },
+                        { text: '大作文拓展', link: '/blogs/gongKao/sl/shenl05' },
                     ]
                 }
             ]
