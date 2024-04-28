@@ -89,6 +89,7 @@ export const sidebar = {
                                 { text: '常识拓展二', link: '/blogs/gongKao/xc/changshi07' },
                             ]
                         },
+                        { text: '行测拓展积累', link: '/blogs/gongKao/xc/xcTZ01' }
                     ]
                 },
                 {

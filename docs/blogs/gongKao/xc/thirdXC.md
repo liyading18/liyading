@@ -282,7 +282,7 @@ D项：“朱古力”就是“巧克力”，二者属于<b>全同关系</b>，
         <td>因果</td>
         <td>
             <font color=red>原因：人工/自然</font><br />
-            <font color=red>原因：人工/自然</font>
+            <font color=red>结果：积极/消极</font>
         </td>
     </tr>
 </table>
