@@ -67,12 +67,12 @@ github: [https://github.com/MathewSachin/Captura](https://github.com/MathewSachi
 + #### ProcessOn
 地址: [https://www.processon.com/](https://www.processon.com/)
 ![avatar](/image/blogs/study/buildBlog/processOn.png)
-+ #### draw.io
+<!-- + #### draw.io
 地址: [https://app.diagrams.net/](https://app.diagrams.net/)
 ![avatar](/image/blogs/study/buildBlog/drawio.png)
 + #### 在线思维导图
 地址: [http://www.mindline.cn/webapp](http://www.mindline.cn/webapp)
-![avatar](/image/blogs/study/buildBlog/mind.png)
+![avatar](/image/blogs/study/buildBlog/mind.png) -->
 
 
 ### 14. 免费 logo 在线制作
