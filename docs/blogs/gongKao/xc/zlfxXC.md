@@ -202,7 +202,7 @@ A是B的1.7倍，则A比B增长70%
 ![增长率百化分之取中法](/image/blogs/study/gongKao/zlfx/zlfx40.png)
 ![增长率百化分之取中法](/image/blogs/study/gongKao/zlfx/zlfx41.png)
 
-#### 增长率百分分之倒数法
+#### 增长率百化分之倒数法
 <img src="/image/blogs/study/gongKao/zlfx/zlfx42.png" style="width:600px;" />
 
 #### 增长率百化分之公式法
